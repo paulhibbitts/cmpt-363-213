@@ -7,7 +7,7 @@
 
 ## :fas fa-calendar fa-fw: [Week 2 (Sep 13 - 19)](week-02)
 **What is usability and user experience design?**  
-:fas fa-users fa-fw: Form Student Groups (4 members per group required) <span class='badge'> [TBD](#)</span> 
+:fas fa-users fa-fw: [Form Student Groups](https://canvas.sfu.ca/courses/64326/users) (4 members per group required) <span class='badge'> [TBD](#)</span>  
 :fas fa-desktop fa-fw: Mini-lectures and Activities <span class='badge'> [Tue Sep 14 2:30pm PT](#)</span>  
 :fas fa-desktop fa-fw: Review and Discussion <span class='badge'> [Thu Sep 16 2:30pm PT](#)</span>  
 :fas fa-book fa-fw: [Defining usability (7 minute read)](https://blog.prototypr.io/defining-usability-e7bf42e8abd0)  
@@ -18,7 +18,7 @@
 
 ## :fas fa-calendar fa-fw: [Week 3 (Sep 20 - 26)](week-03)
 **What is the practice of multi-device interaction design?**  
-:fas fa-comments fa-fw: Group Project Proposal <span class='badge'> [TBD](#)</span>  
+:fas fa-comments fa-fw: [Group Project Proposal](https://canvas.sfu.ca/courses/64326/discussion_topics/1316138) <span class='badge'> [TBD](#)</span>  
 :fas fa-desktop fa-fw: Mini-lectures and Activities <span class='badge'> [Tue Sep 21 2:30pm PT](#)</span>  
 :fas fa-desktop fa-fw: Review and Discussion <span class='badge'> [Thu Sep 23 2:30pm PT](#)</span>  
 :fas fa-book fa-fw: [Interaction design: a guide for beginners (19 minute read)](https://uxplanet.org/interaction-design-a-guide-for-beginners-32ff2364b53f)  
