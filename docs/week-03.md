@@ -22,7 +22,7 @@
 <div class="video-container-16by9"><iframe src="https://docs.google.com/presentation/d/e/2PACX-1vRdfDDdBLFcwOJ4qUNWlGzyffy8qmRVZ32nsNwjT_Y2RjaBiFskNiVZKyTEWODwQqU1A1G85HAG9PaL/embed?start=false&loop=false&delayms=3000" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe><</div>
 
 ## Downloads
-[One-Page Touch Interaction Design Checklist](https://canvas.sfu.ca/courses/59869/files/folder/Downloads/Touch%20Interaction%20Checklist)  
+[One-Page Touch Interaction Design Checklist](https://canvas.sfu.ca/courses/64326/files/folder/Downloads/Touch%20Interaction%20Checklist)  
 
 ## Supplemental Readings
 
