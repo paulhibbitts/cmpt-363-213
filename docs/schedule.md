@@ -7,6 +7,7 @@
 
 ## :fas fa-calendar fa-fw: [Week 2 (Sep 13 - 19)](week-02)
 **What is usability and user experience design?**  
+:fas fa-users fa-fw: Form Student Groups (4 members per group required) <span class='badge'> [TBD](#)</span> 
 :fas fa-desktop fa-fw: Mini-lectures and Activities <span class='badge'> [Tue Sep 14 2:30pm PT](#)</span>  
 :fas fa-desktop fa-fw: Review and Discussion <span class='badge'> [Thu Sep 16 2:30pm PT](#)</span>  
 :fas fa-book fa-fw: [Defining usability (7 minute read)](https://blog.prototypr.io/defining-usability-e7bf42e8abd0)  
