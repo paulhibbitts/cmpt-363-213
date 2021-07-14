@@ -1,11 +1,11 @@
 # Schedule
 
-## :fas fa-calendar fa-fw: [Week 1 (Sep 8 - 12)](#)
+## :fas fa-calendar fa-fw: [Week 1 (Sep 8 - 12)](https://canvas.sfu.ca/courses/64326/modules/items/2120561)
 **Course overview**  
 :fas fa-desktop fa-fw: Course Overview <span class='badge'> [Thu Sep 9 2:30pm PT](#)</span>  
 :fas fa-book fa-fw: [Course Syllabus](https://canvas.sfu.ca/courses/64326/assignments/syllabus) (suggested reading)  
 
-## :fas fa-calendar fa-fw: [Week 2 (Sep 13 - 19)](#)
+## :fas fa-calendar fa-fw: [Week 2 (Sep 13 - 19)](https://canvas.sfu.ca/courses/64326/modules/items/2120562)
 **What is usability and user experience design?**  
 :fas fa-desktop fa-fw: Mini-lectures and Activities <span class='badge'> [Tue Sep 14 2:30pm PT](#)</span>  
 :fas fa-desktop fa-fw: Review and Discussion <span class='badge'> [Thu Sep 16 2:30pm PT](#)</span>  
@@ -15,7 +15,7 @@
 :fas fa-keyboard fa-fw: [One-minute Summaries for Week 2](#) <span class='badge'> [Wed Sep 15 11:59pm PT](#)</span>   
 :fas fa-image fa-fw: [Weekly Visual Journal Entry for Week 2](#) <span class='badge'> [Fri Sep 17th 11:59pm PT](https://www.timeanddate.com/worldclock/fixedtime.html?msg=CMPT-363+Week+2+Visual+Journal+Entry+Due+Date&iso=20210917T235900)</span>  
 
-## :fas fa-calendar fa-fw: [Week 3 (Sep 20 - 26)](#)
+## :fas fa-calendar fa-fw: [Week 3 (Sep 20 - 26)](https://canvas.sfu.ca/courses/64326/modules/items/2120563)
 **What is the practice of multi-device interaction design?**  
 :fas fa-comments fa-fw: Group Project Proposal <span class='badge'> [TBD](#)</span>  
 :fas fa-desktop fa-fw: Mini-lectures and Activities <span class='badge'> [Tue Sep 21 2:30pm PT](#)</span>  
@@ -26,7 +26,7 @@
 :fas fa-keyboard fa-fw: [One-minute Summaries for Week 3](#) <span class='badge'> [TBD](#)</span>   
 :fas fa-image fa-fw: [Weekly Visual Journal Entry for Week 3](#) <span class='badge'> [TBD](#)</span>  
 
-## :fas fa-calendar fa-fw: [Week 4 (Sep 27 - Oct 3)](#)
+## :fas fa-calendar fa-fw: [Week 4 (Sep 27 - Oct 3)](https://canvas.sfu.ca/courses/64326/modules/items/2120564)
 **How to conduct a user interface inspection?**  
 :fas fa-pen fa-fw: [Individual Heuristic Inspection Assignment](https://canvas.sfu.ca/courses/64326/assignments/662758) <span class='badge'> [TBD](#)</span>  
 :fas fa-desktop fa-fw: Mini-lectures and Activities <span class='badge'> [Tue Sep 28 2:30pm PT](#)</span>   
@@ -36,7 +36,7 @@
 :fas fa-keyboard fa-fw: [One-minute Summaries for Week 4](#) <span class='badge'> [TBD](#)</span>  
 :fas fa-image fa-fw: [Weekly Visual Journal Entry for Week 4](#) <span class='badge'> [TBD](#)</span>  
 
-## :fas fa-calendar fa-fw: [Week 5 (Oct 4 - 10)](#)
+## :fas fa-calendar fa-fw: [Week 5 (Oct 4 - 10)](https://canvas.sfu.ca/courses/64326/modules/items/2120565)
 **Special topic - heuristic evaluations**  
 :fas fa-desktop fa-fw: Mini-lectures and Activities <span class='badge'> [Tue Oct 5 2:30pm PT](#)</span>  
 :fas fa-desktop fa-fw: Review and Discussion <span class='badge'> [Thu Oct 7 2:30pm PT](#)</span>   
@@ -44,7 +44,7 @@
 :fas fa-keyboard fa-fw: [One-minute Summaries for Week 5](#) <span class='badge'> [TBD](#)</span>  
 :fas fa-image fa-fw: [Weekly Visual Journal Entry for Week 5](#) <span class='badge'> [TBD](#)</span>  
 
-## :fas fa-calendar fa-fw: [Week 6 (Oct 11 - 17)](#)
+## :fas fa-calendar fa-fw: [Week 6 (Oct 11 - 17)](https://canvas.sfu.ca/courses/64326/modules/items/2120566)
 **How to understand and communicate people's needs and behaviors?**  
 :fas fa-check fa-fw: [Individual Heuristic Inspection Assignment due](#) <span class='badge'> [TBD](#)</span>  
 :fas fa-pen fa-fw: [Group User Research Assignment](https://canvas.sfu.ca/courses/64326/assignments/662762) <span class='badge'> [TBD](#)</span>  
@@ -57,7 +57,7 @@
 :fas fa-keyboard fa-fw: [One-minute Summaries for Week 6](#) <span class='badge'> [TBD](#)</span>  
 :fas fa-image fa-fw: [Weekly Visual Journal Entry for Week 6](#) <span class='badge'> [TBD](#)</span>  
 
-## :fas fa-calendar fa-fw: [Week 7 (Oct 18 - 24)](week-07)
+## :fas fa-calendar fa-fw: [Week 7 (Oct 18 - 24)](https://canvas.sfu.ca/courses/64326/modules/items/2120567)
 **Instructor user research plan group meetings**   
 :fas fa-book fa-fw: [Remote User Testing and Usability Testing: How to Conduct Research from Anywhere in the World (12 minute read)](https://www.userinterviews.com/blog/remote-usability-testing-and-user-testing)  
 :fas fa-book fa-fw: [User Interviews: How, When, and Why to Conduct Them (13 minute read)](https://www.nngroup.com/articles/user-interviews/)  
@@ -65,7 +65,7 @@
 :fas fa-keyboard fa-fw: [One-minute Summaries for Week 7](#) <span class='badge'> [TBD](#)</span>  
 :fas fa-image fa-fw: No visual journal entry
 
-## :fas fa-calendar fa-fw: [Week 8 (Oct 25 - 31)](#)
+## :fas fa-calendar fa-fw: [Week 8 (Oct 25 - 31)](https://canvas.sfu.ca/courses/64326/modules/items/2120568)
 **How to bridge the gap between the problem space and design space?**  
 :fas fa-desktop fa-fw: Mini-lectures and Activities <span class='badge'> [Tue Oct 26 2:30pm PT](#)</span>  
 :fas fa-desktop fa-fw: Review and Discussion <span class='badge'> [Thu Oct 28 2:30pm PT](#)</span>  
@@ -75,7 +75,7 @@
 :fas fa-keyboard fa-fw: [One-minute Summaries for Week 8](#) <span class='badge'>[TBD](#)</span>  
 :fas fa-image fa-fw: [Weekly Visual Journal Entry for Week 8](#) <span class='badge'> [TBD](#)</span>  
 
-## :fas fa-calendar fa-fw: [Week 9 (Nov 1 - 7)](#)
+## :fas fa-calendar fa-fw: [Week 9 (Nov 1 - 7)](https://canvas.sfu.ca/courses/64326/modules/items/2120569)
 **How to explore and describe possible design solutions?**       
 :fas fa-check fa-fw: [Group User Research Assignment due](#) <span class='badge'> [TBD](#)</span>  
 :fas fa-pen fa-fw: [Group Usability Tested Mockups Assignment](https://canvas.sfu.ca/courses/64326/assignments/662760) <span class='badge'> [TBD](#)</span>  
@@ -87,7 +87,7 @@
 :fas fa-keyboard fa-fw: [One-minute Summaries for Week 9](#) <span class='badge'> [TBD](#)</span>    
 :fas fa-image fa-fw: [Weekly Visual Journal Entry for Week 9](#) <span class='badge'> [TBD](#)</span>  
 
-## :fas fa-calendar fa-fw: [Week 10 (Nov 8 - 14)](#)
+## :fas fa-calendar fa-fw: [Week 10 (Nov 8 - 14)](https://canvas.sfu.ca/courses/64326/modules/items/2120570)
 **How to plan, conduct, and summarize usability tests?**  
 :fas fa-desktop fa-fw: Mini-lectures and Activities <span class='badge'> [Tue Nov 9 2:30pm PT](#)</span>  
 :fas fa-desktop fa-fw: Review and Discussion <span class='badge'> [Thu Nov 11 2:30pm PT](#)</span> (Remembrance Day, no class)  
@@ -96,13 +96,13 @@
 :fas fa-keyboard fa-fw: [One-minute Summaries for Week 10](#) <span class='badge'> [TBD](#)</span>  
 :fas fa-image fa-fw: [Weekly Visual Journal Entry for Week 10](#) <span class='badge'> [TBD](#)</span>  
 
-## :fas fa-calendar fa-fw: [Week 11 (Nov 15 - 21)](#)
+## :fas fa-calendar fa-fw: [Week 11 (Nov 15 - 21)](https://canvas.sfu.ca/courses/64326/modules/items/2120571)
 **Instructor storyboard mockups group meetings**  
 Online instructor meetings (15 mins.), no regularly scheduled Blackboard Collaborate sessions  
 :fas fa-keyboard fa-fw: No required readings or one-minute summaries   
 :fas fa-book fa-fw: [How to Give and Receive Criticism](http://scottberkun.com/essays/35-how-to-give-and-receive-criticism/) (suggested reading)  
 
-## :fas fa-calendar fa-fw: [Week 12 (Nov 22 - 28)](#)
+## :fas fa-calendar fa-fw: [Week 12 (Nov 22 - 28)](https://canvas.sfu.ca/courses/64326/modules/items/2120572)
 **What are the essentials of visual interface design?**  
 :fas fa-check fa-fw: [Group Usability Tested Mockups due](#) <span class='badge'> [TBD](#)</span>    
 :fas fa-pen fa-fw: [Individual Interactive Prototype](https://canvas.sfu.ca/courses/64326/assignments/662759) <span class='badge'> [TBD](#)</span>  
@@ -114,7 +114,7 @@ Online instructor meetings (15 mins.), no regularly scheduled Blackboard Collabo
 :fas fa-keyboard fa-fw: [One-minute Summaries for Week 12](#) <span class='badge'> [TBD](#)</span>  
 :fas fa-image fa-fw: [Weekly Visual Journal Entry for Week 12](#) <span class='badge'> [TBD](#)</span>  
 
-## :fas fa-calendar fa-fw: [Week 13 (Nov 29 - Dec 5)](#)
+## :fas fa-calendar fa-fw: [Week 13 (Nov 29 - Dec 5)](https://canvas.sfu.ca/courses/64326/modules/items/2120573)
 **Special topic - visual interface design**  
 :fas fa-desktop fa-fw: Mini-lectures and Activities <span class='badge'> [Tue Nov 30 2:30pm PT](#)</span>  
 :fas fa-desktop fa-fw: Review and Discussion <span class='badge'> [Thu Dec 2 2:30pm PT](#)</span>  
@@ -123,7 +123,7 @@ Online instructor meetings (15 mins.), no regularly scheduled Blackboard Collabo
 :fas fa-keyboard fa-fw: [One-minute Summaries for Week 13](#) <span class='badge'> [TBD](#)</span>  
 :fas fa-image fa-fw: [Weekly Visual Journal Entry for Week 13](#) <span class='badge'> [TBD](#)</span>  
 
-## :fas fa-calendar fa-fw: [Week 14 (Dec 6 - 12)](#)
+## :fas fa-calendar fa-fw: [Week 14 (Dec 6 - 12)](https://canvas.sfu.ca/courses/64326/modules/items/2120574)
 **Course wrap-up**  
 :fas fa-check fa-fw: [Individual Interactive Prototype due](#) <span class='badge'> [TBD](#)</span>  
 :fas fa-desktop fa-fw: Course Wrap-up <span class='badge'> [Tue Dec 7 2:30pm PT](#)</span>  
