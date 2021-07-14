@@ -3,7 +3,7 @@
 # What are the essentials of visual interface design?
 
 ## Assignments
-[Individual Interactive Prototype](#) <span class='badge'> TBD</span>
+[Individual Interactive Prototype](https://canvas.sfu.ca/courses/64326/assignments/662759) <span class='badge'> TBD</span>
 
 ## One-minute Summaries & Questions
 [5 Principles of Visual Design in UX](#) <span class='badge'> TBD</span>  

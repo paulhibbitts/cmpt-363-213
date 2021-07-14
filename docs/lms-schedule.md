@@ -28,7 +28,7 @@
 
 ## :fas fa-calendar fa-fw: [Week 4 (Sep 27 - Oct 3)](#)
 **How to conduct a user interface inspection?**  
-:fas fa-pen fa-fw: [Individual Heuristic Inspection Assignment](#) <span class='badge'> [TBD](#)</span>  
+:fas fa-pen fa-fw: [Individual Heuristic Inspection Assignment](https://canvas.sfu.ca/courses/64326/assignments/662758) <span class='badge'> [TBD](#)</span>  
 :fas fa-desktop fa-fw: Mini-lectures and Activities <span class='badge'> [Tue Sep 28 2:30pm PT](#)</span>   
 :fas fa-desktop fa-fw: Review and Discussion <span class='badge'> [Thu Sep 30 2:30pm PT](#)</span>   
 :fas fa-book fa-fw: [How to Use Heuristic Evaluations to Improve Product Designs (8 minute read)](https://xd.adobe.com/ideas/process/user-testing/how-to-heuristic-evaluation-analysis-ux-design/)  
@@ -47,7 +47,7 @@
 ## :fas fa-calendar fa-fw: [Week 6 (Oct 11 - 17)](#)
 **How to understand and communicate people's needs and behaviors?**  
 :fas fa-check fa-fw: [Individual Heuristic Inspection Assignment due](#) <span class='badge'> [TBD](#)</span>  
-:fas fa-pen fa-fw: [Group User Research Assignment](#) <span class='badge'> [TBD](#)</span>  
+:fas fa-pen fa-fw: [Group User Research Assignment](https://canvas.sfu.ca/courses/64326/assignments/662762) <span class='badge'> [TBD](#)</span>  
 :fas fa-folder fa-fw: [Team Member Evaluation](#) <span class='badge'> [TBD](#)</span>  
 :fas fa-desktop fa-fw: Mini-lectures and Activities <span class='badge'> [Tue Oct 12 2:30pm PT](#)</span>  
 :fas fa-desktop fa-fw: Review and Discussion <span class='badge'> [Thu Oct 14 2:30pm PT](#)</span>  
@@ -78,7 +78,7 @@
 ## :fas fa-calendar fa-fw: [Week 9 (Nov 1 - 7)](#)
 **How to explore and describe possible design solutions?**       
 :fas fa-check fa-fw: [Group User Research Assignment due](#) <span class='badge'> [TBD](#)</span>  
-:fas fa-pen fa-fw: [Group Usability Tested Mockups Assignment](#) <span class='badge'> [TBD](#)</span>  
+:fas fa-pen fa-fw: [Group Usability Tested Mockups Assignment](https://canvas.sfu.ca/courses/64326/assignments/662760) <span class='badge'> [TBD](#)</span>  
 :fas fa-folder fa-fw: [Team Member Evaluation](#) <span class='badge'> [TBD](#)</span>  
 :fas fa-desktop fa-fw: Mini-lectures and Activities <span class='badge'> [Tue Nov 2 2:30pm PT](#)</span>  
 :fas fa-desktop fa-fw: Review and Discussion <span class='badge'> [Thu Nov 4 2:30pm PT](#)</span>  
@@ -105,7 +105,7 @@ Online instructor meetings (15 mins.), no regularly scheduled Blackboard Collabo
 ## :fas fa-calendar fa-fw: [Week 12 (Nov 22 - 28)](#)
 **What are the essentials of visual interface design?**  
 :fas fa-check fa-fw: [Group Usability Tested Mockups due](#) <span class='badge'> [TBD](#)</span>    
-:fas fa-pen fa-fw: [Individual Interactive Prototype](#) <span class='badge'> [TBD](#)</span>  
+:fas fa-pen fa-fw: [Individual Interactive Prototype](https://canvas.sfu.ca/courses/64326/assignments/662759) <span class='badge'> [TBD](#)</span>  
 :fas fa-desktop fa-fw: Mini-lectures and Activities <span class='badge'> [Tue Nov 23 2:30pm PT](#)</span>  
 :fas fa-desktop fa-fw: Review and Discussion <span class='badge'> [Thu Nov 25 2:30pm PT](#)</span>  
 :fas fa-book fa-fw: [5 Principles of Visual Design in UX (10 minute read)](https://www.nngroup.com/articles/principles-visual-design/)  

@@ -3,7 +3,7 @@
 # How to understand and communicate people's needs and behaviours?
 
 ## Assignments
-[Group User Research](#) <span class='badge'> TBD</span>
+[Group User Research](https://canvas.sfu.ca/courses/64326/assignments/662762) <span class='badge'> TBD</span>
 
 ## One-minute Summaries & Questions
 

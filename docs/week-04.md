@@ -3,7 +3,7 @@
 # How to conduct a user interface inspection?
 
 ## Assignments
-[Individual Heuristic Inspection](#) <span class='badge'> TBD</span>  
+[Individual Heuristic Inspection](https://canvas.sfu.ca/courses/64326/assignments/662758) <span class='badge'> TBD</span>  
 
 ## One-minute Summaries & Questions
 [How to Use Heuristic Evaluations to Improve Product Designs](#) <span class='badge'> TBD</span>  

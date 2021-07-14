@@ -3,7 +3,7 @@
 # How to explore and communicate possible design solutions?
 
 ## Assignments
-[Group Usability Tested Mockups](#) <span class='badge'> TBD</span>  
+[Group Usability Tested Mockups](https://canvas.sfu.ca/courses/64326/assignments/662760) <span class='badge'> TBD</span>  
 
 ## One-minute Summaries & Questions
 [The Right Tool For The Job: Picking The Best Prototyping Software For Your Project](#) <span class='badge'> TBD</span>  
