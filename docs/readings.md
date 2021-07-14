@@ -60,8 +60,8 @@
 
 ## Week 7
 ### Instructor user research plan group meetings
-**Remote User Research: The Time Is Now (1 of 3 for Week 6)**  
-<a class="embedly-card" data-card-controls="0" data-card-align="left" href="https://www.uxmatters.com/mt/archives/2020/06/remote-user-research-the-time-is-now.php">Remote User Research: The Time Is Now</a>
+**How to Run Remote User Research (Like a Boss!) (1 of 3 for Week 6)**  
+<a class="embedly-card" data-card-controls="0" data-card-align="left" href="https://medium.com/mixed-methods/how-to-run-remote-user-research-like-a-boss-b3729954f03">How to Run Remote User Research (Like a Boss!)</a>
 
 **User Interviews: How, When, and Why to Conduct Them (2 of 3 for Week 6)**  
 <a class="embedly-card" data-card-controls="0" data-card-align="left" href="https://www.nngroup.com/articles/user-interviews/">User Interviews: How, When, and Why to Conduct Them</a>

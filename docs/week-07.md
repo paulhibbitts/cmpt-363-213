@@ -8,11 +8,11 @@ No regularly scheduled Blackboard Collaborate sessions.
 Zoom group meetings between 12:00pm and 4:00pm PT on TBD.
 
 ## One-minute Summaries & Questions
-[Remote User Research: The Time Is Now](https://canvas.sfu.ca/courses/64326/assignments/662735) <span class='badge'> [Wed Oct 20 11:59pm PT](https://www.timeanddate.com/worldclock/fixedtime.html?msg=One-minute+Summaries+for+Week+7+Due+Date&iso=20211020T235900&p1=256)</span>  
+[How to Run Remote User Research (Like a Boss!)](https://canvas.sfu.ca/courses/64326/assignments/662735) <span class='badge'> [Wed Oct 20 11:59pm PT](https://www.timeanddate.com/worldclock/fixedtime.html?msg=One-minute+Summaries+for+Week+7+Due+Date&iso=20211020T235900&p1=256)</span>  
 [Asking the right questions during user research, interviews and testing](https://canvas.sfu.ca/courses/64326/assignments/662732) <span class='badge'> [Wed Oct 20 11:59pm PT](https://www.timeanddate.com/worldclock/fixedtime.html?msg=One-minute+Summaries+for+Week+7+Due+Date&iso=20211020T235900&p1=256)</span>  
 [User Research When You Can’t Talk to Your Users](https://canvas.sfu.ca/courses/64326/assignments/662746) <span class='badge'> [Wed Oct 20 11:59pm PT](https://www.timeanddate.com/worldclock/fixedtime.html?msg=One-minute+Summaries+for+Week+7+Due+Date&iso=20211020T235900&p1=256)</span>  
 
 ## Required Readings  
-[Remote User Research: The Time Is Now (10 minute read)](https://www.uxmatters.com/mt/archives/2020/06/remote-user-research-the-time-is-now.php)  
+[How to Run Remote User Research (Like a Boss!) (6 minute read)](https://medium.com/mixed-methods/how-to-run-remote-user-research-like-a-boss-b3729954f03)  
 [Asking the right questions during user research, interviews and testing (16 minute read)](https://uxdesign.cc/asking-the-right-questions-on-user-research-interviews-and-testing-427261742a67)  
 [User Research When You Can’t Talk to Your Users (12 minute read)](https://alistapart.com/article/user-research-when-you-cant-talk-to-your-users/)  
