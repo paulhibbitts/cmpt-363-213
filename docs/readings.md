@@ -59,7 +59,7 @@
 <a class="embedly-card" data-card-controls="0" data-card-align="left" href="https://www.nngroup.com/articles/user-need-statements/">User Need Statements: The ‘Define’ Stage in Design Thinking</a>
 
 ## Week 7
-### Instructor user research plan group meetings
+### Instructor user research plan group meetings / Special topic - conducting user research
 **How to Run Remote User Research (Like a Boss!) (1 of 3 for Week 6)**  
 <a class="embedly-card" data-card-controls="0" data-card-align="left" href="https://medium.com/mixed-methods/how-to-run-remote-user-research-like-a-boss-b3729954f03">How to Run Remote User Research (Like a Boss!)</a>
 
