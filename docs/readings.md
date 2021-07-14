@@ -5,7 +5,7 @@
 * [How to conduct a user interface inspection? (Week 4)](#week-4)
 * [Special topic - heuristic evaluations (Week 5)](#week-5)
 * [How to understand and communicate people's needs and behaviors? (Week 6)](#week-6)
-* [Instructor user research plan group meetings (Week 7)](#week-7)
+* [Instructor user research plan group meetings / Special topic - conducting user research (Week 7)](#week-7)
 * [How to bridge the gap between the problem space and design space? (Week 8)](#week-8)
 * [How to explore and describe possible design solutions? (Week 9)](#week-9)
 * [How to plan, conduct, and summarize usability tests? (Week 10)](#week-10)
