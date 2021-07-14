@@ -1,6 +1,6 @@
 ![Abstract Image](assets/images/dave-hoefler-vl2uAIdBWJ8-unsplash.jpg ':class=banner-image')
 
-# Special topics — visual interface design
+# Special topic — visual interface design
 
 ## One-minute Summaries & Questions
 [10 Principles for Color Usage in UI Design](#) <span class='badge'> TBD</span>  
