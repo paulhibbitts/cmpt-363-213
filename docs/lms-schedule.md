@@ -60,7 +60,7 @@
 
 ## :fas fa-calendar fa-fw: [Week 7 (Oct 18 - 24)](https://canvas.sfu.ca/courses/64326/modules/items/2120567)
 **Instructor user research plan group meetings**   
-:fas fa-book fa-fw: [Remote User Testing and Usability Testing: How to Conduct Research from Anywhere in the World (12 minute read)](https://www.userinterviews.com/blog/remote-usability-testing-and-user-testing)  
+:fas fa-book fa-fw: [Remote User Research: The Time Is Now (10 minute read)](https://www.uxmatters.com/mt/archives/2020/06/remote-user-research-the-time-is-now.php)  
 :fas fa-book fa-fw: [User Interviews: How, When, and Why to Conduct Them (13 minute read)](https://www.nngroup.com/articles/user-interviews/)  
 :fas fa-book fa-fw: [User Research When You Can’t Talk to Your Users (12 minute read)](https://alistapart.com/article/user-research-when-you-cant-talk-to-your-users/)  
 :fas fa-keyboard fa-fw: [One-minute Summaries for Week 7](https://canvas.sfu.ca/courses/64326/discussion_topics) <span class='badge'> [Wed Oct 20 11:59pm PT](https://www.timeanddate.com/worldclock/fixedtime.html?msg=One-minute+Summaries+for+Week+7+Due+Date&iso=20211020T235900&p1=256)</span>  
