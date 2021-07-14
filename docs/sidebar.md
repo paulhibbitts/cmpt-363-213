@@ -1,13 +1,33 @@
 - [Course Welcome](course-welcome)
-- [Week 1 (May 9 - 15)](module-01)
-- [Week 2 (May 16 - 22)](module-02)
-- [Week 3 (May 23 - 29)](module-03)
-- [Week 4 (May 30 - Jun 5)](module-04)
+- [Week 1 (Sep 8 - 12)](week-01)
+- [Week 2 (Sep 13 - 19)](week-02)
+- [Week 3 (Sep 20 - 26)](week-03)
+- [Week 4 (Sep 27 - Oct 3)](week-04)
+- [Week 5 (Oct 4 - 10)](week-05)
+- [Week 6 (Oct 11 - 17)](week-06)
+- [Week 7 (Oct 18 - 24)](week-07)
+- [Week 8 (Oct 25 - 31)](week-08)
+- [Week 9 (Nov 1 - 7)](week-09)
+- [Week 10 (Nov 8 - 14)](week-10)
+- [Week 11 (Nov 15 - 21)](week-11)
+- [Week 12 (Nov 22 - 28)](week-12)
+- [Week 13 (Nov 29 - Dec 5)](week-13)
+- [Week 14 (Dec 6 - 12)](week-14)
 - **LMS Links**
-- [![Calendar](https://icongr.am/fontawesome/calendar.svg?size=16&color=808080) Calendar](https://canvas.sfu.ca/courses/44038/calendar)
-- [![Assignments](https://icongr.am/fontawesome/pencil.svg?size=16&color=808080) Assignments](https://canvas.sfu.ca/courses/44038/assignments )
-- [![Quizzes](https://icongr.am/fontawesome/check-circle.svg?size=16&color=808080) Quizzes](https://canvas.sfu.ca/courses/44038/quizzes)
-- [![Class Discussions](https://icongr.am/fontawesome/comments-o.svg?size=16&color=808080) Class Discussions](https://canvas.sfu.ca/courses/44038/discussion_topics)
-- [![Syllabus](https://icongr.am/fontawesome/list.svg?size=16&color=808080) Syllabus](https://canvas.sfu.ca/courses/44038/assignments/syllabus)
-- **Project Documentation**
-  - [ReadMe](https://github.com/hibbitts-design/docsify-open-course-starter-kit/blob/main/README.md)
+[![Calendar](https://icongr.am/fontawesome/calendar.svg?size=16&color=6D6F71) Calendar](https://canvas.sfu.ca)
+[![Assignments](https://icongr.am/fontawesome/pencil.svg?size=16&color=6D6F71) Assignments](https://canvas.sfu.ca/courses/64326/assignments)
+[![Discussions](https://icongr.am/fontawesome/comments-o.svg?size=16&color=6D6F71) Discussions](https://canvas.sfu.ca/courses/64326/discussion_topics)
+[![Files](https://icongr.am/fontawesome/folder.svg?size=16&color=6D6F71) Files](https://canvas.sfu.ca/courses/64326/files)
+[![Grades](https://icongr.am/fontawesome/calculator.svg?size=16&color=6D6F71) Grades](https://canvas.sfu.ca/courses/64326/gradebook)
+[![Syllabus](https://icongr.am/fontawesome/list.svg?size=16&color=6D6F71) Syllabus](https://canvas.sfu.ca/courses/64326/assignments/syllabus)  
+
+<style>
+  :root {
+
+    --link-color: #A6192E;
+    --link-text-decoration: none;
+    --link-text-decoration--hover: underline;
+
+  }
+
+</style>

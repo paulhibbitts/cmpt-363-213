@@ -2,7 +2,7 @@
 <html lang="en">
 <head>
     <meta charset="UTF-8">
-    <title>Docsify Open Course Starter Kit</title>
+    <title>CMPT 363-213</title>
     <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" />
     <meta name="description" content="Docsify Open Course Starter Kit">
     <meta name="viewport" content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0">
@@ -26,6 +26,10 @@
     <!-- Google Fonts -->
     <link rel="preconnect" href="https://fonts.gstatic.com">
     <link href="https://fonts.googleapis.com/css2?family=Source+Sans+Pro:ital,wght@0,400;0,600;0,700;1,400;1,600;1,700&display=swap" rel="stylesheet">
+
+    <!-- Safari 15 Theme Color -->
+    <meta name="theme-color" content="#A6192E">
+    <meta name="color-scheme" content="light dark">
 
     <style>
       :root {
@@ -61,8 +65,8 @@
 
         --sidebar-nav-link-font-weight--active: bold;
 
-        --link-color: #0B87DA;
-        --link-text-decoration: underline;
+        --link-color: #008EE2;
+        --link-text-decoration: none;
         --link-text-decoration--hover: underline;
 
         // Link colour to match visual styling of Canvas LMS
@@ -70,8 +74,35 @@
 
         --pagination-title-color: #0B87DA;
 
+        // SFU branding for sidebar and navbar
+        --sidebar-background: #F5F5F5;
+        --sidebar-name-color: #A6192E;
+        --sidebar-name-font-weight: 600;
+        --sidebar-nav-link-color: #6D6F71;
+        --sidebar-nav-link-color--active: #A6192E;
+        --sidebar-nav-link-border-color--active: #A6192E;
+        --sidebar-nav-strong-color: #6D6F71;
+        --sidebar-nav-strong-border-color: #C8CCD0;
+        --sidebar-nav-pagelink-background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='7' height='11.2' viewBox='0 0 7 11.2'%3E%3Cpath d='M1.5 1.5l4 4.1 -4 4.1' stroke-width='1.5' stroke='%236D6F71' fill='none' stroke-linecap='square' stroke-linejoin='miter' vector-effect='non-scaling-stroke'/%3E%3C/svg%3E");
+        --sidebar-nav-pagelink-background-image--active  : url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='11.2' height='7' viewBox='0 0 11.2 7'%3E%3Cpath d='M1.5 1.5l4.1 4 4.1-4' stroke-width='1.5' stroke='%23CC0633' fill='none' stroke-linecap='square' stroke-linejoin='miter' vector-effect='non-scaling-stroke'/%3E%3C/svg%3E");
+        --sidebar-nav-pagelink-background-image--collapse: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='7' height='11.2' viewBox='0 0 7 11.2'%3E%3Cpath d='M1.5 1.5l4 4.1 -4 4.1' stroke-width='1.5' stroke='%23CC0633' fill='none' stroke-linecap='square' stroke-linejoin='miter' vector-effect='non-scaling-stroke'/%3E%3C/svg%3E");
+        --sidebar-nav-pagelink-background-image--loaded  : url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='11.2' height='7' viewBox='0 0 11.2 7'%3E%3Cpath d='M1.5 1.5l4.1 4 4.1-4' stroke-width='1.5' stroke='%23CC0633' fill='none' stroke-linecap='square' stroke-linejoin='miter' vector-effect='non-scaling-stroke'/%3E%3C/svg%3E");
+
+        --navbar-root-color: #6D6F71;
+        --navbar-root-color--active: #A6192E;
+
       }
     </style>
+
+    <!-- Global site tag (gtag.js) - Google Analytics -->
+    <script async src="https://www.googletagmanager.com/gtag/js?id=G-V6H469MCQ9"></script>
+    <script>
+      window.dataLayer = window.dataLayer || [];
+      function gtag(){dataLayer.push(arguments);}
+      gtag('js', new Date());
+
+      gtag('config', 'G-V6H469MCQ9');
+    </script>
 
 </head>
 
@@ -79,7 +110,7 @@
     <div id="app"></div>
     <script>
       // Enter the URL of your own GitHub Repository in between the two quotes below
-      var gitLinkRepoURL = '';
+      var yourRepoURL = 'https://github.com/paulhibbitts/cmpt-363-213';
 
       function getParameterByName(name, url = window.location.href) {
         name = name.replace(/[\[\]]/g, '\\$&');
@@ -94,7 +125,7 @@
         window.$docsify = {
             // GENERAL SETTINGS
             // -----------------------------------------------------------------
-            name              : 'Docsify Open Course Starter Kit',
+            name              : 'CMPT-363-213',
             homepage          : 'home.md',
             loadSidebar       : 'sidebar.md',
             loadNavbar        : !(getParameterByName('embedded') === 'true'),
@@ -126,14 +157,14 @@
                     .replace('raw.githubusercontent.com', 'github.com')
                     .replace(/\/master/, '/blob/master')
                 } else {
-                  url = gitLinkRepoURL +'/blob/main/docs/' + vm.route.file
+                  url = yourRepoURL +'/blob/main/docs/' + vm.route.file
                 }
                 var editHtml = '[:memo: Edit this Page](' + url + ')\n'
 
                 // Adjust GitHub displayable image URL format to also work in Docsify
                 html = html.replace(new RegExp("../assets/images", 'ig'), "assets/images");
 
-                if ((!(getParameterByName('hidegitlink') === 'true'))  &&  (!!gitLinkRepoURL)) {
+                if ((!(getParameterByName('hidegitlink') === 'true'))  &&  (!!yourRepoURL)) {
                   return html + '<br />' + '\n' + '<hr>' + '\n\n' + editHtml
                 } else {
                   return html
