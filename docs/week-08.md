@@ -3,9 +3,9 @@
 # How to bridge the gap between the problem space and design space?
 
 ## One-minute Summaries & Questions
-[Leveraging Mental Models in Product Design](#) <span class='badge'> TBD</span>  
-[Don Norman’s Principles of Interaction Design](#) <span class='badge'> TBD</span>  
-[Not Just Pretty: Building Emotion Into Your Websites](#) <span class='badge'> TBD</span>  
+[Leveraging Mental Models in Product Design](https://canvas.sfu.ca/courses/64326/assignments/662744) <span class='badge'>[Wed Oct 27 11:59pm PT](https://www.timeanddate.com/worldclock/fixedtime.html?msg=One-minute+Summaries+for+Week+8+Due+Date&iso=20211027T235900&p1=256)</span>  
+[Don Norman’s Principles of Interaction Design](https://canvas.sfu.ca/courses/64326/assignments/662745) <span class='badge'>[Wed Oct 27 11:59pm PT](https://www.timeanddate.com/worldclock/fixedtime.html?msg=One-minute+Summaries+for+Week+8+Due+Date&iso=20211027T235900&p1=256)</span>  
+[Not Just Pretty: Building Emotion Into Your Websites](https://canvas.sfu.ca/courses/64326/assignments/662756) <span class='badge'>[Wed Oct 27 11:59pm PT](https://www.timeanddate.com/worldclock/fixedtime.html?msg=One-minute+Summaries+for+Week+8+Due+Date&iso=20211027T235900&p1=256)</span>  
 
 ## Required Readings  
 [Leveraging Mental Models in Product Design (11 minute read)](https://medium.com/swlh/leveraging-mental-models-in-ux-design-21ba8fbce22d)  

@@ -3,12 +3,12 @@
 # What are the essentials of visual interface design?
 
 ## Assignments
-[Individual Interactive Prototype](https://canvas.sfu.ca/courses/64326/assignments/662759) <span class='badge'> TBD</span>
+[Individual Interactive Prototype](https://canvas.sfu.ca/courses/64326/assignments/662759) <span class='badge'> [Mon Dec 6 11:59pm PT](https://www.timeanddate.com/worldclock/fixedtime.html?msg=CMPT-363+Interactive+Prototype+Due+Date&iso=20211206T2359&p1=256)</span>  
 
 ## One-minute Summaries & Questions
-[5 Principles of Visual Design in UX](#) <span class='badge'> TBD</span>  
-[Visual Hierarchy: Organizing content to follow natural eye movement patterns](#)  <span class='badge'> TBD</span>  
-[Fundamentals of typography in user interface design (UI)](#)  <span class='badge'> TBD</span>  
+[5 Principles of Visual Design in UX](https://canvas.sfu.ca/courses/64326/assignments/662740) <span class='badge'> [Wed Nov 24 11:59pm PT](https://www.timeanddate.com/worldclock/fixedtime.html?msg=One-minute+Summaries+for+Week+12+Due+Date&iso=20211124T235900&p1=256)</span>  
+[Visual Hierarchy: Organizing content to follow natural eye movement patterns](https://canvas.sfu.ca/courses/64326/assignments/662739) <span class='badge'> [Wed Nov 24 11:59pm PT](https://www.timeanddate.com/worldclock/fixedtime.html?msg=One-minute+Summaries+for+Week+12+Due+Date&iso=20211124T235900&p1=256)</span>  
+[Fundamentals of typography in user interface design (UI)](https://canvas.sfu.ca/courses/64326/assignments/662734) <span class='badge'> [Wed Nov 24 11:59pm PT](https://www.timeanddate.com/worldclock/fixedtime.html?msg=One-minute+Summaries+for+Week+12+Due+Date&iso=20211124T235900&p1=256)</span>  
 
 ## Required Readings  
 [5 Principles of Visual Design in UX (10 minute read)](https://www.nngroup.com/articles/principles-visual-design/)  

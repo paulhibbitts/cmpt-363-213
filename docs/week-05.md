@@ -3,7 +3,7 @@
 # Special topic — heuristic evaluations
 
 ## One-minute Summaries & Questions
-[Design Heuristics Lecture with Scott Klemmer, a Video Playlist](#) <span class='badge'> TBD</span>
+[Design Heuristics Lecture with Scott Klemmer, a Video Playlist](https://canvas.sfu.ca/courses/64326/assignments/662757) <span class='badge'> [Wed Oct 6 11:59pm PT](https://www.timeanddate.com/worldclock/fixedtime.html?msg=One-minute+Summaries+for+Week+5+Due+Date&iso=20211006T235900&p1=256)</span>  
 
 ## Required Readings  
 [Design Heuristics Lecture with Scott Klemmer, a Video Playlist (35 minutes in total)](https://www.youtube.com/playlist?list=PLVtu1bDQijari7LfHOoSTdcpbWIkwZWIA)  

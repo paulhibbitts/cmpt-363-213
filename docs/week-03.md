@@ -3,14 +3,14 @@
 # What is the practice of multi-device interaction design?
 
 ## One-minute Summaries & Questions
-[Interaction design: a guide for beginners](#) <span class='badge'>T BD</span>  
-[Five HCI Laws for User Experience Design](#) <span class='badge'> TBD</span>  
-[Touch Targets on Touchscreens](#) <span class='badge'> TBD</span>  
+[Interaction design: a guide for beginners](https://canvas.sfu.ca/courses/64326/assignments/662753) <span class='badge'> [Wed Sep 22 11:59pm PT](https://www.timeanddate.com/worldclock/fixedtime.html?msg=One-minute+Summaries+for+Week+3+Due+Date&iso=20210922T235900&p1=256)</span>     
+[Five HCI Laws for User Experience Design](https://canvas.sfu.ca/courses/64326/assignments/662754) <span class='badge'> [Wed Sep 22 11:59pm PT](https://www.timeanddate.com/worldclock/fixedtime.html?msg=One-minute+Summaries+for+Week+3+Due+Date&iso=20210922T235900&p1=256)</span>   
+[Touch Targets on Touchscreens](https://canvas.sfu.ca/courses/64326/assignments/662749) <span class='badge'> [Wed Sep 22 11:59pm PT](https://www.timeanddate.com/worldclock/fixedtime.html?msg=One-minute+Summaries+for+Week+3+Due+Date&iso=20210922T235900&p1=256)</span>   
 
 ## Required Readings  
 [Interaction design: a guide for beginners (19 minute read)](https://uxplanet.org/interaction-design-a-guide-for-beginners-32ff2364b53f)  
 [Five HCI Laws for User Experience Design (4 minute read)](https://measuringu.com/hci-laws/)  
-[Touch Targets on Touchscreens (11 minute read)](https://www.nngroup.com/articles/touch-target-size/)  
+[Touch Targets on Touchscreens (11 minute read)](https://www.nngroup.com/articles/touch-target-size/)   
 
 ## BlackBoard Collaborate Session Slides
 [Multi-device Interaction Design — Mini-lectures and Activities](https://docs.google.com/presentation/d/e/2PACX-1vTwkUolIilNE-d5Ag6Lryol1CoL38J0gxs2hmORenxmxlDWNX8vAE1h_ibFaoOY3UnmjfwV9seDxUOd/pub?start=false&loop=false&delayms=3000) | [PDF](#) | [Recording](https://canvas.sfu.ca/courses/64326/external_tools/3544) (Look in Hamburger :fas fa-bars fa-fw:menu)

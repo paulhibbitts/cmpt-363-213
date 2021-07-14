@@ -3,11 +3,11 @@
 # How to conduct a user interface inspection?
 
 ## Assignments
-[Individual Heuristic Inspection](https://canvas.sfu.ca/courses/64326/assignments/662758) <span class='badge'> TBD</span>  
+[Individual Heuristic Inspection](https://canvas.sfu.ca/courses/64326/assignments/662758) <span class='badge'> [Mon Oct 11 11:59pm PT](https://www.timeanddate.com/worldclock/fixedtime.html?msg=CMPT-363+Individual+Heuristic+Inspection+Due+Date&iso=20211011T2359&p1=256)</span>  
 
 ## One-minute Summaries & Questions
-[How to Use Heuristic Evaluations to Improve Product Designs](#) <span class='badge'> TBD</span>  
-[Severity Ratings for Usability Problems](#) <span class='badge'> TBD</span>  
+[How to Use Heuristic Evaluations to Improve Product Designs](https://canvas.sfu.ca/courses/64326/assignments/662752) <span class='badge'> [Wed Sep 29 11:59pm PT](https://www.timeanddate.com/worldclock/fixedtime.html?msg=One-minute+Summaries+for+Week+4+Due+Date&iso=20210929T235900&p1=256)</span>  
+[Severity Ratings for Usability Problems](https://canvas.sfu.ca/courses/64326/assignments/662755) <span class='badge'> [Wed Sep 29 11:59pm PT](https://www.timeanddate.com/worldclock/fixedtime.html?msg=One-minute+Summaries+for+Week+4+Due+Date&iso=20210929T235900&p1=256)</span>  
 
 ## Required Readings  
 [How to Use Heuristic Evaluations to Improve Product Designs (8 minute read)](https://xd.adobe.com/ideas/process/user-testing/how-to-heuristic-evaluation-analysis-ux-design/)  

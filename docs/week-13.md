@@ -3,12 +3,13 @@
 # Special topic — visual interface design
 
 ## One-minute Summaries & Questions
-[10 Principles for Color Usage in UI Design](#) <span class='badge'> TBD</span>  
-[Accessibility for Visual Design](#) <span class='badge'> TBD</span>  
+[10 Principles for Color Usage in UI Design](https://canvas.sfu.ca/courses/64326/assignments/662741) <span class='badge'> [Wed Dec 1 11:59pm PT](https://www.timeanddate.com/worldclock/fixedtime.html?msg=One-minute+Summaries+for+Week+13+Due+Date&iso=20211201T235900&p1=256)</span>  
+[7 Things Every Designer Needs to Know about Accessibility](https://canvas.sfu.ca/courses/64326/assignments/662742) <span class='badge'> [Wed Dec 1 11:59pm PT](https://www.timeanddate.com/worldclock/fixedtime.html?msg=One-minute+Summaries+for+Week+13+Due+Date&iso=20211201T235900&p1=256)</span>  
 
 ## Required Readings  
-[10 Principles for Color Usage in UI Design (8 minutes)](https://uxdesign.cc/10-principles-for-color-usage-in-ui-design-65174b213004)  
-[Accessibility for Visual Design (9 minute read)](https://www.uxbooth.com/articles/accessibility-visual-design)  
+[10 Principles for Color Usage in UI Design (8 minute read)](https://uxdesign.cc/10-principles-for-color-usage-in-ui-design-65174b213004)  
+[7 Things Every Designer Needs to Know about Accessibility (14 minute read)](https://medium.com/salesforce-ux/7-things-every-designer-needs-to-know-about-accessibility-64f105f0881b)  
+:fas fa-keyboard fa-fw: [One-minute Summaries for Week 13](https://canvas.sfu.ca/courses/64326
 
 ## BlackBoard Collaborate Session Slides
 [Special Topic — Visual Interface Design](https://docs.google.com/presentation/d/e/2PACX-1vRCKpXxRlhGn3clnhcUsOKVpCTc5OQm623s2JPRXY4_7v7QXCzL6VAOj04M6aOxMa-tiwf5sO1kJvcB/pub?start=false&loop=false&delayms=3000) | [PDF](#) | [Recording ](https://canvas.sfu.ca/courses/64326/external_tools/3544) (Look in Hamburger :fas fa-bars fa-fw:menu)  

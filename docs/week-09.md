@@ -3,15 +3,15 @@
 # How to explore and communicate possible design solutions?
 
 ## Assignments
-[Group Usability Tested Mockups](https://canvas.sfu.ca/courses/64326/assignments/662760) <span class='badge'> TBD</span>  
+[Group Usability Tested Mockups](https://canvas.sfu.ca/courses/64326/assignments/662760) <span class='badge'> [Mon Nov 22 11:59pm PT](https://www.timeanddate.com/worldclock/fixedtime.html?msg=CMPT-363+Group+Usability+Tested+Mockups+Assignment+Due+Date&iso=20211122T2359&p1=256)</span>    
 
 ## One-minute Summaries & Questions
-[The Right Tool For The Job: Picking The Best Prototyping Software For Your Project](#) <span class='badge'> TBD</span>  
-[User Scenarios](#) <span class='badge'> TBD</span>  
+[The Right Tool For The Job: Picking The Best Prototyping Software For Your Project](https://canvas.sfu.ca/courses/64326/assignments/662909) <span class='badge'> [Wed Nov 3 11:59pm PT](https://www.timeanddate.com/worldclock/fixedtime.html?msg=One-minute+Summaries+for+Week+9+Due+Date&iso=20211103T235900&p1=256)</span>  
+[User Scenarios](https://canvas.sfu.ca/courses/64326/assignments/662908) <span class='badge'> [Wed Nov 3 11:59pm PT](https://www.timeanddate.com/worldclock/fixedtime.html?msg=One-minute+Summaries+for+Week+9+Due+Date&iso=20211103T235900&p1=256)</span>  
 
 ## Required Readings  
 [The Right Tool For The Job: Picking The Best Prototyping Software For Your Project (12 minute read)](https://uxdesign.cc/the-right-tool-for-the-job-picking-the-best-prototyping-software-for-your-project-6ddd5145d860)  
-[User Scenarios (9 minute read)](https://www.interaction-design.org/literature/topics/user-scenarios)  
+[Using scenarios in design (5 minute read)](https://fordes.de/posts/usingscenariosindesign.html)  
 
 ## BlackBoard Collaborate Session Slides
 [Prototyping — Mini-lectures and Activities](https://docs.google.com/presentation/d/e/2PACX-1vQuJDnsvHGK20zuCNx_dW_z_d-IuD5YD9YxkdU3gwjNPFGcmH_jbhzh3kWIWyMx-HXnUjypjj6lrYSg/pub?start=false&loop=false&delayms=3000) | [PDF](#) | [Recording ](https://canvas.sfu.ca/courses/64326/external_tools/3544) (Look in Hamburger :fas fa-bars fa-fw:menu)

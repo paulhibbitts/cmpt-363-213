@@ -3,9 +3,9 @@
 # What is usability and user experience design?
 
 ## One-minute Summaries & Questions
-[Defining usability](#) <span class='badge'> TBD </span>  
-[The UX Pyramid](#) <span class='badge'> TBD </span>  
-[Why UX Outcomes Make Better Goals Than Business Outcomes](#) <span class='badge'> TBD </span>
+[Defining usability](https://canvas.sfu.ca/courses/64326/assignments/662750) <span class='badge'> [Wed Sep 15 11:59pm PT](https://www.timeanddate.com/worldclock/fixedtime.html?msg=One-minute+Summaries+for+Week+2+Due+Date&iso=20210915T235900&p1=256)</span>   
+[The UX Pyramid](https://canvas.sfu.ca/courses/64326/assignments/662751) <span class='badge'> [Wed Sep 15 11:59pm PT](https://www.timeanddate.com/worldclock/fixedtime.html?msg=One-minute+Summaries+for+Week+2+Due+Date&iso=20210915T235900&p1=256)</span>   
+[Why UX Outcomes Make Better Goals Than Business Outcomes](https://canvas.sfu.ca/courses/64326/assignments/662737) <span class='badge'> [Wed Sep 15 11:59pm PT](https://www.timeanddate.com/worldclock/fixedtime.html?msg=One-minute+Summaries+for+Week+2+Due+Date&iso=20210915T235900&p1=256)</span>   
 
 ## Required Readings  
 [Defining usability (7 minute read)](https://blog.prototypr.io/defining-usability-e7bf42e8abd0)  
