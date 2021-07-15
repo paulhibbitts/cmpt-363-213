@@ -108,7 +108,7 @@ Online instructor meetings (15 mins.), no regularly scheduled Blackboard Collabo
 **What are the essentials of visual interface design?**  
 :fas fa-check fa-fw: [Group Usability Tested Mockups due](https://canvas.sfu.ca/courses/64326/assignments/662760) <span class='badge'> [Mon Nov 22 11:59pm PT](https://www.timeanddate.com/worldclock/fixedtime.html?msg=CMPT-363+Group+Usability+Tested+Mockups+Assignment+Due+Date&iso=20211122T2359&p1=256)</span>    
 :fas fa-folder fa-fw: [Team Member Evaluation due](#) <span class='badge'> [Tue Nov 23 11:59pm PT](https://www.timeanddate.com/worldclock/fixedtime.html?msg=CMPT-363+Team+Member+Evaluation+Due+Date&iso=20211123T235900&p1=256)</span>  
-:fas fa-pen fa-fw: [Individual Interactive Prototype](https://canvas.sfu.ca/courses/64326/assignments/662759) <span class='badge'> [Mon Dec 6 11:59pm PT](https://www.timeanddate.com/worldclock/fixedtime.html?msg=CMPT-363+Interactive+Prototype+Due+Date&iso=20211206T2359&p1=256)</span>  
+:fas fa-pen fa-fw: [Individual High-fidelity Prototype](https://canvas.sfu.ca/courses/64326/assignments/662759) <span class='badge'> [Mon Dec 6 11:59pm PT](https://www.timeanddate.com/worldclock/fixedtime.html?msg=CMPT-363+Interactive+Prototype+Due+Date&iso=20211206T2359&p1=256)</span>  
 :fas fa-desktop fa-fw: Mini-lectures and Activities <span class='badge'> [Tue Nov 23 2:30pm PT](https://www.timeanddate.com/worldclock/fixedtime.html?msg=CMPT-363+Mini-lectures+and+Activities&iso=20211123T1430&p1=256&ah=1&am=50)</span>  
 :fas fa-desktop fa-fw: Review and Discussion <span class='badge'> [Thu Nov 25 2:30pm PT](https://www.timeanddate.com/worldclock/fixedtime.html?msg=CMPT-363+Review+and+Discussion&iso=20211125T1430&p1=256&am=50)</span>  
 :fas fa-book fa-fw: [5 Principles of Visual Design in UX (10 minute read)](https://www.nngroup.com/articles/principles-visual-design/)  
@@ -128,7 +128,7 @@ Online instructor meetings (15 mins.), no regularly scheduled Blackboard Collabo
 
 ## :fas fa-calendar fa-fw: [Week 14 (Dec 6 - 12)](https://canvas.sfu.ca/courses/64326/modules/items/2120574)
 **Course wrap-up**  
-:fas fa-check fa-fw: [Individual Interactive Prototype due](https://canvas.sfu.ca/courses/64326/assignments/662759) <span class='badge'> [Mon Dec 6 11:59pm PT](https://www.timeanddate.com/worldclock/fixedtime.html?msg=CMPT-363+Interactive+Prototype+Due+Date&iso=20211206T2359&p1=256)</span>  
+:fas fa-check fa-fw: [Individual High-fidelity Prototype due](https://canvas.sfu.ca/courses/64326/assignments/662759) <span class='badge'> [Mon Dec 6 11:59pm PT](https://www.timeanddate.com/worldclock/fixedtime.html?msg=CMPT-363+Interactive+Prototype+Due+Date&iso=20211206T2359&p1=256)</span>  
 :fas fa-desktop fa-fw: Course Wrap-up <span class='badge'> [Tue Dec 7 2:30pm PT](https://www.timeanddate.com/worldclock/fixedtime.html?msg=CMPT-363+Course+Wrap-up&iso=20211207T1430&p1=256&ah=1&am=50)</span>  
 :fas fa-keyboard fa-fw: No required readings or one-minute summaries   
 :fas fa-image fa-fw: No visual journal entry
