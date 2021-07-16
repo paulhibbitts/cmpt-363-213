@@ -27,7 +27,7 @@ Wednesdays 12:00-12:30pm PT
 </div>
 <div class="column">
 
-[Zoom 1-on-1 Office Hours](#):  
+[Zoom 1-on-1 Office Hours](https://www2.cs.sfu.ca/CourseCentral/363/paulh/1-on-1-office-hours/):  
 Tuesdays 1:30-2:00pm PT  
 Thursdays 3:30-4:00pm PT  
 
