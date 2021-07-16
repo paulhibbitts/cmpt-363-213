@@ -112,7 +112,7 @@
       // Enter the URL of your own GitHub Repository in between the two quotes below
       var yourRepoURL = 'https://github.com/paulhibbitts/cmpt-363-213';
 
-      function getParameterByName(name, url = window.location.href) {
+      function checkParameterByName(name, url = window.location.href) {
         name = name.replace(/[\[\]]/g, '\\$&');
         var regex = new RegExp('[?&]' + name + '(=([^&#]*)|&|#|$)'),
             results = regex.exec(url);
@@ -121,7 +121,7 @@
         return decodeURIComponent(results[2].replace(/\+/g, ' '));
         }
 
-        function getParameterByNameReturnMarkdownFilename(name, falsepage, truepage, url = window.location.href) {
+        function checkParameterByNameReturnMarkdownFilename(name, falsepage, truepage, url = window.location.href) {
           name = name.replace(/[\[\]]/g, '\\$&');
           var regex = new RegExp('[?&]' + name + '(=([^&#]*)|&|#|$)'),
               results = regex.exec(url);
@@ -135,9 +135,9 @@
             // GENERAL SETTINGS
             // -----------------------------------------------------------------
             name              : 'CMPT-363-213',
-            homepage          : getParameterByNameReturnMarkdownFilename('embedded','home.md','lms-home.md'),
+            homepage          : checkParameterByNameReturnMarkdownFilename('embedded','home.md','lms-home.md'),
             loadSidebar       : 'sidebar.md',
-            loadNavbar        : !(getParameterByName('embedded') === 'true'),
+            loadNavbar        : !(checkParameterByName('embedded') === 'true'),
             externalLinkTarget: '_top',
 
             // SIDEBAR NAVIGATION
@@ -145,7 +145,7 @@
             auto2top   : true,
             maxLevel   : 3,
             subMaxLevel: 3,
-            hideSidebar: getParameterByName('embedded') === 'true',
+            hideSidebar: checkParameterByName('embedded') === 'true',
 
             // PLUGIN SETTINGS
             // -----------------------------------------------------------------
@@ -173,7 +173,7 @@
                 // Adjust GitHub displayable image URL format to also work in Docsify
                 html = html.replace(new RegExp("../assets/images", 'ig'), "assets/images");
 
-                if ((!(getParameterByName('hidegitlink') === 'true'))  &&  (!!yourRepoURL)) {
+                if ((!(checkParameterByName('hidegitlink') === 'true'))  &&  (!!yourRepoURL)) {
                   return html + '<br />' + '\n' + '<hr>' + '\n\n' + editHtml
                 } else {
                   return html
@@ -204,7 +204,7 @@
 
     <!-- Pagination Plugin -->
     <script>
-      if (!(getParameterByName('embedded') === 'true')) {
+      if (!(checkParameterByName('embedded') === 'true')) {
         // Load pagination script asynchronously
         var sNew = document.createElement("script");
         sNew.async = true;
