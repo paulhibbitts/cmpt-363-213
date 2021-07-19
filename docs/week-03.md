@@ -32,6 +32,4 @@
 
 [Mobile and Multi-device Web Design](ux-techniques-guide/05.what-is-the-practice-of-multidevice-interaction-design/mobile-and-multidevice-web-design.md ':include')
 
-[Problem Statements](ux-techniques-guide/05.what-is-the-practice-of-multidevice-interaction-design/problem-statements.md ':include')
-
 [Conceptual Models](ux-techniques-guide/06.how-to-bridge-the-gap-between-the-problem-space-and-design-space/conceptual-models.md ':include')
