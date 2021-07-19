@@ -33,8 +33,6 @@
 
 [Hypothesis](ux-techniques-guide/01.what-is-usability-and-user-experience-design/hypothesis.md ':include')
 
-[Outcomes](ux-techniques-guide/01.what-is-usability-and-user-experience-design/outcomes.md ':include')
-
 [Problem Statements](ux-techniques-guide/01.what-is-usability-and-user-experience-design/problem-statements.md ':include')
 
 [Usability](ux-techniques-guide/01.what-is-usability-and-user-experience-design/usability.md ':include')
