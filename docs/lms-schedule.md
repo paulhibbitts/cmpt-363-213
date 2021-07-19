@@ -12,7 +12,7 @@
 :fas fa-desktop fa-fw: Review and Discussion <span class='badge'> [Thu Sep 16 2:30pm PT](https://www.timeanddate.com/worldclock/fixedtime.html?msg=CMPT-363+Review+and+Discussion&iso=20210916T1430&p1=256&am=50)</span>  
 :fas fa-book fa-fw: [Defining usability (7 minute read)](https://blog.prototypr.io/defining-usability-e7bf42e8abd0)  
 :fas fa-book fa-fw: [An Introduction to User Experience Design (8 minute read)](https://marvelapp.com/blog/introduction-user-experience-design/)  
-:fas fa-book fa-fw: [Why UX Outcomes Make Better Goals Than Business Outcomes (5 minute read)](https://articles.uie.com/why-ux-outcomes-make-better-goals-than-business-outcomes)  
+:fas fa-book fa-fw: [Replacing “Requirements Gathering” with Something That Works (8 minute read)](https://articles.uie.com/requirements_gathering/)  
 :fas fa-keyboard fa-fw: [One-minute Summaries for Week 2](https://canvas.sfu.ca/courses/64326/discussion_topics) <span class='badge'> [Wed Sep 15 11:59pm PT](https://www.timeanddate.com/worldclock/fixedtime.html?msg=One-minute+Summaries+for+Week+2+Due+Date&iso=20210915T235900&p1=256)</span>   
 :fas fa-image fa-fw: [Weekly Visual Journal Entry for Week 2](https://canvas.sfu.ca/courses/64326/assignments) <span class='badge'> [Fri Sep 17th 11:59pm PT](https://www.timeanddate.com/worldclock/fixedtime.html?msg=CMPT-363+Week+2+Visual+Journal+Entry+Due+Date&iso=20210917T235900)</span>  
 

@@ -5,12 +5,12 @@
 ## One-minute Summaries & Questions
 [Defining usability](https://canvas.sfu.ca/courses/64326/assignments/662750) <span class='badge'> [Wed Sep 15 11:59pm PT](https://www.timeanddate.com/worldclock/fixedtime.html?msg=One-minute+Summaries+for+Week+2+Due+Date&iso=20210915T235900&p1=256)</span>   
 [The UX Pyramid](https://canvas.sfu.ca/courses/64326/assignments/662751) <span class='badge'> [Wed Sep 15 11:59pm PT](https://www.timeanddate.com/worldclock/fixedtime.html?msg=One-minute+Summaries+for+Week+2+Due+Date&iso=20210915T235900&p1=256)</span>   
-[Why UX Outcomes Make Better Goals Than Business Outcomes](https://canvas.sfu.ca/courses/64326/assignments/662737) <span class='badge'> [Wed Sep 15 11:59pm PT](https://www.timeanddate.com/worldclock/fixedtime.html?msg=One-minute+Summaries+for+Week+2+Due+Date&iso=20210915T235900&p1=256)</span>   
+[Replacing “Requirements Gathering” with Something That Works](https://canvas.sfu.ca/courses/64326/assignments/662737) <span class='badge'> [Wed Sep 15 11:59pm PT](https://www.timeanddate.com/worldclock/fixedtime.html?msg=One-minute+Summaries+for+Week+2+Due+Date&iso=20210915T235900&p1=256)</span>   
 
 ## Required Readings  
 [Defining usability (7 minute read)](https://blog.prototypr.io/defining-usability-e7bf42e8abd0)  
 [An Introduction to User Experience Design (8 minute read)](https://marvelapp.com/blog/introduction-user-experience-design/)  
-[Why UX Outcomes Make Better Goals Than Business Outcomes (5 minute read)](https://articles.uie.com/why-ux-outcomes-make-better-goals-than-business-outcomes)  
+[Replacing “Requirements Gathering” with Something That Works (8 minute read)](https://articles.uie.com/requirements_gathering/)  
 
 ## BlackBoard Collaborate Session Slides
 [Introduction to UX — Mini-lectures and Activities](https://docs.google.com/presentation/d/e/2PACX-1vRdfDDdBLFcwOJ4qUNWlGzyffy8qmRVZ32nsNwjT_Y2RjaBiFskNiVZKyTEWODwQqU1A1G85HAG9PaL/pub?start=false&loop=false&delayms=3000) | [PDF](https://canvas.sfu.ca/courses/64326/files/folder/Downloads/Slides%20PDFs/Mini-Lectures%20and%20Activities/Week-02) | [Recording](https://canvas.sfu.ca/courses/64326/external_tools/3544) (Look in Hamburger :fas fa-bars fa-fw:menu)  
