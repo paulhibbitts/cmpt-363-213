@@ -14,7 +14,7 @@
 - [Week 13 (Nov 29 - Dec 5)](week-13)
 - [Week 14 (Dec 6 - 12)](week-14)
 - **LMS Links**
-[![Calendar](https://icongr.am/fontawesome/calendar.svg?size=16&color=6D6F71) Calendar](https://canvas.sfu.ca)
+[![Calendar](https://icongr.am/fontawesome/calendar.svg?size=16&color=6D6F71) Calendar](https://canvas.sfu.ca/calendar)
 [![Assignments](https://icongr.am/fontawesome/pencil.svg?size=16&color=6D6F71) Assignments](https://canvas.sfu.ca/courses/64326/assignments)
 [![Discussions](https://icongr.am/fontawesome/comments-o.svg?size=16&color=6D6F71) Discussions](https://canvas.sfu.ca/courses/64326/discussion_topics)
 [![Files](https://icongr.am/fontawesome/folder.svg?size=16&color=6D6F71) Files](https://canvas.sfu.ca/courses/64326/files)
