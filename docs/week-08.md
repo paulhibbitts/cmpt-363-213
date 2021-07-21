@@ -7,6 +7,9 @@
 [Don Norman’s Principles of Interaction Design](https://canvas.sfu.ca/courses/64326/assignments/662745) <span class='badge'>[Wed Oct 27 11:59pm PT](https://www.timeanddate.com/worldclock/fixedtime.html?msg=One-minute+Summaries+for+Week+8+Due+Date&iso=20211027T235900&p1=256)</span>  
 [Not Just Pretty: Building Emotion Into Your Websites](https://canvas.sfu.ca/courses/64326/assignments/662756) <span class='badge'>[Wed Oct 27 11:59pm PT](https://www.timeanddate.com/worldclock/fixedtime.html?msg=One-minute+Summaries+for+Week+8+Due+Date&iso=20211027T235900&p1=256)</span>  
 
+## Weekly Visual Journal Entry
+[Week 8 Visual Journal Entry](https://canvas.sfu.ca/courses/64326/assignments/662772) <span class='badge'> [Sun Oct 31st 11:59pm PT](https://www.timeanddate.com/worldclock/fixedtime.html?msg=CMPT-363+Week+8+Visual+Journal+Entry+Due+Date&iso=20211031T235900)</span>  
+
 ## Required Readings  
 [Leveraging Mental Models in Product Design (11 minute read)](https://medium.com/swlh/leveraging-mental-models-in-ux-design-21ba8fbce22d)  
 [Don Norman’s Principles of Interaction Design (8 minute read)](https://medium.com/@sachinrekhi/don-normans-principles-of-interaction-design-51025a2c0f33)  

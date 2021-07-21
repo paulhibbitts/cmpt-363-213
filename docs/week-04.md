@@ -9,6 +9,9 @@
 [How to Use Heuristic Evaluations to Improve Product Designs](https://canvas.sfu.ca/courses/64326/assignments/662752) <span class='badge'> [Wed Sep 29 11:59pm PT](https://www.timeanddate.com/worldclock/fixedtime.html?msg=One-minute+Summaries+for+Week+4+Due+Date&iso=20210929T235900&p1=256)</span>  
 [Severity Ratings for Usability Problems](https://canvas.sfu.ca/courses/64326/assignments/662755) <span class='badge'> [Wed Sep 29 11:59pm PT](https://www.timeanddate.com/worldclock/fixedtime.html?msg=One-minute+Summaries+for+Week+4+Due+Date&iso=20210929T235900&p1=256)</span>  
 
+## Weekly Visual Journal Entry
+[Week 4 Visual Journal Entry](https://canvas.sfu.ca/courses/64326/assignments/662769) <span class='badge'> [Sun Oct 3 11:59pm PT](https://www.timeanddate.com/worldclock/fixedtime.html?msg=CMPT-363+Week+4+Visual+Journal+Entry+Due+Date&iso=20211003T235900)</span>  
+
 ## Required Readings  
 [How to Use Heuristic Evaluations to Improve Product Designs (8 minute read)](https://xd.adobe.com/ideas/process/user-testing/how-to-heuristic-evaluation-analysis-ux-design/)  
 [Severity Ratings for Usability Problems (5 minute read)](https://www.nngroup.com/articles/how-to-rate-the-severity-of-usability-problems/)   

@@ -6,6 +6,9 @@
 [10 Principles for Color Usage in UI Design](https://canvas.sfu.ca/courses/64326/assignments/662741) <span class='badge'> [Wed Dec 1 11:59pm PT](https://www.timeanddate.com/worldclock/fixedtime.html?msg=One-minute+Summaries+for+Week+13+Due+Date&iso=20211201T235900&p1=256)</span>  
 [7 Things Every Designer Needs to Know about Accessibility](https://canvas.sfu.ca/courses/64326/assignments/662742) <span class='badge'> [Wed Dec 1 11:59pm PT](https://www.timeanddate.com/worldclock/fixedtime.html?msg=One-minute+Summaries+for+Week+13+Due+Date&iso=20211201T235900&p1=256)</span>  
 
+## Weekly Visual Journal Entry
+[Week 13 Visual Journal Entry](https://canvas.sfu.ca/courses/64326/assignments/662766) <span class='badge'> [Sun Dec 5 11:59pm PT](https://www.timeanddate.com/worldclock/fixedtime.html?msg=CMPT-363+Week+13+Visual+Journal+Entry+Due+Date&iso=20211205T235900)</span>  
+
 ## Required Readings  
 [10 Principles for Color Usage in UI Design (8 minute read)](https://uxdesign.cc/10-principles-for-color-usage-in-ui-design-65174b213004)  
 [7 Things Every Designer Needs to Know about Accessibility (14 minute read)](https://medium.com/salesforce-ux/7-things-every-designer-needs-to-know-about-accessibility-64f105f0881b)  

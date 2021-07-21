@@ -6,6 +6,9 @@
 [Usability Testing Guide](https://canvas.sfu.ca/courses/64326/assignments/662743) <span class='badge'> [Wed Nov 10 11:59pm PT](https://www.timeanddate.com/worldclock/fixedtime.html?msg=One-minute+Summaries+for+Week+10+Due+Date&iso=20211110T235900&p1=256)</span>  
 [Write Better Qualitative Usability Tasks: Top 10 Mistakes to Avoid](https://canvas.sfu.ca/courses/64326/assignments/662738) <span class='badge'> [Wed Nov 10 11:59pm PT](https://www.timeanddate.com/worldclock/fixedtime.html?msg=One-minute+Summaries+for+Week+10+Due+Date&iso=20211110T235900&p1=256)</span>  
 
+## Weekly Visual Journal Entry
+[Week 10 Visual Journal Entry](https://canvas.sfu.ca/courses/64326/assignments/662764) <span class='badge'> [Sun Nov 14 11:59pm PT](https://www.timeanddate.com/worldclock/fixedtime.html?msg=CMPT-363+Week+10+Visual+Journal+Entry+Due+Date&iso=20211114T235900)</span>  
+
 ## Required Readings  
 [Usability Testing Guide (14 minute read)](https://boxesandarrows.com/usability-testing-guide/)  
 [Write Better Qualitative Usability Tasks: Top 10 Mistakes to Avoid (10 minute read)](https://www.nngroup.com/articles/better-usability-tasks/)  

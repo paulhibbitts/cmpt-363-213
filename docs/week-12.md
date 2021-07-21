@@ -10,6 +10,9 @@
 [Visual Hierarchy: Organizing content to follow natural eye movement patterns](https://canvas.sfu.ca/courses/64326/assignments/662739) <span class='badge'> [Wed Nov 24 11:59pm PT](https://www.timeanddate.com/worldclock/fixedtime.html?msg=One-minute+Summaries+for+Week+12+Due+Date&iso=20211124T235900&p1=256)</span>  
 [Fundamentals of typography in user interface design (UI)](https://canvas.sfu.ca/courses/64326/assignments/662734) <span class='badge'> [Wed Nov 24 11:59pm PT](https://www.timeanddate.com/worldclock/fixedtime.html?msg=One-minute+Summaries+for+Week+12+Due+Date&iso=20211124T235900&p1=256)</span>  
 
+## Weekly Visual Journal Entry
+[Week 12 Visual Journal Entry](https://canvas.sfu.ca/courses/64326/assignments/662765) <span class='badge'> [Sun Nov 27 11:59pm PT](https://www.timeanddate.com/worldclock/fixedtime.html?msg=CMPT-363+Week+12+Visual+Journal+Entry+Due+Date&iso=20211127T235900)</span>  
+
 ## Required Readings  
 [5 Principles of Visual Design in UX (10 minute read)](https://www.nngroup.com/articles/principles-visual-design/)  
 [Visual Hierarchy: Organizing content to follow natural eye movement patterns (13 minute read)](https://www.interaction-design.org/literature/article/visual-hierarchy-organizing-content-to-follow-natural-eye-movement-patterns)  
