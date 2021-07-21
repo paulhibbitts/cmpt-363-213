@@ -99,7 +99,7 @@
 :fas fa-image fa-fw: [Weekly Visual Journal Entry for Week 10](https://canvas.sfu.ca/courses/64326/assignments) <span class='badge'> [Sun Nov 14 11:59pm PT](https://www.timeanddate.com/worldclock/fixedtime.html?msg=CMPT-363+Week+10+Visual+Journal+Entry+Due+Date&iso=20211114T235900)</span>  
 
 ## :fas fa-calendar fa-fw: [Week 11 (Nov 15 - 21)](week-11)
-**Instructor storyboard mockups group meetings**  
+**Instructor wireframe review group meetings**  
 Online instructor meetings (15 mins.), no regularly scheduled Blackboard Collaborate sessions  
 :fas fa-keyboard fa-fw: No required readings or one-minute summaries   
 :fas fa-book fa-fw: [How to Give and Receive Criticism](http://scottberkun.com/essays/35-how-to-give-and-receive-criticism/) (suggested reading)  

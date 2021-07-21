@@ -1,6 +1,6 @@
 ![Screen Sketches](assets/images/amelie-mourichon-YHNOwnrDzjY-unsplash.jpg ':class=banner-image')
 
-# Draft Storyboard Mockups
+# Draft Wireframes
 
 ## Instructor Group Meetings
 No regularly scheduled Blackboard Collaborate sessions.
