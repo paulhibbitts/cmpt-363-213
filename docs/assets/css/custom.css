@@ -24,3 +24,9 @@ body .markdown-section {
 .progress {
   background-color: #757b7f;
 }
+
+@media screen and (max-width:780px) {
+  .markdown-section .column {
+    width: 100%;
+  }
+}
