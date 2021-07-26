@@ -25,7 +25,7 @@ body .markdown-section {
   background-color: #757b7f;
 }
 
-@media screen and (max-width:900px) {
+@media screen and (max-width:700px) {
   .markdown-section .column {
     width: 100%;
   }
