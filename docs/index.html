@@ -130,6 +130,15 @@
           return truepage;
           }
 
+        function checkParameterByNameReturnExternalTarget(name, falsetarget, truetarget, url = window.location.href) {
+          name = name.replace(/[\[\]]/g, '\\$&');
+          var regex = new RegExp('[?&]' + name + '(=([^&#]*)|&|#|$)'),
+              results = regex.exec(url);
+          if (!results) return falsetarget;
+          if (!results[2]) return falsetarget;
+          return truetarget;
+          }
+
         // Docsify
         window.$docsify = {
             // GENERAL SETTINGS
@@ -138,7 +147,7 @@
             homepage          : 'home.md',
             loadSidebar       : 'sidebar.md',
             loadNavbar        : !(checkParameterByName('embedded') === 'true'),
-            externalLinkTarget: '_top',
+            externalLinkTarget: (checkParameterByNameReturnExternalTarget('embedded','_blank','_top')),
 
             // SIDEBAR NAVIGATION
             // -----------------------------------------------------------------
@@ -215,6 +224,8 @@
     </script>
 
     <script async src="//cdn.embedly.com/widgets/platform.js" charset="UTF-8"></script>
+
+    <script async src="//cdn.iframe.ly/embed.js" charset="utf-8"></script>
 
 </body>
 </html>
