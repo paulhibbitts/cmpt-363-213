@@ -88,7 +88,7 @@
 **Using scenarios in design (2 of 2 for Week 8)**  
 <a class="embedly-card" data-card-controls="0" data-card-align="left" href="https://fordes.de/posts/usingscenariosindesign.html">Using scenarios in design</a>
 
-## Week 11
+## Week 10
 ### How to plan, conduct, and summarize usability tests?
 **Usability Testing Guide (1 of 2 for Week 9)**  
 <a class="embedly-card" data-card-controls="0" data-card-align="left" href="https://boxesandarrows.com/usability-testing-guide/">Usability Testing Guide</a>
