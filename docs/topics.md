@@ -84,6 +84,7 @@
 ### T
 [Task Analysis](week-02)  
 [Task Flows](week-09)  
+[Thematic Analysis](week-06)
 [Typography](week-13)  
 
 ### U
