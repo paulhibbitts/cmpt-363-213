@@ -1,4 +1,4 @@
-Outcome  
+Outcomes  
 _An outcome is a specific and measurable change._
 
 *   [Execs care about revenue. How do we get them to care about outcomes?](https://medium.com/@jboogie/execs-care-about-revenue-how-do-we-get-them-to-care-about-outcomes-5d541a823358)  
