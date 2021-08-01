@@ -1,6 +1,6 @@
 # Topics
 
-### [A](#a) | B | [C](#c) | [D](#d) | [E](#e) | [F](#f) | [G](#g) | [H](#h) | [I](#i) | [J](#j) | K | [L](#l) | M | [N](#n) | [O](#o) | [P](#p) | Q | [R](#r) | [S](#s) | [T](#t) | [U](#u) | [V](#v) | W | X | Y | Z  
+### [A](#a) | B | [C](#c) | [D](#d) | [E](#e) | [F](#f) | [G](#g) | [H](#h) | [I](#i) | [J](#j) | K | [L](#l) | M | [N](#n) | [O](#o) | [P](#p) | Q | [R](#r) | [S](#s) | [T](#t) | [U](#u) | [V](#v) | [W](#w) | X | Y | Z  
 
 ### A
 [Accessibility](week-13)  
@@ -65,6 +65,7 @@
 
 ### P
 [Power Law of Practice](week-03)  
+[Problem Framing](week-06)  
 [Problem Statements](week-06)  
 [Prototyping](week-09)  
 [Proto-Personas](week-06)  
@@ -82,6 +83,7 @@
 
 ### T
 [Task Analysis](week-02)  
+[Task Flows](week-09)  
 [Typography](week-13)  
 
 ### U
@@ -99,3 +101,6 @@
 [Weekly Visual Design](week-12)  
 [Weekly Visual Design Principles (CRAP)](week-12)  
 [Weekly Visual Hierarchy](week-12)  
+
+### W
+[Wireframes](week-09)  
