@@ -33,4 +33,4 @@
 *   [Figma 101: An introduction tutorial](https://www.youtube.com/watch?v=cCNLD5IZY34)
 *   [Figma tips and tricks](https://blog.prototypr.io/figma-tips-and-tricks-1c07ec13b696)  
 *   [Figma Tutorial: How (and Why) To Use It For Your Next Project](https://snipcart.com/blog/how-to-use-figma-tutorial)  
-*   [Introduction to Figma - 2021 Beginners Tutorial (Everything You Need to Know in 20 minutes)](https://www.youtube.com/watch?v=TYhp4s-vjK4)  
+*   [Figma UI Design Tutorial: Get Started in Just 24 Minutes! (2021)](https://www.youtube.com/watch?v=FTFaQWZBqQ8)  
