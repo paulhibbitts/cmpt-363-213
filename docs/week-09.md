@@ -32,9 +32,6 @@
 [UI Sketching Conventions](https://www.youtube.com/watch?v=MwidSAlbEB8)  
 <div class="video-container-16by9"><iframe width="560" height="315" src="https://www.youtube.com/embed/MwidSAlbEB8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
-Balsamiq Wireframes for Google Drive Overview   
-<div class="video-container-16by9"><iframe width="560" height="315" src="https://www.youtube.com/embed/l_jJMMY_QMQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
-
 ## Supplemental Readings  
 
 [Brainstorming](ux-techniques-guide/07.how-to-explore-and-describe-possible-design-solutions/brainstorming.md ':include')
