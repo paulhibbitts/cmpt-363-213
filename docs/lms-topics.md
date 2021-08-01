@@ -1,6 +1,6 @@
 # Topics
 
-### [A](#a) | B | [C](#c) | [D](#d) | [E](#e) | [F](#f) | [G](#g) | [H](#h) | [I](#i) | [J](#j) | K | [L](#l) | M | [N](#n) | [O](#o) | [P](#p) | Q | [R](#r) | [S](#s) | [T](#t) | [U](#u) | [V](#v) | W | X | Y | Z  
+### [A](#a) | B | [C](#c) | [D](#d) | [E](#e) | [F](#f) | [G](#g) | [H](#h) | [I](#i) | [J](#j) | K | [L](#l) | M | [N](#n) | [O](#o) | [P](#p) | Q | [R](#r) | [S](#s) | [T](#t) | [U](#u) | [V](#v) | [W](#w) | X | Y | Z  
 
 ### A
 [Accessibility](https://canvas.sfu.ca/courses/64326/modules/items/2120573)  
@@ -65,6 +65,7 @@
 
 ### P
 [Power Law of Practice](https://canvas.sfu.ca/courses/64326/modules/items/2120563)  
+[Problem Framing](https://canvas.sfu.ca/courses/64326/modules/items/2120566)  
 [Problem Statements](https://canvas.sfu.ca/courses/64326/modules/items/2120566)  
 [Prototyping](https://canvas.sfu.ca/courses/64326/modules/items/2120569)  
 [Proto-Personas](https://canvas.sfu.ca/courses/64326/modules/items/2120566)  
@@ -82,6 +83,7 @@
 
 ### T
 [Task Analysis](https://canvas.sfu.ca/courses/64326/modules/items/2120562)  
+[Task Flows](https://canvas.sfu.ca/courses/64326/modules/items/2120569)  
 [Typography](https://canvas.sfu.ca/courses/64326/modules/items/2120573)  
 
 ### U
@@ -98,4 +100,7 @@
 ### V
 [Weekly Visual Design](https://canvas.sfu.ca/courses/64326/modules/items/2120572)  
 [Weekly Visual Design Principles (CRAP)](https://canvas.sfu.ca/courses/64326/modules/items/2120572)  
-[Weekly Visual Hierarchy](https://canvas.sfu.ca/courses/64326/modules/items/2120572)  
+[Weekly Visual Hierarchy](https://canvas.sfu.ca/courses/64326/modules/items/2120572)
+
+### W
+[Wireframes](https://canvas.sfu.ca/courses/64326/modules/items/2120569)  
