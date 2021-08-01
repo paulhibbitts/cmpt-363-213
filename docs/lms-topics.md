@@ -88,14 +88,14 @@
 
 ### U
 [Usability](https://canvas.sfu.ca/courses/64326/modules/items/2120562)  
-[Usability Goals](https://canvas.sfu.ca/courses/64326/modules/items/2120562)  
+[Usability Objectives](https://canvas.sfu.ca/courses/64326/modules/items/2120562)  
 [Usability Testing](week-10)  
 [User-centered Design (UCD)](https://canvas.sfu.ca/courses/64326/modules/items/2120562)  
 [User Experience Design](https://canvas.sfu.ca/courses/64326/modules/items/2120562)  
 [User Research](https://canvas.sfu.ca/courses/64326/modules/items/2120566)  
 [User Research Analysis](https://canvas.sfu.ca/courses/64326/modules/items/2120566)  
 [User Stories](https://canvas.sfu.ca/courses/64326/modules/items/2120566)  
-[UX Goals](https://canvas.sfu.ca/courses/64326/modules/items/2120562)  
+[UX Objectives](https://canvas.sfu.ca/courses/64326/modules/items/2120562)  
 
 ### V
 [Visual Design](https://canvas.sfu.ca/courses/64326/modules/items/2120572)  
