@@ -1,4 +1,4 @@
-Task-flows  
+Task Flows  
 _A visual representation that shows a key sequence of a task._
 
 *   [Task Flows and the Process of Designing Interactions](https://www.uxmatters.com/mt/archives/2021/07/task-flows-and-the-process-of-designing-interactions.php)  
