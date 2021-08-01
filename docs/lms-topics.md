@@ -65,7 +65,7 @@
 
 ### P
 [Power Law of Practice](https://canvas.sfu.ca/courses/64326/modules/items/2120563)  
-[Problem Framing](https://canvas.sfu.ca/courses/64326/modules/items/2120566)  
+[Problem Framing](https://canvas.sfu.ca/courses/64326/modules/items/2120568)  
 [Problem Statements](https://canvas.sfu.ca/courses/64326/modules/items/2120566)  
 [Prototyping](https://canvas.sfu.ca/courses/64326/modules/items/2120569)  
 [Proto-Personas](https://canvas.sfu.ca/courses/64326/modules/items/2120566)  
