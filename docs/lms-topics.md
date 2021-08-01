@@ -84,7 +84,7 @@
 ### T
 [Task Analysis](https://canvas.sfu.ca/courses/64326/modules/items/2120562)  
 [Task Flows](https://canvas.sfu.ca/courses/64326/modules/items/2120569)  
-[Thematic Analysis](https://canvas.sfu.ca/courses/64326/modules/items/2120566)
+[Thematic Analysis](https://canvas.sfu.ca/courses/64326/modules/items/2120566)  
 [Typography](https://canvas.sfu.ca/courses/64326/modules/items/2120573)  
 
 ### U
