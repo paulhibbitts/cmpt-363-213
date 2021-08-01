@@ -98,9 +98,9 @@
 [UX Goals](week-02)  
 
 ### V
-[Weekly Visual Design](week-12)  
-[Weekly Visual Design Principles (CRAP)](week-12)  
-[Weekly Visual Hierarchy](week-12)  
+[Visual Design](week-12)  
+[Visual Design Principles (CRAP)](week-12)  
+[Visual Hierarchy](week-12)  
 
 ### W
 [Wireframes](week-09)  
