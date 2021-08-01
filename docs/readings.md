@@ -116,4 +116,4 @@
 <a class="embedly-card" data-card-controls="0" data-card-align="left" href="https://medium.com/salesforce-ux/7-things-every-designer-needs-to-know-about-accessibility-64f105f0881b">7 Things Every Designer Needs to Know about Accessibility</a>
 
 <!-- Script load moved from index.html page to here in order to improve rendering performance -->
-<script src="//cdn.embedly.com/widgets/platform.js" charset="UTF-8"></script>
+<script async src="//cdn.embedly.com/widgets/platform.js" charset="UTF-8"></script>
