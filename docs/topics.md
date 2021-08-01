@@ -65,7 +65,7 @@
 
 ### P
 [Power Law of Practice](week-03)  
-[Problem Framing](week-06)  
+[Problem Framing](week-08)  
 [Problem Statements](week-06)  
 [Prototyping](week-09)  
 [Proto-Personas](week-06)  
