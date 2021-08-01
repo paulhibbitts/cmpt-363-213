@@ -88,14 +88,14 @@
 
 ### U
 [Usability](week-02)  
-[Usability Goals](week-02)  
+[Usability Objectives](week-02)  
 [Usability Testing](week-10)  
 [User-centered Design (UCD)](week-02)  
 [User Experience Design](week-02)  
 [User Research](week-06)  
 [User Research Analysis](week-06)  
 [User Stories](week-06)  
-[UX Goals](week-02)  
+[UX Objectives](week-02)  
 
 ### V
 [Visual Design](week-12)  
