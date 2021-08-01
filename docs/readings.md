@@ -115,4 +115,4 @@
 **7 Things Every Designer Needs to Know about Accessibility (2 of 2 for Week 12)**  
 <a class="embedly-card" data-card-controls="0" data-card-align="left" href="https://medium.com/salesforce-ux/7-things-every-designer-needs-to-know-about-accessibility-64f105f0881b">7 Things Every Designer Needs to Know about Accessibility</a>
 
-<script src="//cdn.embedly.com/widgets/platform.js" charset="UTF-8"></script>
+<script async src="//cdn.embedly.com/widgets/platform.js" charset="UTF-8"></script>
