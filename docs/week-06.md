@@ -37,7 +37,9 @@
 
 [Discovery Research](ux-techniques-guide/04.how-to-understand-and-communicate-peoples-needs-and-behaviors/discovery-research.md ':include')
 
-[Empathy Maps](ux-techniques-guide/04.how-to-understand-and-communicate-peoples-needs-and-behaviors/empathy-maps.md ':include')
+[Empathy Maps](ux-techniques-guide/04.how-to-understand-and-communicate-peoples-needs-and-behaviors/empathy-maps.md ':include')  
+
+[Hypothesis](ux-techniques-guide/01.what-is-usability-and-user-experience-design/hypothesis.md ':include')  
 
 [Interviews](ux-techniques-guide/04.how-to-understand-and-communicate-peoples-needs-and-behaviors/interviews.md ':include')
 
@@ -45,7 +47,7 @@
 
 [Personas](ux-techniques-guide/04.how-to-understand-and-communicate-peoples-needs-and-behaviors/personas.md ':include')
 
-[Problem Framing](ux-techniques-guide/04.how-to-understand-and-communicate-peoples-needs-and-behaviors/problem-framing.md ':include')
+[Problem Statements](ux-techniques-guide/01.what-is-usability-and-user-experience-design/problem-statements.md ':include')
 
 [Task Analysis](ux-techniques-guide/04.how-to-understand-and-communicate-peoples-needs-and-behaviors/task-analysis.md ':include')
 
