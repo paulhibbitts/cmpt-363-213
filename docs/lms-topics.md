@@ -98,9 +98,9 @@
 [UX Goals](https://canvas.sfu.ca/courses/64326/modules/items/2120562)  
 
 ### V
-[Weekly Visual Design](https://canvas.sfu.ca/courses/64326/modules/items/2120572)  
-[Weekly Visual Design Principles (CRAP)](https://canvas.sfu.ca/courses/64326/modules/items/2120572)  
-[Weekly Visual Hierarchy](https://canvas.sfu.ca/courses/64326/modules/items/2120572)
+[Visual Design](https://canvas.sfu.ca/courses/64326/modules/items/2120572)  
+[Visual Design Principles (CRAP)](https://canvas.sfu.ca/courses/64326/modules/items/2120572)  
+[Visual Hierarchy](https://canvas.sfu.ca/courses/64326/modules/items/2120572)
 
 ### W
 [Wireframes](https://canvas.sfu.ca/courses/64326/modules/items/2120569)  
