@@ -2,8 +2,8 @@
 
 ## Adobe XD
 *   [Adobe XD Downloads](https://www.adobe.com/ca/products/xd.html)
-*   [23 Useful Adobe XD Tips, Tricks and Tutorials](https://bashooka.com/resources/adobe-xd-tips-tricks-and-tutorials/)
 *   [Adobe XD tutorials](https://helpx.adobe.com/ca/xd/tutorials.html)
+*   [23 Useful Adobe XD Tips, Tricks and Tutorials](https://bashooka.com/resources/adobe-xd-tips-tricks-and-tutorials/)
 *   [FontAwesome Adobe Experience Design - Adobe XD](https://github.com/boraunal/FontAwesome-AdobeExperience-Design-XD)
 *   [Learning the basics of Adobe XD in one hour](https://medium.com/drill/learning-the-basics-of-adobe-xd-in-one-hour-3537f3ac02a3)  
 *   [Repeat Grid](https://www.xdguru.com/adobe-xd-guide/repeat-grid/)
@@ -29,5 +29,8 @@
 ## Figma
 *   [Figma Web App](https://www.figma.com/)
 *   [Figma Help Centre](https://help.figma.com/hc/en-us)
+*   [10 tips on using components in Figma](https://medium.com/design-with-figma/10-tips-on-using-components-in-figma-c7db9c5e7fe1)
 *   [Figma 101: An introduction tutorial](https://www.youtube.com/watch?v=cCNLD5IZY34)
+*   [Figma tips and tricks](https://blog.prototypr.io/figma-tips-and-tricks-1c07ec13b696)  
 *   [Figma Tutorial: How (and Why) To Use It For Your Next Project](https://snipcart.com/blog/how-to-use-figma-tutorial)  
+*   [Introduction to Figma - 2021 Beginners Tutorial (Everything You Need to Know in 20 minutes)](https://www.youtube.com/watch?v=TYhp4s-vjK4)  
