@@ -43,3 +43,5 @@
 [Scenarios](ux-techniques-guide/07.how-to-explore-and-describe-possible-design-solutions/scenarios.md ':include')
 
 [Storyboards](ux-techniques-guide/07.how-to-explore-and-describe-possible-design-solutions/storyboards.md ':include')
+
+[Wireframes](ux-techniques-guide/07.how-to-explore-and-describe-possible-design-solutions/wireframes.md ':include')
