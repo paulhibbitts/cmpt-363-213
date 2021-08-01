@@ -38,12 +38,12 @@
 
 [Problem Framing](ux-techniques-guide/04.how-to-understand-and-communicate-peoples-needs-and-behaviors/problem-framing.md ':include')
 
-[Task Flows](ux-techniques-guide/05.what-is-the-practice-of-multidevice-interaction-design/task-flows.md ':include')
-
 [Prototyping](ux-techniques-guide/07.how-to-explore-and-describe-possible-design-solutions/prototyping.md ':include')
 
 [Scenarios](ux-techniques-guide/07.how-to-explore-and-describe-possible-design-solutions/scenarios.md ':include')
 
-[Storyboards](ux-techniques-guide/07.how-to-explore-and-describe-possible-design-solutions/storyboards.md ':include')
+[Storyboards](ux-techniques-guide/07.how-to-explore-and-describe-possible-design-solutions/storyboards.md ':include')  
+
+[Task Flows](ux-techniques-guide/05.what-is-the-practice-of-multidevice-interaction-design/task-flows.md ':include')
 
 [Wireframes](ux-techniques-guide/07.how-to-explore-and-describe-possible-design-solutions/wireframes.md ':include')
