@@ -29,7 +29,7 @@
 ![Double Diamond (British Design Council)](assets/images/Double_diamond.png)
 
 ## Downloads
-[Product Reaction Cards](https://canvas.sfu.ca/courses/61465/files/folder/Downloads/Product%20Reaction%20Cards)  
+[Product Reaction Cards](https://canvas.sfu.ca/courses/64326/files/folder/Downloads/Product%20Reaction%20Cards)  
 
 ## Supplemental Readings
 [Design Ethics](ux-techniques-guide/01.what-is-usability-and-user-experience-design/design-ethics.md ':include')
