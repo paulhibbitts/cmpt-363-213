@@ -112,6 +112,9 @@
       // Enter the URL of your own GitHub Repository in between the two quotes below
       var yourRepoURL = 'https://github.com/paulhibbitts/cmpt-363-213';
 
+      // Customize the text for your Edit this Page on GitHub link between the two quotes below
+      var editThisPageLinkText = 'Propose Changes to this Page';
+
       function checkParameterByName(name, url = window.location.href) {
         name = name.replace(/[\[\]]/g, '\\$&');
         var regex = new RegExp('[?&]' + name + '(=([^&#]*)|&|#|$)'),
@@ -177,7 +180,7 @@
                 } else {
                   url = yourRepoURL +'/blob/main/docs/' + vm.route.file
                 }
-                var editHtml = '[:memo: Propose Changes to this Page](' + url + ')\n'
+                var editHtml = '[:memo: ' + editThisPageLinkText + '](' + url + ')\n'
 
                 // Adjust GitHub displayable image URL format to also work in Docsify
                 html = html.replace(new RegExp("../assets/images", 'ig'), "assets/images");
