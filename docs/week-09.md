@@ -36,8 +36,6 @@
 
 [Brainstorming](ux-techniques-guide/07.how-to-explore-and-describe-possible-design-solutions/brainstorming.md ':include')
 
-[Problem Framing](ux-techniques-guide/04.how-to-understand-and-communicate-peoples-needs-and-behaviors/problem-framing.md ':include')
-
 [Prototyping](ux-techniques-guide/07.how-to-explore-and-describe-possible-design-solutions/prototyping.md ':include')
 
 [Scenarios](ux-techniques-guide/07.how-to-explore-and-describe-possible-design-solutions/scenarios.md ':include')
