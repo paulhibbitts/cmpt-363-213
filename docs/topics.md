@@ -13,9 +13,9 @@
 
 ### D
 [Design Ethics](week-02)  
-[Designing for Touch](week-03)  
-[User Scenarios (also called Design Scenarios)](week-09)  
+[Design Scenarios (also called Scenarios)](week-09)  
 [Design Thinking](week-02)  
+[Designing for Touch](week-03)  
 [Discovery Research](week-06)  
 
 ### E
@@ -52,7 +52,6 @@
 [Lean UX](week-02)  
 
 ### M
-[Microsoft Product Reaction Cards](week-02)  
 [Miller’s Law](week-03)  
 [Mobile Design](week-03)  
 [Multi-device Design](week-03)  
@@ -64,19 +63,19 @@
 [Outcomes](week-02)
 
 ### P
+[Personas/Proto-Personas](week-06)  
 [Power Law of Practice](week-03)  
 [Problem Framing](week-08)  
 [Problem Statements](week-06)  
 [Product Reaction Cards](week-02)  
 [Prototyping](week-09)  
-[Proto-Personas](week-06)  
 
 ### R
 [Remote User Research and Usability Techniques](week-07)  
 
 ### S
 [Scenario-based Design (and Task-Centered Design)](week-09)  
-[Scenarios (also called Task Examples)](week-09)  
+[Scenarios (also called Design Scenarios)](week-09)  
 [Sketching](week-09)
 [Software Design Processes](week-02)  
 [Storyboards](week-09)  
