@@ -34,14 +34,14 @@
 
 ## Supplemental Readings  
 
-[Brainstorming](ux-techniques-guide/07.how-to-explore-and-describe-possible-design-solutions/brainstorming.md ':include')
+[Brainstorming](ux-techniques-guide/05.how-to-explore-and-describe-possible-design-solutions/brainstorming.md ':include')
 
-[Prototyping](ux-techniques-guide/07.how-to-explore-and-describe-possible-design-solutions/prototyping.md ':include')
+[Prototyping](ux-techniques-guide/05.how-to-explore-and-describe-possible-design-solutions/prototyping.md ':include')
 
-[Scenarios](ux-techniques-guide/07.how-to-explore-and-describe-possible-design-solutions/scenarios.md ':include')
+[Scenarios](ux-techniques-guide/05.how-to-explore-and-describe-possible-design-solutions/scenarios.md ':include')
 
-[Storyboards](ux-techniques-guide/07.how-to-explore-and-describe-possible-design-solutions/storyboards.md ':include')  
+[Storyboards](ux-techniques-guide/05.how-to-explore-and-describe-possible-design-solutions/storyboards.md ':include')  
 
-[Task Flows](ux-techniques-guide/05.what-is-the-practice-of-multidevice-interaction-design/task-flows.md ':include')
+[Task Flows](ux-techniques-guide/02.what-is-the-practice-of-multidevice-interaction-design/task-flows.md ':include')
 
-[Wireframes](ux-techniques-guide/07.how-to-explore-and-describe-possible-design-solutions/wireframes.md ':include')
+[Wireframes](ux-techniques-guide/05.how-to-explore-and-describe-possible-design-solutions/wireframes.md ':include')

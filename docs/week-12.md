@@ -29,16 +29,16 @@
 
 ## Supplemental Readings  
 
-[Grids](ux-techniques-guide/08.what-are-the-essentials-of-visual-interface-design/grids.md ':include')
+[Grids](ux-techniques-guide/06.what-are-the-essentials-of-visual-interface-design/grids.md ':include')
 
-[Hierarchy](ux-techniques-guide/08.what-are-the-essentials-of-visual-interface-design/hierarchy.md ':include')
+[Hierarchy](ux-techniques-guide/06.what-are-the-essentials-of-visual-interface-design/hierarchy.md ':include')
 
-[Icons](ux-techniques-guide/08.what-are-the-essentials-of-visual-interface-design/icons.md ':include')
+[Icons](ux-techniques-guide/06.what-are-the-essentials-of-visual-interface-design/icons.md ':include')
 
-[Layout](ux-techniques-guide/08.what-are-the-essentials-of-visual-interface-design/layout.md ':include')
+[Layout](ux-techniques-guide/06.what-are-the-essentials-of-visual-interface-design/layout.md ':include')
 
-[Typography](ux-techniques-guide/08.what-are-the-essentials-of-visual-interface-design/typography.md ':include')
+[Typography](ux-techniques-guide/06.what-are-the-essentials-of-visual-interface-design/typography.md ':include')
 
-[Visual Design Principles (CRAP)](ux-techniques-guide/08.what-are-the-essentials-of-visual-interface-design/visual-design-principles.md ':include')
+[Visual Design Principles (CRAP)](ux-techniques-guide/06.what-are-the-essentials-of-visual-interface-design/visual-design-principles.md ':include')
 
-[Visual Interface Design](ux-techniques-guide/08.what-are-the-essentials-of-visual-interface-design/visual-interface-design.md ':include')
+[Visual Interface Design](ux-techniques-guide/06.what-are-the-essentials-of-visual-interface-design/visual-interface-design.md ':include')
