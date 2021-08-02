@@ -59,7 +59,7 @@
 :fas fa-image fa-fw: [Weekly Visual Journal Entry for Week 6](https://canvas.sfu.ca/courses/64326/assignments) <span class='badge'> [Sun Oct 17 11:59pm PT](https://www.timeanddate.com/worldclock/fixedtime.html?msg=CMPT-363+Week+6+Visual+Journal+Entry+Due+Date&iso=20211017T235900)</span>  
 
 ## :fas fa-calendar fa-fw: [Week 7 (Oct 18 - 24)](https://canvas.sfu.ca/courses/64326/modules/items/2120567)
-**Instructor user research plan group meetings / Special topic - conducting user research**   
+**Special topic - conducting user research / Instructor user research plan group meetings**   
 :fas fa-book fa-fw: [How to Run Remote User Research (Like a Boss!) (6 minute read)](https://medium.com/mixed-methods/how-to-run-remote-user-research-like-a-boss-b3729954f03)  
 :fas fa-book fa-fw: [User Interviews: How, When, and Why to Conduct Them (13 minute read)](https://www.nngroup.com/articles/user-interviews/)  
 :fas fa-book fa-fw: [User Research When You Can’t Talk to Your Users (12 minute read)](https://alistapart.com/article/user-research-when-you-cant-talk-to-your-users/)  
