@@ -66,7 +66,6 @@
 ### P
 [Power Law of Practice](week-03)  
 [Problem Framing](week-08)  
-[Problem Framing](week-08)  
 [Problem Statements](week-06)  
 [Product Reaction Cards](week-02)  
 [Prototyping](week-09)  
