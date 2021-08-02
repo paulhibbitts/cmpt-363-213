@@ -122,6 +122,8 @@
 
 [Natural User Interfaces](ux-techniques-guide/04.how-to-bridge-the-gap-between-the-problem-space-and-design-space/natural-user-interfaces.md ':include')
 
+[Product Design Principles](ux-techniques-guide/04.how-to-bridge-the-gap-between-the-problem-space-and-design-space/product-design-principles.md ':include')
+
 </details>
 
 <details>
