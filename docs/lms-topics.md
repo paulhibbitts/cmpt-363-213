@@ -13,9 +13,9 @@
 
 ### D
 [Design Ethics](https://canvas.sfu.ca/courses/64326/modules/items/2120562)  
-[Designing for Touch](https://canvas.sfu.ca/courses/64326/modules/items/2120563)  
-[User Scenarios (also called Design Scenarios)](https://canvas.sfu.ca/courses/64326/modules/items/2120569)  
+[Design Scenarios (also called Scenarios)](https://canvas.sfu.ca/courses/64326/modules/items/2120569)  
 [Design Thinking](https://canvas.sfu.ca/courses/64326/modules/items/2120562)  
+[Designing for Touch](https://canvas.sfu.ca/courses/64326/modules/items/2120563)  
 [Discovery Research](https://canvas.sfu.ca/courses/64326/modules/items/2120566)  
 
 ### E
@@ -52,7 +52,6 @@
 [Lean UX](https://canvas.sfu.ca/courses/64326/modules/items/2120562)  
 
 ### M
-[Microsoft Product Reaction Cards](https://canvas.sfu.ca/courses/64326/modules/items/2120562)  
 [Miller’s Law](https://canvas.sfu.ca/courses/64326/modules/items/2120563)  
 [Mobile Design](https://canvas.sfu.ca/courses/64326/modules/items/2120563)  
 [Multi-device Design](https://canvas.sfu.ca/courses/64326/modules/items/2120563)  
@@ -64,19 +63,19 @@
 [Outcomes](https://canvas.sfu.ca/courses/64326/modules/items/2120562)
 
 ### P
+[Personas/Proto-Personas](https://canvas.sfu.ca/courses/64326/modules/items/2120566)  
 [Power Law of Practice](https://canvas.sfu.ca/courses/64326/modules/items/2120563)  
 [Problem Framing](https://canvas.sfu.ca/courses/64326/modules/items/2120568)  
 [Problem Statements](https://canvas.sfu.ca/courses/64326/modules/items/2120566)  
 [Product Reaction Cards](https://canvas.sfu.ca/courses/64326/modules/items/2120562)  
 [Prototyping](https://canvas.sfu.ca/courses/64326/modules/items/2120569)  
-[Proto-Personas](https://canvas.sfu.ca/courses/64326/modules/items/2120566)  
 
 ### R
 [Remote User Research and Usability Techniques](https://canvas.sfu.ca/courses/64326/modules/items/2120567)  
 
 ### S
 [Scenario-based Design (and Task-Centered Design)](https://canvas.sfu.ca/courses/64326/modules/items/2120569)  
-[Scenarios (also called Task Examples)](https://canvas.sfu.ca/courses/64326/modules/items/2120569)  
+[Scenarios (also called Design Scenarios)](https://canvas.sfu.ca/courses/64326/modules/items/2120569)  
 [Sketching](https://canvas.sfu.ca/courses/64326/modules/items/2120569)
 [Software Design Processes](https://canvas.sfu.ca/courses/64326/modules/items/2120562)  
 [Storyboards](https://canvas.sfu.ca/courses/64326/modules/items/2120569)  
