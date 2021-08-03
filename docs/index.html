@@ -128,19 +128,19 @@
         return decodeURIComponent(results[2].replace(/\+/g, ' '));
         }
 
-      // Return given parameter if given key in URL
-      // @param {string} name Parameter-name
-      // @param {*} isTrue Return if found
-      // @param {*} isFalse Return if not found
-      // @returns {*} Given parameter
-      function returnByURLParameterByName(name, isTrue, isFalse, url = window.location.href) {
-        name = name.replace(/[\[\]]/g, '\\$&');
-        var regex = new RegExp('[?&]' + name + '(=([^&#]*)|&|#|$)'),
-            results = regex.exec(url);
-        if (!results) return isFalse;
-        if (!results[2]) return isFalse;
-        return isTrue;
-        }
+        // Return given parameter if given key in URL
+        // @param {string} name Parameter-name
+        // @param {*} isTrue Return if found
+        // @param {*} isFalse Return if not found
+        // @returns {*} Given parameter
+        function returnByURLParameterByName(name, isTrue, isFalse, url = window.location.href) {
+          name = name.replace(/[\[\]]/g, '\\$&');
+          var regex = new RegExp('[?&]' + name + '(=([^&#]*)|&|#|$)'),
+              results = regex.exec(url);
+          if (!results) return isFalse;
+          if (!results[2]) return isFalse;
+          return isTrue;
+          }
 
         // Docsify
         window.$docsify = {
