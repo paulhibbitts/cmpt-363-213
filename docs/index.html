@@ -115,7 +115,11 @@
       // Customize the text for your Edit this Page on GitHub link between the two quotes below
       var editThisPageLinkText = 'Propose Changes to this Page';
 
-      function checkParameterByName(name, url = window.location.href) {
+
+      // Get value from GET-parameter in URL
+      // @param {string} name Parameter-name
+      // @returns {string|null} Parameter-value
+      function getURLParameterByName(name, url = window.location.href) {
         name = name.replace(/[\[\]]/g, '\\$&');
         var regex = new RegExp('[?&]' + name + '(=([^&#]*)|&|#|$)'),
             results = regex.exec(url);
@@ -124,23 +128,19 @@
         return decodeURIComponent(results[2].replace(/\+/g, ' '));
         }
 
-        function checkParameterByNameReturnMarkdownFilename(name, falsepage, truepage, url = window.location.href) {
-          name = name.replace(/[\[\]]/g, '\\$&');
-          var regex = new RegExp('[?&]' + name + '(=([^&#]*)|&|#|$)'),
-              results = regex.exec(url);
-          if (!results) return falsepage;
-          if (!results[2]) return falsepage;
-          return truepage;
-          }
-
-        function checkParameterByNameReturnExternalTarget(name, falsetarget, truetarget, url = window.location.href) {
-          name = name.replace(/[\[\]]/g, '\\$&');
-          var regex = new RegExp('[?&]' + name + '(=([^&#]*)|&|#|$)'),
-              results = regex.exec(url);
-          if (!results) return falsetarget;
-          if (!results[2]) return falsetarget;
-          return truetarget;
-          }
+      // Return given parameter if given key in URL
+      // @param {string} name Parameter-name
+      // @param {*} isTrue Return if found
+      // @param {*} isFalse Return if not found
+      // @returns {*} Given parameter
+      function returnByURLParameterByName(name, isTrue, isFalse, url = window.location.href) {
+        name = name.replace(/[\[\]]/g, '\\$&');
+        var regex = new RegExp('[?&]' + name + '(=([^&#]*)|&|#|$)'),
+            results = regex.exec(url);
+        if (!results) return isFalse;
+        if (!results[2]) return isFalse;
+        return isTrue;
+        }
 
         // Docsify
         window.$docsify = {
@@ -149,15 +149,15 @@
             name              : 'CMPT-363-213',
             homepage          : 'home.md',
             loadSidebar       : 'sidebar.md',
-            loadNavbar        : !(checkParameterByName('embedded') === 'true'),
-            externalLinkTarget: (checkParameterByNameReturnExternalTarget('embedded','_blank','_top')),
+            loadNavbar        : !(getURLParameterByName('embedded') === 'true'),
+            externalLinkTarget: (returnByURLParameterByName('embedded','_top','_blank')),
 
             // SIDEBAR NAVIGATION
             // -----------------------------------------------------------------
             auto2top   : true,
             maxLevel   : 3,
             subMaxLevel: 3,
-            hideSidebar: checkParameterByName('embedded') === 'true',
+            hideSidebar: getURLParameterByName('embedded') === 'true',
 
             // PLUGIN SETTINGS
             // -----------------------------------------------------------------
@@ -185,7 +185,7 @@
                 // Adjust GitHub displayable image URL format to also work in Docsify
                 html = html.replace(new RegExp("../assets/images", 'ig'), "assets/images");
 
-                if ((!(checkParameterByName('hidegitlink') === 'true'))  &&  (!!yourRepoURL)) {
+                if ((!(getURLParameterByName('hidegitlink') === 'true'))  &&  (!!yourRepoURL)) {
                   return html + '<br />' + '\n' + '<hr>' + '\n\n' + editHtml
                 } else {
                   return html
@@ -216,7 +216,7 @@
 
     <!-- Pagination Plugin -->
     <script>
-      if (!(checkParameterByName('embedded') === 'true')) {
+      if (!(getURLParameterByName('embedded') === 'true')) {
         // Load pagination script asynchronously
         var sNew = document.createElement("script");
         sNew.async = true;
