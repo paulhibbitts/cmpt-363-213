@@ -110,7 +110,7 @@
     <div id="app"></div>
     <script>
       // Enter the URL of your own GitHub Repository in between the two quotes below
-      var yourRepoURL = 'https://github.com/paulhibbitts/cmpt-363-213';
+      var gitLinkRepoURL = 'https://github.com/paulhibbitts/cmpt-363-213';
 
       // Customize the text for your Edit this Page on GitHub link between the two quotes below
       var editThisPageLinkText = 'Propose Changes to this Page';
@@ -178,14 +178,14 @@
                     .replace('raw.githubusercontent.com', 'github.com')
                     .replace(/\/master/, '/blob/master')
                 } else {
-                  url = yourRepoURL +'/blob/main/docs/' + vm.route.file
+                  url = gitLinkRepoURL +'/blob/main/docs/' + vm.route.file
                 }
                 var editHtml = '[:memo: ' + editThisPageLinkText + '](' + url + ')\n'
 
                 // Adjust GitHub displayable image URL format to also work in Docsify
                 html = html.replace(new RegExp("../assets/images", 'ig'), "assets/images");
 
-                if ((!(getURLParameterByName('hidegitlink') === 'true'))  &&  (!!yourRepoURL)) {
+                if ((!(getURLParameterByName('hidegitlink') === 'true'))  &&  (!!gitLinkRepoURL)) {
                   return html + '<br />' + '\n' + '<hr>' + '\n\n' + editHtml
                 } else {
                   return html
