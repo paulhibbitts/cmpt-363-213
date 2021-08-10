@@ -13,13 +13,14 @@
 - [Week 12 (Nov 22 - 28)](week-12)
 - [Week 13 (Nov 29 - Dec 5)](week-13)
 - [Week 14 (Dec 6 - 12)](week-14)
-- **LMS Links**
+- **Course Tools**
 [![Calendar](https://icongr.am/fontawesome/calendar.svg?size=16&color=6D6F71) Calendar](https://canvas.sfu.ca/calendar)
 [![Assignments](https://icongr.am/fontawesome/pencil.svg?size=16&color=6D6F71) Assignments](https://canvas.sfu.ca/courses/64326/assignments)
-[![Discord Server](https://icongr.am/fontawesome/comments-o.svg?size=16&color=6D6F71) Discord Server](https://discord.gg/HzKPhJuM)
+[![Discord Discussions](https://icongr.am/fontawesome/comments-o.svg?size=16&color=6D6F71) Discord Discussions](https://discord.gg/HzKPhJuM)
 [![Files](https://icongr.am/fontawesome/folder.svg?size=16&color=6D6F71) Files](https://canvas.sfu.ca/courses/64326/files)
 [![Grades](https://icongr.am/fontawesome/calculator.svg?size=16&color=6D6F71) Grades](https://canvas.sfu.ca/courses/64326/gradebook)
 [![Syllabus](https://icongr.am/fontawesome/list.svg?size=16&color=6D6F71) Syllabus](https://canvas.sfu.ca/courses/64326/assignments/syllabus)  
+
 
 <style>
   :root {
