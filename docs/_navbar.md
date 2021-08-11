@@ -3,4 +3,3 @@
 * [All Readings](readings.md)
 * [Resources](resources.md)
 * [UX Techniques Guide](ux-techniques-guide.md)
-* [Contact Paul/TAs](contact.md)
