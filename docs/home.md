@@ -16,18 +16,21 @@
 
 # Online Office (Student) Hours ‍👩🏽‍💻👨🏽‍💻
 
+This term we will be using a private Discord server for all class discussions, including assignment clarifications - [please join us](https://www2.cs.sfu.ca/CourseCentral/363/paulh/discord-server-invite-363-213)!
+
+_Once you join the server (read-only) please email me your Discord username to have full access. In general, I will only be responding to messages between 10-5 Monday to Friday._
+
 <div class="row">
 <div class="column">
 
-Chat 1-on-1 Office Hours:  
-Contact Paul here or [CSSS Discord](https://t.co/GZQUc6iVjS):  
+Chat Office Hours:  
 Mondays 12:00-12:30pm PT  
 Wednesdays 12:00-12:30pm PT  
 
 </div>
 <div class="column">
 
-[Zoom 1-on-1 Office Hours](https://www2.cs.sfu.ca/CourseCentral/363/paulh/1-on-1-office-hours/):  
+Audio/Video Call Office Hours:  
 Tuesdays 1:30-2:00pm PT  
 Thursdays 3:30-4:00pm PT  
 
