@@ -23,7 +23,7 @@ _Once you join the server (read-only) please [email Paul](mailto:paul_hibbitts@s
 <div class="row">
 <div class="column">
 
-Chat Office Hours:  
+Chat-only Office Hours:  
 Mondays 12:00-12:30pm PT  
 Wednesdays 12:00-12:30pm PT  
 
