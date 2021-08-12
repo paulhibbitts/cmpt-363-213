@@ -11,6 +11,7 @@ _The process of learning about the audience for your system or product._
 *   [Step By Step Guide To More Structured User Research](http://blog.usabilla.com/step-by-step-guide-to-more-structured-user-research/)  
 *   [The forgotten step where even brilliant research fails (or makes you invaluable)](https://uxdesign.cc/the-forgotten-step-where-even-brilliant-research-fails-or-makes-you-invaluable-6ddec8481c80)  
 *   [The two questions we answer with user research](http://www.userfocus.co.uk/articles/the_two_questions_we_answer_with_user_research.html)  
+*   [Translating User Research into User Experience Design](https://xd.adobe.com/ideas/process/user-research/translating-user-research-into-ux-design/)  
 *   [User Research: What It Is and Why You Should Do It](https://www.interaction-design.org/literature/article/user-research-what-it-is-and-why-you-should-do-it)  
 *   [User Need Statements: The ‘Define’ Stage in Design Thinking](https://www.nngroup.com/articles/user-need-statements/)  
 *   [When to Use Which User-Experience Research Methods](https://www.nngroup.com/articles/which-ux-research-methods/)  
