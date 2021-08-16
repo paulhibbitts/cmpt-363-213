@@ -160,29 +160,29 @@
 </details>
 
 <details>
-  <summary>What are the Essentials of Effective Visual Interface Design?</summary>
+  <summary>What are the Essentials of Effective Visual Design?</summary>
 
-[Color](ux-techniques-guide/06.what-are-the-essentials-of-visual-interface-design/color.md ':include')
+[Color](ux-techniques-guide/06.what-are-the-essentials-of-visual-design/color.md ':include')
 
-[Color Tools](ux-techniques-guide/06.what-are-the-essentials-of-visual-interface-design/color-tools.md ':include')
+[Color Tools](ux-techniques-guide/06.what-are-the-essentials-of-visual-design/color-tools.md ':include')
 
-[Grids](ux-techniques-guide/06.what-are-the-essentials-of-visual-interface-design/grids.md ':include')
+[Grids](ux-techniques-guide/06.what-are-the-essentials-of-visual-design/grids.md ':include')
 
-[Hierarchy](ux-techniques-guide/06.what-are-the-essentials-of-visual-interface-design/hierarchy.md ':include')
+[Hierarchy](ux-techniques-guide/06.what-are-the-essentials-of-visual-design/hierarchy.md ':include')
 
-[Icons](ux-techniques-guide/06.what-are-the-essentials-of-visual-interface-design/icons.md ':include')
+[Icons](ux-techniques-guide/06.what-are-the-essentials-of-visual-design/icons.md ':include')
 
-[Interface Animation](ux-techniques-guide/06.what-are-the-essentials-of-visual-interface-design/interface-animation.md ':include')
+[Interface Animation](ux-techniques-guide/06.what-are-the-essentials-of-visual-design/interface-animation.md ':include')
 
-[Layout](ux-techniques-guide/06.what-are-the-essentials-of-visual-interface-design/layout.md ':include')
+[Layout](ux-techniques-guide/06.what-are-the-essentials-of-visual-design/layout.md ':include')
 
-[Terminology](ux-techniques-guide/06.what-are-the-essentials-of-visual-interface-design/terminology.md ':include')
+[Terminology](ux-techniques-guide/06.what-are-the-essentials-of-visual-design/terminology.md ':include')
 
-[Typography](ux-techniques-guide/06.what-are-the-essentials-of-visual-interface-design/typography.md ':include')
+[Typography](ux-techniques-guide/06.what-are-the-essentials-of-visual-design/typography.md ':include')
 
-[Visual Design Principles (CRAP)](ux-techniques-guide/06.what-are-the-essentials-of-visual-interface-design/visual-design-principles.md ':include')
+[Visual Design Principles (CRAP)](ux-techniques-guide/06.what-are-the-essentials-of-visual-design/visual-design-principles.md ':include')
 
-[Visual Interface Design](ux-techniques-guide/06.what-are-the-essentials-of-visual-interface-design/visual-interface-design.md ':include')
+[Visual Interface Design](ux-techniques-guide/06.what-are-the-essentials-of-visual-design/visual-interface-design.md ':include')
 
 </details>
 
