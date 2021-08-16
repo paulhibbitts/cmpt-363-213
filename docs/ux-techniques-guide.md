@@ -160,7 +160,7 @@
 </details>
 
 <details>
-  <summary>What are the Essentials of Effective Visual Communication?</summary>
+  <summary>What are the Essentials of Effective Visual Interface Design?</summary>
 
 [Color](ux-techniques-guide/06.what-are-the-essentials-of-visual-interface-design/color.md ':include')
 
