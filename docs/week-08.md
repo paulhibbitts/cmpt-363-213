@@ -38,4 +38,4 @@
 
 [Inclusive Design](ux-techniques-guide/04.how-to-bridge-the-gap-between-the-problem-space-and-design-space/inclusive-design.md ':include')  
 
-[Problem Framing](ux-techniques-guide/03.how-to-understand-and-communicate-peoples-needs-and-behaviors/problem-framing.md ':include')
+[Problem Framing](ux-techniques-guide/03.how-to-understand-and-communicate-peoples-needs-and-behaviours/problem-framing.md ':include')

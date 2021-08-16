@@ -49,49 +49,49 @@
 </details>
 
 <details>
-  <summary>How to Understand and Communicate People's Needs and Behaviors?</summary>
+  <summary>How to Understand and Communicate People's Needs and Behaviours?</summary>
 
-[Affinity Diagrams](ux-techniques-guide/03.how-to-understand-and-communicate-peoples-needs-and-behaviors/affinity-diagrams.md ':include')
+[Affinity Diagrams](ux-techniques-guide/03.how-to-understand-and-communicate-peoples-needs-and-behaviours/affinity-diagrams.md ':include')
 
-[Card Sorts](ux-techniques-guide/03.how-to-understand-and-communicate-peoples-needs-and-behaviors/card-sorts.md ':include')
+[Card Sorts](ux-techniques-guide/03.how-to-understand-and-communicate-peoples-needs-and-behaviours/card-sorts.md ':include')
 
-[Contextual Inquiry](ux-techniques-guide/03.how-to-understand-and-communicate-peoples-needs-and-behaviors/contextual-inquiry.md ':include')
+[Contextual Inquiry](ux-techniques-guide/03.how-to-understand-and-communicate-peoples-needs-and-behaviours/contextual-inquiry.md ':include')
 
-[Remote Contextual Inquiry](ux-techniques-guide/03.how-to-understand-and-communicate-peoples-needs-and-behaviors/contextual-inquiry-remote.md ':include')
+[Remote Contextual Inquiry](ux-techniques-guide/03.how-to-understand-and-communicate-peoples-needs-and-behaviours/contextual-inquiry-remote.md ':include')
 
-[Diary Studies](ux-techniques-guide/03.how-to-understand-and-communicate-peoples-needs-and-behaviors/diary-studies.md ':include')
+[Diary Studies](ux-techniques-guide/03.how-to-understand-and-communicate-peoples-needs-and-behaviours/diary-studies.md ':include')
 
-[Discovery Research](ux-techniques-guide/03.how-to-understand-and-communicate-peoples-needs-and-behaviors/discovery-research.md ':include')
+[Discovery Research](ux-techniques-guide/03.how-to-understand-and-communicate-peoples-needs-and-behaviours/discovery-research.md ':include')
 
-[Empathy Maps](ux-techniques-guide/03.how-to-understand-and-communicate-peoples-needs-and-behaviors/empathy-maps.md ':include')
+[Empathy Maps](ux-techniques-guide/03.how-to-understand-and-communicate-peoples-needs-and-behaviours/empathy-maps.md ':include')
 
-[Five Whys](ux-techniques-guide/03.how-to-understand-and-communicate-peoples-needs-and-behaviors/five-whys.md ':include')
+[Five Whys](ux-techniques-guide/03.how-to-understand-and-communicate-peoples-needs-and-behaviours/five-whys.md ':include')
 
-[Interviews](ux-techniques-guide/03.how-to-understand-and-communicate-peoples-needs-and-behaviors/interviews.md ':include')
+[Interviews](ux-techniques-guide/03.how-to-understand-and-communicate-peoples-needs-and-behaviours/interviews.md ':include')
 
-[Job Stories](ux-techniques-guide/03.how-to-understand-and-communicate-peoples-needs-and-behaviors/job-stories.md ':include')
+[Job Stories](ux-techniques-guide/03.how-to-understand-and-communicate-peoples-needs-and-behaviours/job-stories.md ':include')
 
-[Personas](ux-techniques-guide/03.how-to-understand-and-communicate-peoples-needs-and-behaviors/personas.md ':include')
+[Personas](ux-techniques-guide/03.how-to-understand-and-communicate-peoples-needs-and-behaviours/personas.md ':include')
 
-[Proto-Personas](ux-techniques-guide/03.how-to-understand-and-communicate-peoples-needs-and-behaviors/personas-proto.md ':include')
+[Proto-Personas](ux-techniques-guide/03.how-to-understand-and-communicate-peoples-needs-and-behaviours/personas-proto.md ':include')
 
-[Problem Framing](ux-techniques-guide/03.how-to-understand-and-communicate-peoples-needs-and-behaviors/problem-framing.md ':include')
+[Problem Framing](ux-techniques-guide/03.how-to-understand-and-communicate-peoples-needs-and-behaviours/problem-framing.md ':include')
 
-[Story Maps](ux-techniques-guide/03.how-to-understand-and-communicate-peoples-needs-and-behaviors/story-maps.md ':include')
+[Story Maps](ux-techniques-guide/03.how-to-understand-and-communicate-peoples-needs-and-behaviours/story-maps.md ':include')
 
-[Surveys](ux-techniques-guide/03.how-to-understand-and-communicate-peoples-needs-and-behaviors/surveys.md ':include')
+[Surveys](ux-techniques-guide/03.how-to-understand-and-communicate-peoples-needs-and-behaviours/surveys.md ':include')
 
-[Task Analysis](ux-techniques-guide/03.how-to-understand-and-communicate-peoples-needs-and-behaviors/task-analysis.md ':include')
+[Task Analysis](ux-techniques-guide/03.how-to-understand-and-communicate-peoples-needs-and-behaviours/task-analysis.md ':include')
 
-[Thematic Analysis](ux-techniques-guide/03.how-to-understand-and-communicate-peoples-needs-and-behaviors/thematic-analysis.md ':include')
+[Thematic Analysis](ux-techniques-guide/03.how-to-understand-and-communicate-peoples-needs-and-behaviours/thematic-analysis.md ':include')
 
-[User Profiles](ux-techniques-guide/03.how-to-understand-and-communicate-peoples-needs-and-behaviors/user-profiles.md ':include')
+[User Profiles](ux-techniques-guide/03.how-to-understand-and-communicate-peoples-needs-and-behaviours/user-profiles.md ':include')
 
-[User Research](ux-techniques-guide/03.how-to-understand-and-communicate-peoples-needs-and-behaviors/user-research.md ':include')
+[User Research](ux-techniques-guide/03.how-to-understand-and-communicate-peoples-needs-and-behaviours/user-research.md ':include')
 
-[Informal (Guerilla) User Research](ux-techniques-guide/03.how-to-understand-and-communicate-peoples-needs-and-behaviors/user-research-informal.md ':include')
+[Informal (Guerilla) User Research](ux-techniques-guide/03.how-to-understand-and-communicate-peoples-needs-and-behaviours/user-research-informal.md ':include')
 
-[User Stories](ux-techniques-guide/03.how-to-understand-and-communicate-peoples-needs-and-behaviors/user-stories.md ':include')
+[User Stories](ux-techniques-guide/03.how-to-understand-and-communicate-peoples-needs-and-behaviours/user-stories.md ':include')
 
 </details>
 

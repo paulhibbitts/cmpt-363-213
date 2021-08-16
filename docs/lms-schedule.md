@@ -46,7 +46,7 @@
 :fas fa-image fa-fw: [Weekly Visual Journal Entry for Week 5](https://canvas.sfu.ca/courses/64326/assignments) <span class='badge'> [Fri Oct 10 11:59pm PT](https://www.timeanddate.com/worldclock/fixedtime.html?msg=CMPT-363+Week+5+Visual+Journal+Entry+Due+Date&iso=20211010T235900)</span>  
 
 ## :fas fa-calendar fa-fw: [Week 6 (Oct 11 - 17)](https://canvas.sfu.ca/courses/64326/modules/items/2120566)
-**How to understand and communicate people's needs and behaviors?**  
+**How to understand and communicate people's needs and behaviours?**  
 :fas fa-check fa-fw: [Individual Heuristic Inspection Assignment due](https://canvas.sfu.ca/courses/64326/assignments/662758) <span class='badge'> [Mon Oct 11 11:59pm PT](https://www.timeanddate.com/worldclock/fixedtime.html?msg=CMPT-363+Individual+Heuristic+Inspection+Due+Date&iso=20211011T2359&p1=256)</span>  
 :fas fa-pen fa-fw: [Group User Research Assignment](https://canvas.sfu.ca/courses/64326/assignments/662762) <span class='badge'> [Mon Nov 1 11:59pm PT](https://www.timeanddate.com/worldclock/fixedtime.html?msg=CMPT-363+Group+User+Research+Assignment+Due+Date&iso=20211101T2359&p1=256)</span>  
 :fas fa-folder fa-fw: [Team Member Evaluation](#) <span class='badge'> [Tue Nov 2 11:59pm PT](https://www.timeanddate.com/worldclock/fixedtime.html?msg=CMPT-363+Team+Member+Evaluation+Due+Date&iso=20211102T235900&p1=256)</span>  

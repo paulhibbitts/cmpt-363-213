@@ -4,7 +4,7 @@
 * [What is the practice of multi-device interaction design? (Week 3)](#week-3)
 * [How to conduct a user interface inspection? (Week 4)](#week-4)
 * [Special topic - heuristic evaluations (Week 5)](#week-5)
-* [How to understand and communicate people's needs and behaviors? (Week 6)](#week-6)
+* [How to understand and communicate people's needs and behaviours? (Week 6)](#week-6)
 * [Special topic - conducting user research / Instructor user research plan group meetings (Week 7)](#week-7)
 * [How to bridge the gap between the problem space and design space? (Week 8)](#week-8)
 * [How to explore and describe possible design solutions? (Week 9)](#week-9)
@@ -48,7 +48,7 @@
 <div style="min-height: 430px;"><a class="embedly-card" data-card-controls="0" data-card-align="left" href="https://www.youtube.com/watch?list=PLVtu1bDQijari7LfHOoSTdcpbWIkwZWIA&v=gSm6bOw-KcQ">Design Heuristics Lecture with Scott Klemmer, a Video Playlist</a></div>
 
 ## Week 6
-### How to understand and communicate people's needs and behaviors?
+### How to understand and communicate people's needs and behaviours?
 **A 5-Step Process For Conducting User Research (1 of 3 for Week 5)**  
 <div style="min-height: 430px;"><a class="embedly-card" data-card-controls="0" data-card-align="left" href="https://www.smashingmagazine.com/2013/09/5-step-process-conducting-user-research/">A 5-Step Process For Conducting User Research</a></div>
 
