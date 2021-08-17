@@ -32,13 +32,21 @@
 <details>
   <summary>What is the Practice of Multi-Device Interaction Design? </summary>
 
-[Content Inventories](ux-techniques-guide/02.what-is-the-practice-of-multidevice-interaction-design/content-inventories.md ':include')
+[Chatbots](ux-techniques-guide/02.what-is-the-practice-of-multidevice-interaction-design/chatbots.md ':include')
 
 [Content Prioritization](ux-techniques-guide/02.what-is-the-practice-of-multidevice-interaction-design/content-prioritization.md ':include')
 
 [Designing for Touch](ux-techniques-guide/02.what-is-the-practice-of-multidevice-interaction-design/designing-for-touch.md ':include')
 
+[Empty States](ux-techniques-guide/02.what-is-the-practice-of-multidevice-interaction-design/empty-states.md ':include')
+
+[Form Design](ux-techniques-guide/02.what-is-the-practice-of-multidevice-interaction-design/form-design.md ':include')
+
+[Handling Errors](ux-techniques-guide/02.what-is-the-practice-of-multidevice-interaction-design/handling-errors.md ':include')
+
 [Interaction Design](ux-techniques-guide/02.what-is-the-practice-of-multidevice-interaction-design/interaction-design.md ':include')
+
+[Machine Learning](ux-techniques-guide/02.what-is-the-practice-of-multidevice-interaction-design/machine-learning.md ':include')
 
 [Mobile and Multi-device Web Design](ux-techniques-guide/02.what-is-the-practice-of-multidevice-interaction-design/mobile-and-multidevice-web-design.md ':include')
 
@@ -100,27 +108,17 @@
 
 [Accessibility](ux-techniques-guide/04.how-to-bridge-the-gap-between-the-problem-space-and-design-space/accessibility.md ':include')
 
-[Chatbots](ux-techniques-guide/04.how-to-bridge-the-gap-between-the-problem-space-and-design-space/chatbots.md ':include')
-
 [Cognitive Psychology](ux-techniques-guide/04.how-to-bridge-the-gap-between-the-problem-space-and-design-space/cognitive-psychology.md ':include')
 
 [Conceptual Models](ux-techniques-guide/04.how-to-bridge-the-gap-between-the-problem-space-and-design-space/conceptual-models.md ':include')
 
+[Content Inventories](ux-techniques-guide/04.how-to-bridge-the-gap-between-the-problem-space-and-design-space/content-inventories.md ':include')
+
 [Emotional Design](ux-techniques-guide/04.how-to-bridge-the-gap-between-the-problem-space-and-design-space/emotional-design.md ':include')
-
-[Empty States](ux-techniques-guide/04.how-to-bridge-the-gap-between-the-problem-space-and-design-space/empty-states.md ':include')
-
-[Form Design](ux-techniques-guide/04.how-to-bridge-the-gap-between-the-problem-space-and-design-space/form-design.md ':include')
-
-[Handling Errors](ux-techniques-guide/04.how-to-bridge-the-gap-between-the-problem-space-and-design-space/handling-errors.md ':include')
 
 [Inclusive Design](ux-techniques-guide/04.how-to-bridge-the-gap-between-the-problem-space-and-design-space/inclusive-design.md ':include')
 
 [Information Architecture](ux-techniques-guide/04.how-to-bridge-the-gap-between-the-problem-space-and-design-space/information-architecture.md ':include')
-
-[Machine Learning](ux-techniques-guide/04.how-to-bridge-the-gap-between-the-problem-space-and-design-space/machine-learning.md ':include')
-
-[Natural User Interfaces](ux-techniques-guide/04.how-to-bridge-the-gap-between-the-problem-space-and-design-space/natural-user-interfaces.md ':include')
 
 [Product Design Principles](ux-techniques-guide/04.how-to-bridge-the-gap-between-the-problem-space-and-design-space/product-design-principles.md ':include')
 
