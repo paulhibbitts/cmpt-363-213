@@ -63,6 +63,8 @@
 
 [Card Sorts](ux-techniques-guide/03.how-to-understand-and-communicate-peoples-needs-and-behaviours/card-sorts.md ':include')
 
+[Competitive Reviews](ux-techniques-guide/03.how-to-understand-and-communicate-peoples-needs-and-behaviours/competitive-reviews.md ':include')
+
 [Contextual Inquiry](ux-techniques-guide/03.how-to-understand-and-communicate-peoples-needs-and-behaviours/contextual-inquiry.md ':include')
 
 [Remote Contextual Inquiry](ux-techniques-guide/03.how-to-understand-and-communicate-peoples-needs-and-behaviours/contextual-inquiry-remote.md ':include')
