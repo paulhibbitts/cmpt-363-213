@@ -7,7 +7,7 @@
 
 ## :fas fa-calendar fa-fw: [Week 2 (Sep 13 - 19)](week-02)
 **What is usability and user experience design?**  
-:fas fa-users fa-fw: [Form Student Groups](https://canvas.sfu.ca/courses/64326/users) (4 members per group required) <span class='badge'> [Fri Sep 17 11:59pm PT](https://www.timeanddate.com/worldclock/fixedtime.html?msg=CMPT-363+Form+Student+Groups+Due+Date&iso=20210917T235900)</span>  
+:fas fa-users fa-fw: [Form Student Groups](https://canvas.sfu.ca/courses/64326/users) (4 members per group required) <span class='badge'> [Mon Sep 20 11:59pm PT](https://www.timeanddate.com/worldclock/fixedtime.html?msg=CMPT-363+Form+Student+Groups+Due+Date&iso=20210920T235900)</span>  
 :fas fa-desktop fa-fw: Mini-lectures and Activities <span class='badge'> [Tue Sep 14 2:30pm PT](https://www.timeanddate.com/worldclock/fixedtime.html?msg=CMPT-363+Mini-lectures+and+Activities&iso=20210914T1430&p1=256&ah=1&am=50)</span>  
 :fas fa-desktop fa-fw: Review and Discussion <span class='badge'> [Thu Sep 16 2:30pm PT](https://www.timeanddate.com/worldclock/fixedtime.html?msg=CMPT-363+Review+and+Discussion&iso=20210916T1430&p1=256&am=50)</span>  
 :fas fa-book fa-fw: [Defining usability (7 minute read)](https://blog.prototypr.io/defining-usability-e7bf42e8abd0)  
