@@ -37,9 +37,9 @@
 
 [Competitive Reviews](ux-techniques-guide/03.how-to-understand-and-communicate-peoples-needs-and-behaviours/competitive-reviews ':include')
 
-[Discovery Research](ux-techniques-guide/03.how-to-understand-and-communicate-peoples-needs-and-behaviours/discovery-research.md ':include')
+[Contextual Inquiry](ux-techniques-guide/03.how-to-understand-and-communicate-peoples-needs-and-behaviours/contextual-inquiry ':include')
 
-[Empathy Maps](ux-techniques-guide/03.how-to-understand-and-communicate-peoples-needs-and-behaviours/empathy-maps.md ':include')  
+[Discovery Research](ux-techniques-guide/03.how-to-understand-and-communicate-peoples-needs-and-behaviours/discovery-research.md ':include')
 
 [Hypothesis](ux-techniques-guide/01.what-is-usability-and-user-experience-design/hypothesis.md ':include')  
 
@@ -47,11 +47,7 @@
 
 [Job Stories](ux-techniques-guide/03.how-to-understand-and-communicate-peoples-needs-and-behaviours/job-stories.md ':include')
 
-[Personas](ux-techniques-guide/03.how-to-understand-and-communicate-peoples-needs-and-behaviours/personas.md ':include')
-
 [Problem Statements](ux-techniques-guide/01.what-is-usability-and-user-experience-design/problem-statements.md ':include')
-
-[Task Analysis](ux-techniques-guide/03.how-to-understand-and-communicate-peoples-needs-and-behaviours/task-analysis.md ':include')
 
 [Thematic Analysis](ux-techniques-guide/03.how-to-understand-and-communicate-peoples-needs-and-behaviours/thematic-analysis.md ':include')
 
