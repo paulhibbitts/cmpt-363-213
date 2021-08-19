@@ -1,4 +1,4 @@
-Competitive Reviews
+Competitive Reviews  
 _An anaylsis of the user experience and usability of competitive (i.e. similar) products or services._
 
 *   [A Guide to Competitive Analysis for UX Design](https://xd.adobe.com/ideas/process/user-research/guide-to-competitive-analysis-ux-design/)
