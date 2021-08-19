@@ -35,6 +35,8 @@
 
 ## Supplemental Readings  
 
+[Competitive Reviews](ux-techniques-guide/03.how-to-understand-and-communicate-peoples-needs-and-behaviours/competitive-reviews ':include')
+
 [Discovery Research](ux-techniques-guide/03.how-to-understand-and-communicate-peoples-needs-and-behaviours/discovery-research.md ':include')
 
 [Empathy Maps](ux-techniques-guide/03.how-to-understand-and-communicate-peoples-needs-and-behaviours/empathy-maps.md ':include')  
