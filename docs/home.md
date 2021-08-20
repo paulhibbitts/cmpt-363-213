@@ -11,7 +11,7 @@
 
 ### Important Reminders
 
-* [Create Student Project Group](https://canvas.sfu.ca/courses/64326/groups#tab-29372) <span class='badge'> [Mon Sep 20th 11:59pm PT](https://www.timeanddate.com/worldclock/fixedtime.html?msg=CMPT-363+Create+Student+Project+Group+Due+Date&iso=20210920T235900&p1=256)</span>
+* [Create Student Project Group](https://canvas.sfu.ca/courses/64326/groups#tab-29372) <span class='badge'> [Mon Sep 20 11:59pm PT](https://www.timeanddate.com/worldclock/fixedtime.html?msg=CMPT-363+Create+Student+Project+Group+Due+Date&iso=20210920T235900&p1=256)</span>
 
 Is your group interested in an open source mobile project other than the provided class project (TBD)? Post your [group project proposal](https://canvas.sfu.ca/courses/64326/discussion_topics/1316138) by Sep 27th.
 
