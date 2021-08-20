@@ -53,3 +53,9 @@ Thursdays 3:30-4:00pm PT
 * [Defining usability](https://canvas.sfu.ca/courses/64326/assignments/662750) <span class='badge'> [Wed Sep 15 11:59pm PT](https://www.timeanddate.com/worldclock/fixedtime.html?msg=Week+2+%28Sep+12+-+18%29+Weekly+Readings+One-Minute+Summaries+Due+Date&iso=20210915T2359&p1=256)</span>
 * [An Introduction to User Experience Design](https://canvas.sfu.ca/courses/64326/assignments/662751) <span class='badge'> [Wed Sep 15 11:59pm PT](https://www.timeanddate.com/worldclock/fixedtime.html?msg=Week+2+%28Sep+12+-+18%29+Weekly+Readings+One-Minute+Summaries+Due+Date&iso=20210915T2359&p1=256)</span>
 * [Replacing “Requirements Gathering” with Something That Works](https://canvas.sfu.ca/courses/64326/assignments/662737) <span class='badge'> [Wed Sep 15 11:59pm PT](https://www.timeanddate.com/worldclock/fixedtime.html?msg=Week+2+%28Sep+12+-+18%29+Weekly+Readings+One-Minute+Summaries+Due+Date&iso=20210915T2359&p1=256)</span>
+
+### Important Reminders
+
+* [Create Project Group](https://canvas.sfu.ca/courses/64326/groups#tab-29372) <span class='badge'> [Mon Sep 20th 11:59pm PT](https://www.timeanddate.com/worldclock/fixedtime.html?msg=CMPT-363+Create+Project+Group+Due+Date&iso=20210920T235900&p1=256)</span>
+
+Is your group interested in an open source mobile project other than the recommended class project? Post your [group project proposal](https://canvas.sfu.ca/courses/64326/discussion_topics/1316138) by Sep 27th.
