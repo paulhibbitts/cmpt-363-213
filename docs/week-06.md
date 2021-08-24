@@ -35,6 +35,8 @@
 
 ## Supplemental Readings  
 
+[Bias](ux-techniques-guide/01.what-is-usability-and-user-experience-design/bias.md ':include')
+
 [Competitive Reviews](ux-techniques-guide/03.how-to-understand-and-communicate-peoples-needs-and-behaviours/competitive-reviews.md ':include')
 
 [Contextual Inquiry](ux-techniques-guide/03.how-to-understand-and-communicate-peoples-needs-and-behaviours/contextual-inquiry.md ':include')
