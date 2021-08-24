@@ -180,6 +180,8 @@
 
 [Typography](ux-techniques-guide/06.what-are-the-essentials-of-visual-design/typography.md ':include')
 
+[UI Copy Writing](ux-techniques-guide/06.what-are-the-essentials-of-visual-design/ui-copy-writing.md ':include')
+
 [Visual Design Principles (CRAP)](ux-techniques-guide/06.what-are-the-essentials-of-visual-design/visual-design-principles.md ':include')
 
 [Visual Interface Design](ux-techniques-guide/06.what-are-the-essentials-of-visual-design/visual-interface-design.md ':include')
