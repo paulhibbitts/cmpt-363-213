@@ -44,4 +44,6 @@
 
 [Storyboards](ux-techniques-guide/05.how-to-explore-and-describe-possible-design-solutions/storyboards.md ':include')  
 
+[Task Flows](ux-techniques-guide/02.what-is-the-practice-of-multidevice-interaction-design/task-flows.md ':include')
+
 [Wireframes](ux-techniques-guide/05.how-to-explore-and-describe-possible-design-solutions/wireframes.md ':include')
