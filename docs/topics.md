@@ -99,6 +99,7 @@
 [User Research](week-06)  
 [User Research Analysis](week-06)  
 [User Stories](week-06)  
+[UI Copy Writing](week-12)  
 [UX Objectives](week-02)  
 
 ### V
