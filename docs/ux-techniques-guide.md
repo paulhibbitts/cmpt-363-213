@@ -7,8 +7,6 @@
 
 [Agile](ux-techniques-guide/01.what-is-usability-and-user-experience-design/agile-ux.md ':include')
 
-[Bias](ux-techniques-guide/01.what-is-usability-and-user-experience-design/bias.md ':include')
-
 [Design Ethics](ux-techniques-guide/01.what-is-usability-and-user-experience-design/design-ethics.md ':include')
 
 [Hypothesis](ux-techniques-guide/01.what-is-usability-and-user-experience-design/hypothesis.md ':include')
@@ -60,6 +58,8 @@
   <summary>How to Understand and Communicate People's Needs and Behaviours?</summary>
 
 [Affinity Diagrams](ux-techniques-guide/03.how-to-understand-and-communicate-peoples-needs-and-behaviours/affinity-diagrams.md ':include')
+
+[Bias](ux-techniques-guide/01.what-is-usability-and-user-experience-design/bias.md ':include')
 
 [Card Sorts](ux-techniques-guide/03.how-to-understand-and-communicate-peoples-needs-and-behaviours/card-sorts.md ':include')
 
