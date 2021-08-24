@@ -1,10 +1,13 @@
 # Topics
 
-### [A](#a) | B | [C](#c) | [D](#d) | [E](#e) | [F](#f) | [G](#g) | [H](#h) | [I](#i) | [J](#j) | K | [L](#l) | M | [N](#n) | [O](#o) | [P](#p) | Q | [R](#r) | [S](#s) | [T](#t) | [U](#u) | [V](#v) | [W](#w) | X | Y | Z  
+### [A](#a) | [B](#b) | [C](#c) | [D](#d) | [E](#e) | [F](#f) | [G](#g) | [H](#h) | [I](#i) | [J](#j) | K | [L](#l) | M | [N](#n) | [O](#o) | [P](#p) | Q | [R](#r) | [S](#s) | [T](#t) | [U](#u) | [V](#v) | [W](#w) | X | Y | Z  
 
 ### A
 [Accessibility](https://canvas.sfu.ca/courses/64326/modules/items/2120573)  
 [Agile UX](https://canvas.sfu.ca/courses/64326/modules/items/2120562)  
+
+### B
+[Bias](https://canvas.sfu.ca/courses/64326/modules/items/2120566)  
 
 ### C
 [Color](https://canvas.sfu.ca/courses/64326/modules/items/2120573)  
