@@ -99,6 +99,7 @@
 [User Research](https://canvas.sfu.ca/courses/64326/modules/items/2120566)  
 [User Research Analysis](https://canvas.sfu.ca/courses/64326/modules/items/2120566)  
 [User Stories](https://canvas.sfu.ca/courses/64326/modules/items/2120566)  
+[UI Copy Writing](https://canvas.sfu.ca/courses/64326/modules/items/2120572)  
 [UX Objectives](https://canvas.sfu.ca/courses/64326/modules/items/2120562)  
 
 ### V
