@@ -13,6 +13,7 @@
 [Color](https://canvas.sfu.ca/courses/64326/modules/items/2120573)  
 [Conceptual Models](https://canvas.sfu.ca/courses/64326/modules/items/2120568)  
 [Contextual Inquiry](https://canvas.sfu.ca/courses/64326/modules/items/2120566)  
+[Creativity](https://canvas.sfu.ca/courses/64326/modules/items/2120569)  
 
 ### D
 [Design Ethics](https://canvas.sfu.ca/courses/64326/modules/items/2120562)  
