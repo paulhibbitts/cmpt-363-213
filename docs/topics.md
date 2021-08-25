@@ -13,6 +13,7 @@
 [Color](week-13)  
 [Conceptual Models](week-08)  
 [Contextual Inquiry](week-06)  
+[Creativity](week-09)  
 
 ### D
 [Design Ethics](week-02)  
