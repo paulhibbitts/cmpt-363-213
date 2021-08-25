@@ -86,6 +86,7 @@
 :fas fa-desktop fa-fw: Review and Discussion <span class='badge'> [Thu Nov 4 2:30pm PT](https://www.timeanddate.com/worldclock/fixedtime.html?msg=CMPT-363+Review+and+Discussion&iso=20211104T1430&p1=256&am=50)</span>  
 :fas fa-book fa-fw: [The Right Tool For The Job: Picking The Best Prototyping Software For Your Project (12 minute read)](https://uxdesign.cc/the-right-tool-for-the-job-picking-the-best-prototyping-software-for-your-project-6ddd5145d860)  
 :fas fa-book fa-fw: [Using scenarios in design (5 minute read)](https://fordes.de/posts/usingscenariosindesign.html)  
+:fas fa-book fa-fw: [What Is The Role Of Creativity In UX Design? (10 minute read)](https://www.smashingmagazine.com/2018/12/role-of-creativity-ux-design/)  
 :fas fa-keyboard fa-fw: [One-minute Summaries for Week 9](https://canvas.sfu.ca/courses/64326/discussion_topics) <span class='badge'> [Wed Nov 3 11:59pm PT](https://www.timeanddate.com/worldclock/fixedtime.html?msg=One-minute+Summaries+for+Week+9+Due+Date&iso=20211103T235900&p1=256)</span>  
 :fas fa-image fa-fw: [Weekly Visual Journal Entry for Week 9](https://canvas.sfu.ca/courses/64326/assignments) <span class='badge'> [Sun Nov 7 11:59pm PT](https://www.timeanddate.com/worldclock/fixedtime.html?msg=CMPT-363+Week+9+Visual+Journal+Entry+Due+Date&iso=20211107T235900)</span>  
 
