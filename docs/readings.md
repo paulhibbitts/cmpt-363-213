@@ -82,35 +82,38 @@
 
 ## Week 9
 ### How to explore and describe possible design solutions?
-**The Right Tool For The Job: Picking The Best Prototyping Software For Your Project (1 of 2 for Week 8)**  
+**The Right Tool For The Job: Picking The Best Prototyping Software For Your Project (1 of 3 for Week 9)**  
 <div style="min-height: 430px;"><a class="embedly-card" data-card-controls="0" data-card-align="left" href="https://uxdesign.cc/the-right-tool-for-the-job-picking-the-best-prototyping-software-for-your-project-6ddd5145d860">The Right Tool For The Job: Picking The Best Prototyping Software For Your Project</a></div>
 
-**Using scenarios in design (2 of 2 for Week 8)**  
+**Using scenarios in design (2 of 3 for Week 9)**  
 <div style="min-height: 430px;"><a class="embedly-card" data-card-controls="0" data-card-align="left" href="https://fordes.de/posts/usingscenariosindesign.html">Using scenarios in design</a></div>
+
+**What Is The Role Of Creativity In UX Design? (3 of 3 for Week 9)**  
+<div style="min-height: 430px;"><a class="embedly-card" data-card-controls="0" data-card-align="left" href="https://www.smashingmagazine.com/2018/12/role-of-creativity-ux-design/">What Is The Role Of Creativity In UX Design?</a></div>
 
 ## Week 10
 ### How to plan, conduct, and summarize usability tests?
-**Usability Testing Guide (1 of 2 for Week 9)**  
+**Usability Testing Guide (1 of 2 for Week 10)**  
 <div style="min-height: 430px;"><a class="embedly-card" data-card-controls="0" data-card-align="left" href="https://boxesandarrows.com/usability-testing-guide/">Usability Testing Guide</a></div>
 
-**Write Better Qualitative Usability Tasks: Top 10 Mistakes to Avoid (2 of 2 for Week 9)**  
+**Write Better Qualitative Usability Tasks: Top 10 Mistakes to Avoid (2 of 2 for Week 10)**  
 <div style="min-height: 430px;"><a class="embedly-card" data-card-controls="0" data-card-align="left" href="https://www.nngroup.com/articles/better-usability-tasks/">Write Better Qualitative Usability Tasks: Top 10 Mistakes to Avoid</a></div>
 
 ## Week 12
 ### What are the essentials of visual interface design?
-**5 Principles of Visual Design in UX (1 of 2 for Week 11)**  
+**5 Principles of Visual Design in UX (1 of 2 for Week 12)**  
 <div style="min-height: 430px;"><a class="embedly-card" data-card-controls="0" data-card-align="left" href="https://www.nngroup.com/articles/principles-visual-design/">5 Principles of Visual Design in UX</a></div>
 
 **Visual Hierarchy: Organizing content to follow natural eye movement patterns (2 of 3 for Week 11)**  
 <div style="min-height: 430px;"><a class="embedly-card" data-card-controls="0" data-card-align="left" href="https://www.interaction-design.org/literature/article/visual-hierarchy-organizing-content-to-follow-natural-eye-movement-patterns">Visual Hierarchy: Organizing content to follow natural eye movement patterns</a></div>
 
-**Fundamentals of typography in user interface design (UI) (3 of 3 for Week 11)**  
+**Fundamentals of typography in user interface design (UI) (3 of 3 for Week 12)**  
 <div style="min-height: 430px;"><a class="embedly-card" data-card-controls="0" data-card-align="left" href="https://uxdesign.cc/fundamentals-of-typography-in-user-interface-design-ui-67cdd13bfa24">Fundamentals of typography in user interface design (UI)</a></div>
 
 ## Week 13
 ### Special topic - visual interface design
-**10 Principles for Color Usage in UI Design (1 of 2 for Week 12)**  
+**10 Principles for Color Usage in UI Design (1 of 2 for Week 13)**  
 <div style="min-height: 430px;"><a class="embedly-card" data-card-controls="0" data-card-align="left" href="https://uxdesign.cc/10-principles-for-color-usage-in-ui-design-65174b213004">10 Principles for Color Usage in UI Design</a></div>
 
-**7 Things Every Designer Needs to Know about Accessibility (2 of 2 for Week 12)**  
+**7 Things Every Designer Needs to Know about Accessibility (2 of 2 for Week 13)**  
 <div style="min-height: 430px;"><a class="embedly-card" data-card-controls="0" data-card-align="left" href="https://medium.com/salesforce-ux/7-things-every-designer-needs-to-know-about-accessibility-64f105f0881b">7 Things Every Designer Needs to Know about Accessibility</a></div>
