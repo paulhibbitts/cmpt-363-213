@@ -38,7 +38,7 @@
 
 [Brainstorming](ux-techniques-guide/05.how-to-explore-and-describe-possible-design-solutions/brainstorming.md ':include')
 
-[Journey Maps](ux-techniques-guide/05.how-to-explore-and-describe-possible-design-solutions/journey-mapping.md ':include')
+[Creativity](ux-techniques-guide/05.how-to-explore-and-describe-possible-design-solutions/creativity.md ':include')
 
 [Prototyping](ux-techniques-guide/05.how-to-explore-and-describe-possible-design-solutions/prototyping.md ':include')
 
