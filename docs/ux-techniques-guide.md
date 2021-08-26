@@ -133,6 +133,8 @@
 
 [Concept Maps](ux-techniques-guide/05.how-to-explore-and-describe-possible-design-solutions/concept-maps.md ':include')
 
+[Creativity](ux-techniques-guide/05.how-to-explore-and-describe-possible-design-solutions/creativity.md ':include')
+
 [Conceptualizing Interaction](ux-techniques-guide/05.how-to-explore-and-describe-possible-design-solutions/conceptualizing-interaction.md ':include')
 
 [Design Patterns](ux-techniques-guide/05.how-to-explore-and-describe-possible-design-solutions/design-patterns.md ':include')
