@@ -14,7 +14,7 @@
 :fas fa-book fa-fw: [An Introduction to User Experience Design (8 minute read)](https://marvelapp.com/blog/introduction-user-experience-design/)  
 :fas fa-book fa-fw: [Why UX Outcomes Make Better Goals Than Business Outcomes (5 minute read)](https://articles.uie.com/why-ux-outcomes-make-better-goals-than-business-outcomes)  
 :fas fa-keyboard fa-fw: [One-minute Summaries for Week 2](https://canvas.sfu.ca/courses/64326/discussion_topics) <span class='badge'> [Wed Sep 15 11:59pm PT](https://www.timeanddate.com/worldclock/fixedtime.html?msg=One-minute+Summaries+for+Week+2+Due+Date&iso=20210915T235900&p1=256)</span>   
-:fas fa-image fa-fw: [Weekly Visual Journal Entry for Week 2](https://canvas.sfu.ca/courses/64326/assignments) <span class='badge'> [Sun Sep 19th 11:59pm PT](https://www.timeanddate.com/worldclock/fixedtime.html?msg=CMPT-363+Week+2+Visual+Journal+Entry+Due+Date&iso=20210919T235900)</span>  
+:fas fa-image fa-fw: [Weekly Visual Journal Entry for Week 2](https://canvas.sfu.ca/courses/64326/assignments) <span class='badge'> [Fri Sep 17th 11:59pm PT](https://www.timeanddate.com/worldclock/fixedtime.html?msg=CMPT-363+Week+2+Visual+Journal+Entry+Due+Date&iso=20210917T235900)</span>  
 
 ## :fas fa-calendar fa-fw: [Week 3 (Sep 20 - 26)](week-03)
 **What is the practice of multi-device interaction design?**  
@@ -25,7 +25,7 @@
 :fas fa-book fa-fw: [Five HCI Laws for User Experience Design (4 minute read)](https://measuringu.com/hci-laws/)  
 :fas fa-book fa-fw: [Touch Targets on Touchscreens (11 minute read)](https://www.nngroup.com/articles/touch-target-size/)   
 :fas fa-keyboard fa-fw: [One-minute Summaries for Week 3](https://canvas.sfu.ca/courses/64326/discussion_topics) <span class='badge'> [Wed Sep 22 11:59pm PT](https://www.timeanddate.com/worldclock/fixedtime.html?msg=One-minute+Summaries+for+Week+3+Due+Date&iso=20210922T235900&p1=256)</span>   
-:fas fa-image fa-fw: [Weekly Visual Journal Entry for Week 3](https://canvas.sfu.ca/courses/64326/assignments) <span class='badge'> [Sun Sep 26 11:59pm PT](https://www.timeanddate.com/worldclock/fixedtime.html?msg=CMPT-363+Week+3+Visual+Journal+Entry+Due+Date&iso=20210926T235900)</span>  
+:fas fa-image fa-fw: [Weekly Visual Journal Entry for Week 3](https://canvas.sfu.ca/courses/64326/assignments) <span class='badge'> [Fri Sep 24 11:59pm PT](https://www.timeanddate.com/worldclock/fixedtime.html?msg=CMPT-363+Week+3+Visual+Journal+Entry+Due+Date&iso=20210924T235900)</span>  
 
 ## :fas fa-calendar fa-fw: [Week 4 (Sep 27 - Oct 3)](week-04)
 **How to conduct a user interface inspection?**  
@@ -35,7 +35,7 @@
 :fas fa-book fa-fw: [How to Use Heuristic Evaluations to Improve Product Designs (8 minute read)](https://xd.adobe.com/ideas/process/user-testing/how-to-heuristic-evaluation-analysis-ux-design/)  
 :fas fa-book fa-fw: [Severity Ratings for Usability Problems (5 minute read)](https://www.nngroup.com/articles/how-to-rate-the-severity-of-usability-problems/)   
 :fas fa-keyboard fa-fw: [One-minute Summaries for Week 4](https://canvas.sfu.ca/courses/64326/discussion_topics) <span class='badge'> [Wed Sep 29 11:59pm PT](https://www.timeanddate.com/worldclock/fixedtime.html?msg=One-minute+Summaries+for+Week+4+Due+Date&iso=20210929T235900&p1=256)</span>  
-:fas fa-image fa-fw: [Weekly Visual Journal Entry for Week 4](https://canvas.sfu.ca/courses/64326/assignments) <span class='badge'> [Sun Oct 3 11:59pm PT](https://www.timeanddate.com/worldclock/fixedtime.html?msg=CMPT-363+Week+4+Visual+Journal+Entry+Due+Date&iso=20211003T235900)</span>  
+:fas fa-image fa-fw: [Weekly Visual Journal Entry for Week 4](https://canvas.sfu.ca/courses/64326/assignments) <span class='badge'> [Fri Oct 1 11:59pm PT](https://www.timeanddate.com/worldclock/fixedtime.html?msg=CMPT-363+Week+4+Visual+Journal+Entry+Due+Date&iso=20211001T235900)</span>  
 
 ## :fas fa-calendar fa-fw: [Week 5 (Oct 4 - 10)](week-05)
 **Special topic - heuristic evaluations**  
@@ -43,7 +43,7 @@
 :fas fa-desktop fa-fw: Review and Discussion <span class='badge'> [Thu Oct 7 2:30pm PT](https://www.timeanddate.com/worldclock/fixedtime.html?msg=CMPT-363+Review+and+Discussion&iso=20211007T1430&p1=256&am=50)</span>   
 :fas fa-book fa-fw: [Design Heuristics Lecture with Scott Klemmer, a Video Playlist (35 minutes in total)](https://www.youtube.com/playlist?list=PLVtu1bDQijari7LfHOoSTdcpbWIkwZWIA)  
 :fas fa-keyboard fa-fw: [One-minute Summaries for Week 5](https://canvas.sfu.ca/courses/64326/discussion_topics) <span class='badge'> [Wed Oct 6 11:59pm PT](https://www.timeanddate.com/worldclock/fixedtime.html?msg=One-minute+Summaries+for+Week+5+Due+Date&iso=20211006T235900&p1=256)</span>  
-:fas fa-image fa-fw: [Weekly Visual Journal Entry for Week 5](https://canvas.sfu.ca/courses/64326/assignments) <span class='badge'> [Fri Oct 10 11:59pm PT](https://www.timeanddate.com/worldclock/fixedtime.html?msg=CMPT-363+Week+5+Visual+Journal+Entry+Due+Date&iso=20211010T235900)</span>  
+:fas fa-image fa-fw: [Weekly Visual Journal Entry for Week 5](https://canvas.sfu.ca/courses/64326/assignments) <span class='badge'> [Fri Oct 8 11:59pm PT](https://www.timeanddate.com/worldclock/fixedtime.html?msg=CMPT-363+Week+5+Visual+Journal+Entry+Due+Date&iso=20211008T235900)</span>  
 
 ## :fas fa-calendar fa-fw: [Week 6 (Oct 11 - 17)](week-06)
 **How to understand and communicate people's needs and behaviours?**  
@@ -56,7 +56,7 @@
 :fas fa-book fa-fw: [How to Leverage Thematic Analysis for Better UX (11 minute read)](https://www.toptal.com/designers/ux-research/thematic-analysis-for-ux)  
 :fas fa-book fa-fw: [User Need Statements: The ‘Define’ Stage in Design Thinking (11 minute read)](https://www.nngroup.com/articles/user-need-statements/)  
 :fas fa-keyboard fa-fw: [One-minute Summaries for Week 6](https://canvas.sfu.ca/courses/64326/discussion_topics) <span class='badge'> [Wed Oct 13 11:59pm PT](https://www.timeanddate.com/worldclock/fixedtime.html?msg=One-minute+Summaries+for+Week+6+Due+Date&iso=20211013T235900&p1=256)</span>  
-:fas fa-image fa-fw: [Weekly Visual Journal Entry for Week 6](https://canvas.sfu.ca/courses/64326/assignments) <span class='badge'> [Sun Oct 17 11:59pm PT](https://www.timeanddate.com/worldclock/fixedtime.html?msg=CMPT-363+Week+6+Visual+Journal+Entry+Due+Date&iso=20211017T235900)</span>  
+:fas fa-image fa-fw: [Weekly Visual Journal Entry for Week 6](https://canvas.sfu.ca/courses/64326/assignments) <span class='badge'> [Fri Oct 15 11:59pm PT](https://www.timeanddate.com/worldclock/fixedtime.html?msg=CMPT-363+Week+6+Visual+Journal+Entry+Due+Date&iso=20211015T235900)</span>  
 
 ## :fas fa-calendar fa-fw: [Week 7 (Oct 18 - 24)](week-07)
 **Special topic - conducting user research / Instructor user research plan group meetings**   
@@ -74,7 +74,7 @@
 :fas fa-book fa-fw: [Don Norman’s Principles of Interaction Design (8 minute read)](https://medium.com/@sachinrekhi/don-normans-principles-of-interaction-design-51025a2c0f33)  
 :fas fa-book fa-fw: [Not Just Pretty: Building Emotion Into Your Websites (15 minute read)](https://www.smashingmagazine.com/2012/04/building-emotion-into-your-websites/)  
 :fas fa-keyboard fa-fw: [One-minute Summaries for Week 8](https://canvas.sfu.ca/courses/64326/discussion_topics) <span class='badge'>[Wed Oct 27 11:59pm PT](https://www.timeanddate.com/worldclock/fixedtime.html?msg=One-minute+Summaries+for+Week+8+Due+Date&iso=20211027T235900&p1=256)</span>  
-:fas fa-image fa-fw: [Weekly Visual Journal Entry for Week 8](https://canvas.sfu.ca/courses/64326/assignments) <span class='badge'> [Sun Oct 31st 11:59pm PT](https://www.timeanddate.com/worldclock/fixedtime.html?msg=CMPT-363+Week+8+Visual+Journal+Entry+Due+Date&iso=20211031T235900)</span>  
+:fas fa-image fa-fw: [Weekly Visual Journal Entry for Week 8](https://canvas.sfu.ca/courses/64326/assignments) <span class='badge'> [Fri Oct 29 11:59pm PT](https://www.timeanddate.com/worldclock/fixedtime.html?msg=CMPT-363+Week+8+Visual+Journal+Entry+Due+Date&iso=20211029T235900)</span>  
 
 ## :fas fa-calendar fa-fw: [Week 9 (Nov 1 - 7)](week-09)
 **How to explore and describe possible design solutions?**       
@@ -88,7 +88,7 @@
 :fas fa-book fa-fw: [Using scenarios in design (5 minute read)](https://fordes.de/posts/usingscenariosindesign.html)  
 :fas fa-book fa-fw: [What Is The Role Of Creativity In UX Design? (10 minute read)](https://www.smashingmagazine.com/2018/12/role-of-creativity-ux-design/)  
 :fas fa-keyboard fa-fw: [One-minute Summaries for Week 9](https://canvas.sfu.ca/courses/64326/discussion_topics) <span class='badge'> [Wed Nov 3 11:59pm PT](https://www.timeanddate.com/worldclock/fixedtime.html?msg=One-minute+Summaries+for+Week+9+Due+Date&iso=20211103T235900&p1=256)</span>  
-:fas fa-image fa-fw: [Weekly Visual Journal Entry for Week 9](https://canvas.sfu.ca/courses/64326/assignments) <span class='badge'> [Sun Nov 7 11:59pm PT](https://www.timeanddate.com/worldclock/fixedtime.html?msg=CMPT-363+Week+9+Visual+Journal+Entry+Due+Date&iso=20211107T235900)</span>  
+:fas fa-image fa-fw: [Weekly Visual Journal Entry for Week 9](https://canvas.sfu.ca/courses/64326/assignments) <span class='badge'> [Fri Nov 5 11:59pm PT](https://www.timeanddate.com/worldclock/fixedtime.html?msg=CMPT-363+Week+9+Visual+Journal+Entry+Due+Date&iso=20211105T235900)</span>  
 
 ## :fas fa-calendar fa-fw: [Week 10 (Nov 8 - 14)](week-10)
 **How to plan, conduct, and summarize usability tests?**  
@@ -97,7 +97,7 @@
 :fas fa-book fa-fw: [Usability Testing Guide (14 minute read)](https://boxesandarrows.com/usability-testing-guide/)  
 :fas fa-book fa-fw: [Write Better Qualitative Usability Tasks: Top 10 Mistakes to Avoid (10 minute read)](https://www.nngroup.com/articles/better-usability-tasks/)  
 :fas fa-keyboard fa-fw: [One-minute Summaries for Week 10](https://canvas.sfu.ca/courses/64326/discussion_topics) <span class='badge'> [Wed Nov 10 11:59pm PT](https://www.timeanddate.com/worldclock/fixedtime.html?msg=One-minute+Summaries+for+Week+10+Due+Date&iso=20211110T235900&p1=256)</span>  
-:fas fa-image fa-fw: [Weekly Visual Journal Entry for Week 10](https://canvas.sfu.ca/courses/64326/assignments) <span class='badge'> [Sun Nov 14 11:59pm PT](https://www.timeanddate.com/worldclock/fixedtime.html?msg=CMPT-363+Week+10+Visual+Journal+Entry+Due+Date&iso=20211114T235900)</span>  
+:fas fa-image fa-fw: [Weekly Visual Journal Entry for Week 10](https://canvas.sfu.ca/courses/64326/assignments) <span class='badge'> [Fri Nov 12 11:59pm PT](https://www.timeanddate.com/worldclock/fixedtime.html?msg=CMPT-363+Week+10+Visual+Journal+Entry+Due+Date&iso=20211112T235900)</span>  
 
 ## :fas fa-calendar fa-fw: [Week 11 (Nov 15 - 21)](week-11)
 **Instructor wireframe review group meetings**  
@@ -116,7 +116,7 @@ Online instructor meetings (15 mins.), no regularly scheduled Blackboard Collabo
 :fas fa-book fa-fw: [Visual Hierarchy: Organizing content to follow natural eye movement patterns (13 minute read)](https://www.interaction-design.org/literature/article/visual-hierarchy-organizing-content-to-follow-natural-eye-movement-patterns)  
 :fas fa-book fa-fw: [Fundamentals of typography in user interface design (UI) (7 minute read)](https://uxdesign.cc/fundamentals-of-typography-in-user-interface-design-ui-67cdd13bfa24)  
 :fas fa-keyboard fa-fw: [One-minute Summaries for Week 12](https://canvas.sfu.ca/courses/64326/discussion_topics) <span class='badge'> [Wed Nov 24 11:59pm PT](https://www.timeanddate.com/worldclock/fixedtime.html?msg=One-minute+Summaries+for+Week+12+Due+Date&iso=20211124T235900&p1=256)</span>  
-:fas fa-image fa-fw: [Weekly Visual Journal Entry for Week 12](https://canvas.sfu.ca/courses/64326/assignments) <span class='badge'> [Sun Nov 27 11:59pm PT](https://www.timeanddate.com/worldclock/fixedtime.html?msg=CMPT-363+Week+12+Visual+Journal+Entry+Due+Date&iso=20211127T235900)</span>  
+:fas fa-image fa-fw: [Weekly Visual Journal Entry for Week 12](https://canvas.sfu.ca/courses/64326/assignments) <span class='badge'> [Fri Nov 25 11:59pm PT](https://www.timeanddate.com/worldclock/fixedtime.html?msg=CMPT-363+Week+12+Visual+Journal+Entry+Due+Date&iso=20211125T235900)</span>  
 
 ## :fas fa-calendar fa-fw: [Week 13 (Nov 29 - Dec 5)](week-13)
 **Special topic - visual interface design**  
@@ -125,7 +125,7 @@ Online instructor meetings (15 mins.), no regularly scheduled Blackboard Collabo
 :fas fa-book fa-fw: [10 Principles for Color Usage in UI Design (8 minute read)](https://uxdesign.cc/10-principles-for-color-usage-in-ui-design-65174b213004)  
 :fas fa-book fa-fw: [7 Things Every Designer Needs to Know about Accessibility (14 minute read)](https://medium.com/salesforce-ux/7-things-every-designer-needs-to-know-about-accessibility-64f105f0881b)  
 :fas fa-keyboard fa-fw: [One-minute Summaries for Week 13](https://canvas.sfu.ca/courses/64326/discussion_topics) <span class='badge'> [Wed Dec 1 11:59pm PT](https://www.timeanddate.com/worldclock/fixedtime.html?msg=One-minute+Summaries+for+Week+13+Due+Date&iso=20211201T235900&p1=256)</span>  
-:fas fa-image fa-fw: [Weekly Visual Journal Entry for Week 13](https://canvas.sfu.ca/courses/64326/assignments) <span class='badge'> [Sun Dec 5 11:59pm PT](https://www.timeanddate.com/worldclock/fixedtime.html?msg=CMPT-363+Week+13+Visual+Journal+Entry+Due+Date&iso=20211205T235900)</span>  
+:fas fa-image fa-fw: [Weekly Visual Journal Entry for Week 13](https://canvas.sfu.ca/courses/64326/assignments) <span class='badge'> [Fri Dec 3 11:59pm PT](https://www.timeanddate.com/worldclock/fixedtime.html?msg=CMPT-363+Week+13+Visual+Journal+Entry+Due+Date&iso=20211203T235900)</span>  
 
 ## :fas fa-calendar fa-fw: [Week 14 (Dec 6 - 12)](week-14)
 **Course wrap-up**  

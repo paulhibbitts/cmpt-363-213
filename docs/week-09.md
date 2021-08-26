@@ -11,7 +11,7 @@
 [What Is The Role Of Creativity In UX Design?](https://canvas.sfu.ca/courses/64326/discussion_topics/1333419) <span class='badge'> [Wed Nov 3 11:59pm PT](https://www.timeanddate.com/worldclock/fixedtime.html?msg=One-minute+Summaries+for+Week+9+Due+Date&iso=20211103T235900&p1=256)</span>  
 
 ## Weekly Visual Journal Entry
-[Week 9 Visual Journal Entry](https://canvas.sfu.ca/courses/64326/assignments/662773) <span class='badge'> [Sun Nov 7 11:59pm PT](https://www.timeanddate.com/worldclock/fixedtime.html?msg=CMPT-363+Week+9+Visual+Journal+Entry+Due+Date&iso=20211107T235900)</span>  
+[Week 9 Visual Journal Entry](https://canvas.sfu.ca/courses/64326/assignments/662773) <span class='badge'> [Fri Nov 5 11:59pm PT](https://www.timeanddate.com/worldclock/fixedtime.html?msg=CMPT-363+Week+9+Visual+Journal+Entry+Due+Date&iso=20211105T235900)</span>  
 
 ## Required Readings  
 [The Right Tool For The Job: Picking The Best Prototyping Software For Your Project (12 minute read)](https://uxdesign.cc/the-right-tool-for-the-job-picking-the-best-prototyping-software-for-your-project-6ddd5145d860)  

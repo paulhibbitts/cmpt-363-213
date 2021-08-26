@@ -8,7 +8,7 @@
 [Why UX Outcomes Make Better Goals Than Business Outcomes](https://canvas.sfu.ca/courses/64326/assignments/662737) <span class='badge'> [Wed Sep 15 11:59pm PT](https://www.timeanddate.com/worldclock/fixedtime.html?msg=One-minute+Summaries+for+Week+2+Due+Date&iso=20210915T235900&p1=256)</span>   
 
 ## Weekly Visual Journal Entry
-[Week 2 Visual Journal Entry](https://canvas.sfu.ca/courses/64326/assignments/662767) <span class='badge'> [Sun Sep 19th 11:59pm PT](https://www.timeanddate.com/worldclock/fixedtime.html?msg=CMPT-363+Week+2+Visual+Journal+Entry+Due+Date&iso=20210919T235900)</span>  
+[Week 2 Visual Journal Entry](https://canvas.sfu.ca/courses/64326/assignments/662767) <span class='badge'> [Fri Sep 17th 11:59pm PT](https://www.timeanddate.com/worldclock/fixedtime.html?msg=CMPT-363+Week+2+Visual+Journal+Entry+Due+Date&iso=20210917T235900)</span>  
 
 ## Required Readings  
 [Defining usability (7 minute read)](https://blog.prototypr.io/defining-usability-e7bf42e8abd0)  

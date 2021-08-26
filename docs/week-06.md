@@ -12,7 +12,7 @@
 [User Need Statements: The ‘Define’ Stage in Design Thinking](https://canvas.sfu.ca/courses/64326/assignments/662736) <span class='badge'> [Wed Oct 13 11:59pm PT](https://www.timeanddate.com/worldclock/fixedtime.html?msg=One-minute+Summaries+for+Week+6+Due+Date&iso=20211013T235900&p1=256)</span>  
 
 ## Weekly Visual Journal Entry
-[Week 6 Visual Journal Entry](https://canvas.sfu.ca/courses/64326/assignments/662771) <span class='badge'> [Sun Oct 17 11:59pm PT](https://www.timeanddate.com/worldclock/fixedtime.html?msg=CMPT-363+Week+6+Visual+Journal+Entry+Due+Date&iso=20211017T235900)</span>  
+[Week 6 Visual Journal Entry](https://canvas.sfu.ca/courses/64326/assignments/662771) <span class='badge'> [Fri Oct 15 11:59pm PT](https://www.timeanddate.com/worldclock/fixedtime.html?msg=CMPT-363+Week+6+Visual+Journal+Entry+Due+Date&iso=20211015T235900)</span>  
 
 ## Required Readings  
 [A 5-Step Process For Conducting User Research (16 minute read)](https://www.smashingmagazine.com/2013/09/5-step-process-conducting-user-research/)  
