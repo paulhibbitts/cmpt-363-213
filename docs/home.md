@@ -5,9 +5,9 @@
 
 ## Course overview
 
-### [Live Blackboard Collaborate Sessions](https://canvas.sfu.ca/courses/64326/external_tools/3544)  
+### Live Blackboard Collaborate Sessions
 
-* Course Introduction <span class='badge'> [Thu Sep 9 2:30pm PT](https://www.timeanddate.com/worldclock/fixedtime.html?msg=CMPT-363+Course+Overview&iso=20210909T1430&p1=256&am=50)</span>
+* [Course Introduction](https://canvas.sfu.ca/courses/64326/external_tools/3544) (guest access link TBD) <span class='badge'> [Thu Sep 9 2:30pm PT](https://www.timeanddate.com/worldclock/fixedtime.html?msg=CMPT-363+Course+Overview&iso=20210909T1430&p1=256&am=50)</span>
 
 ### Important Reminders
 
