@@ -52,7 +52,7 @@ Thursdays 3:30-4:00pm PT
 ### Week 2 Live Online Sessions
 
 * Mini-lectures and Activities <span class='badge'> [Tue Sep 14 2:30pm PT](https://www.timeanddate.com/worldclock/fixedtime.html?msg=CMPT-363+Mini-lectures+and+Activities&iso=20210914T1430&p1=256&ah=1&am=50)</span>
-* Review and Discussion <span class='badge'> [Thu Sep 16 2:30pm PT](https://www.timeanddate.com/worldclock/fixedtime.html?msg=CMPT-363+Review+and+Discussion&iso=20210909T1430&p1=256&am=50)</span>
+* Review and Discussion <span class='badge'> [Thu Sep 16 2:30pm PT](https://www.timeanddate.com/worldclock/fixedtime.html?msg=CMPT-363+Review+and+Discussion&iso=20210916T1430&p1=256&am=50)</span>
 
 ### Week 2 Required Readings and One-Minute Summaries
 
