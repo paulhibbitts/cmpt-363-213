@@ -20,7 +20,7 @@
 [User Need Statements: The ‘Define’ Stage in Design Thinking (11 minute read)](https://www.nngroup.com/articles/user-need-statements/)  
 
 ## BlackBoard Collaborate Session Slides
-[User Research — Mini-lectures and Activities](https://docs.google.com/presentation/d/e/2PACX-1vQGN73yivJAuVT6pw0OCcWPNH-Z_gT4TUDgP2YuH-HQ0cucfASnXZzFspXYPGQvRq4Mt7MkjrFNxE8X/pub?start=false&loop=false&delayms=3000) | [PDF](#) | [Recording ](https://canvas.sfu.ca/courses/64326/external_tools/3544) (Look in Hamburger :fas fa-bars fa-fw:menu)  
+[User Research — Mini-lectures and Activities](https://docs.google.com/presentation/d/e/2PACX-1vQGN73yivJAuVT6pw0OCcWPNH-Z_gT4TUDgP2YuH-HQ0cucfASnXZzFspXYPGQvRq4Mt7MkjrFNxE8X/pub?start=false&loop=false&delayms=3000) | [PDF](https://canvas.sfu.ca/courses/64326/files/folder/Downloads/Slides%20PDFs/Review%20and%20Discussion/Week-06) | [Recording ](https://canvas.sfu.ca/courses/64326/external_tools/3544) (Look in Hamburger :fas fa-bars fa-fw:menu)  
 
 <div class="video-container-16by9"><iframe src="https://docs.google.com/presentation/d/e/2PACX-1vQGN73yivJAuVT6pw0OCcWPNH-Z_gT4TUDgP2YuH-HQ0cucfASnXZzFspXYPGQvRq4Mt7MkjrFNxE8X/embed?start=false&loop=false&delayms=3000" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe></div>
 
