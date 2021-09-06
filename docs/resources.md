@@ -26,6 +26,7 @@
 
 *   [Chrome Browser Video Speed Controller](https://chrome.google.com/webstore/detail/video-speed-controller/nffaoalbilbmmfgbnbgppjihopabppdk)
 *   [Firefox Browser Video Speed Controller](https://addons.mozilla.org/en-CA/firefox/addon/videospeed/)
+*   [Microsoft Edge HTML5 Video Speed Control](https://microsoftedge.microsoft.com/addons/detail/html5-video-speed-control/dpidphhdlkjaipgecjejekdeheeokfkf)
 
 ## Figma
 *   [Figma Web App](https://www.figma.com/)
