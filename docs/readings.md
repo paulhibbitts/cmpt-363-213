@@ -37,7 +37,7 @@
 ## Week 4
 ### How to conduct a user interface inspection?
 **How to Use Heuristic Evaluations to Improve Product Designs (1 of 2 for Week 3)**  
-<div style="min-height: 430px;"><a class="embedly-card" data-card-controls="0" data-card-align="left" href="https://xd.adobe.com/ideas/process/user-testing/how-to-heuristic-evaluation-analysis-ux-design/">How to Use Heuristic Evaluations to Improve Product Designs</a></div>
+<div style="min-height: 430px;"><a class="embedly-card" data-card-controls="0" data-card-align="left" href="https://www.toptal.com/designers/usability/usability-analysis-how-to-run-a-heuristic-evaluation">How to Use Heuristic Evaluations to Improve Product Designs</a></div>
 
 **Severity Ratings for Usability Problems (2 of 2 for Week 3)**  
 <div style="min-height: 430px;"><a class="embedly-card" data-card-controls="0" data-card-align="left" href="https://www.nngroup.com/articles/how-to-rate-the-severity-of-usability-problems/">Severity Ratings for Usability Problems</a></div>
