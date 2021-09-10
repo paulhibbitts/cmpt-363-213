@@ -43,7 +43,7 @@
 :fas fa-desktop fa-fw: Review and Discussion <span class='badge'> [Thu Oct 7 2:30pm PT](https://www.timeanddate.com/worldclock/fixedtime.html?msg=CMPT-363+Review+and+Discussion&iso=20211007T1430&p1=256&am=50)</span>   
 :fas fa-book fa-fw: [Design Heuristics Lecture with Scott Klemmer, a Video Playlist (35 minutes in total)](https://www.youtube.com/playlist?list=PLVtu1bDQijari7LfHOoSTdcpbWIkwZWIA)  
 :fas fa-keyboard fa-fw: [One-minute Summaries for Week 5](https://canvas.sfu.ca/courses/64326/discussion_topics) <span class='badge'> [Wed Oct 6 11:59pm PT](https://www.timeanddate.com/worldclock/fixedtime.html?msg=One-minute+Summaries+for+Week+5+Due+Date&iso=20211006T235900&p1=256)</span>  
-:fas fa-image fa-fw: [Weekly Visual Journal Entry for Week 5](https://canvas.sfu.ca/courses/64326/assignments) <span class='badge'> [Fri Oct 8 11:59pm PT](https://www.timeanddate.com/worldclock/fixedtime.html?msg=CMPT-363+Week+5+Visual+Journal+Entry+Due+Date&iso=20211008T235900)</span>  
+:fas fa-image fa-fw: No visual journal entry     
 
 ## :fas fa-calendar fa-fw: [Week 6 (Oct 11 - 17)](week-06)
 **How to understand and communicate people's needs and behaviours?**  
