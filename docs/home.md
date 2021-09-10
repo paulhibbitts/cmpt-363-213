@@ -14,7 +14,7 @@
 
 * [Create Student Project Group](https://canvas.sfu.ca/courses/64326/groups#tab-29372) <span class='badge'> [Mon Sep 20 11:59pm PT](https://www.timeanddate.com/worldclock/fixedtime.html?msg=CMPT-363+Create+Student+Project+Group+Due+Date&iso=20210920T235900&p1=256)</span>
 
-Is your group interested in an open source mobile project other than the recommended class project ([Moodle mobile app](https://moodle.com/app/))? Post your [group project proposal](https://canvas.sfu.ca/courses/64326/discussion_topics/1316138) by Sep 27th.
+Is your group interested in an open source mobile project other than the [Moodle mobile app](https://moodle.com/app/)? Post your [group project proposal](https://canvas.sfu.ca/courses/64326/discussion_topics/1316138) by Sep 27th.
 
 ### Required Readings & One-Minute Summaries
 * [Defining usability](https://canvas.sfu.ca/courses/64326/assignments/662750) <span class='badge'> [Wed Sep 15 11:59pm PT](https://www.timeanddate.com/worldclock/fixedtime.html?msg=Week+2+%28Sep+12+-+18%29+Weekly+Readings+One-Minute+Summaries+Due+Date&iso=20210915T2359&p1=256)</span>
