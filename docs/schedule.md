@@ -125,7 +125,7 @@ Online instructor meetings (15 mins.), no regularly scheduled Blackboard Collabo
 :fas fa-book fa-fw: [10 Principles for Color Usage in UI Design (8 minute read)](https://uxdesign.cc/10-principles-for-color-usage-in-ui-design-65174b213004)  
 :fas fa-book fa-fw: [7 Things Every Designer Needs to Know about Accessibility (14 minute read)](https://medium.com/salesforce-ux/7-things-every-designer-needs-to-know-about-accessibility-64f105f0881b)  
 :fas fa-keyboard fa-fw: [One-minute Summaries for Week 13](https://canvas.sfu.ca/courses/64326/discussion_topics) <span class='badge'> [Wed Dec 1 11:59pm PT](https://www.timeanddate.com/worldclock/fixedtime.html?msg=One-minute+Summaries+for+Week+13+Due+Date&iso=20211201T235900&p1=256)</span>  
-:fas fa-image fa-fw: [Weekly Visual Journal Entry for Week 13](https://canvas.sfu.ca/courses/64326/assignments) <span class='badge'> [Fri Dec 3 11:59pm PT](https://www.timeanddate.com/worldclock/fixedtime.html?msg=CMPT-363+Week+13+Visual+Journal+Entry+Due+Date&iso=20211203T235900)</span>  
+:fas fa-image fa-fw: No visual journal entry  
 
 ## :fas fa-calendar fa-fw: [Week 14 (Dec 6 - 12)](week-14)
 **Course wrap-up**  
