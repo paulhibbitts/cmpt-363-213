@@ -1,7 +1,7 @@
 
 <div class=alert>
 
-# What’s Happening Second Week 💫
+# What’s Happening This Week 💫
 
 ## What is usability and user experience design?
 
@@ -50,7 +50,7 @@ Thursdays 3:30-4:00pm PT
 
 ![UX](assets/images/12650723674_d5c85af332_k.jpg ':class=banner-image')
 
-# Looking Ahead to the Third Week🔭
+# Looking Ahead to Next Week🔭
 
 ## What is the practice of multi-device interaction design?
 
