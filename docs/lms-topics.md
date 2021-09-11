@@ -21,6 +21,7 @@
 [Design Thinking](https://canvas.sfu.ca/courses/64326/modules/items/2120562)  
 [Designing for Touch](https://canvas.sfu.ca/courses/64326/modules/items/2120563)  
 [Discovery Research](https://canvas.sfu.ca/courses/64326/modules/items/2120566)  
+[Double Diamond](https://canvas.sfu.ca/courses/64326/modules/items/2120562)  
 
 ### E
 [Emotional Design](https://canvas.sfu.ca/courses/64326/modules/items/2120568)  
