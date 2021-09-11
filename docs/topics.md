@@ -21,6 +21,7 @@
 [Design Thinking](week-02)  
 [Designing for Touch](week-03)  
 [Discovery Research](week-06)  
+[Double Diamond](week-02)  
 
 ### E
 [Emotional Design](week-08)  
