@@ -7,8 +7,8 @@
 
 ### [Live Blackboard Collaborate Sessions](https://canvas.sfu.ca/courses/64326/external_tools/3544)
 
-* Mini-lectures and Activities ([Guest access for waitlisted students](https://www2.cs.sfu.ca/CourseCentral/363/paulh/BB-14-09-2021-RxXs5JizgYL9ZJ)) <span class='badge'> [Tue Sep 14 2:30pm PT](https://www.timeanddate.com/worldclock/fixedtime.html?msg=CMPT-363+Mini-lectures+and+Activities&iso=20210914T1430&p1=256&ah=1&am=50)</span>
-* Review and Discussion (Guest access for waitlisted students TBD) <span class='badge'> [Thu Sep 16 2:30pm PT](https://www.timeanddate.com/worldclock/fixedtime.html?msg=CMPT-363+Review+and+Discussion&iso=20210916T1430&p1=256&am=50)</span>
+* Mini-lectures and Activities <span class='badge'> [Tue Sep 14 2:30pm PT](https://www.timeanddate.com/worldclock/fixedtime.html?msg=CMPT-363+Mini-lectures+and+Activities&iso=20210914T1430&p1=256&ah=1&am=50)</span>
+* Review and Discussion ([Guest access for waitlisted students](https://www2.cs.sfu.ca/CourseCentral/363/paulh/BB-16-09-2021-RxXs5JizgYL9ZC))  <span class='badge'> [Thu Sep 16 2:30pm PT](https://www.timeanddate.com/worldclock/fixedtime.html?msg=CMPT-363+Review+and+Discussion&iso=20210916T1430&p1=256&am=50)</span>
 
 ### Important Reminders
 
