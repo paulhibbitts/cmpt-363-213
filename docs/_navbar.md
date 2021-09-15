@@ -1,6 +1,5 @@
 * [Schedule](schedule.md)
 * [Topics](topics.md)
 * [All Readings](readings.md)
-* [Resources](resources.md)
 * [UX Techniques Guide](ux-techniques-guide.md)
 * [Contact Paul or TAs](contact.md)
