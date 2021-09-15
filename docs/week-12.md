@@ -27,6 +27,18 @@
 
 <div class="video-container-16by9"><iframe src="https://docs.google.com/presentation/d/e/2PACX-1vRdfDDdBLFcwOJ4qUNWlGzyffy8qmRVZ32nsNwjT_Y2RjaBiFskNiVZKyTEWODwQqU1A1G85HAG9PaL/embed?start=false&loop=false&delayms=3000" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe></div>
 
+## Assignment Resources  
+
+Figma  
+_Interactive prototyping tool._  
+*   [Figma Web App](https://www.figma.com/)
+*   [Figma Help Centre](https://help.figma.com/hc/en-us)
+*   [10 tips on using components in Figma](https://medium.com/design-with-figma/10-tips-on-using-components-in-figma-c7db9c5e7fe1)
+*   [Figma 101: An introduction tutorial](https://www.youtube.com/watch?v=cCNLD5IZY34)
+*   [Figma tips and tricks](https://blog.prototypr.io/figma-tips-and-tricks-1c07ec13b696)  
+*   [Figma Tutorial: How (and Why) To Use It For Your Next Project](https://snipcart.com/blog/how-to-use-figma-tutorial)  
+*   [Figma UI Design Tutorial: Get Started in Just 24 Minutes! (2021)](https://www.youtube.com/watch?v=FTFaQWZBqQ8)  
+
 ## Supplemental Readings  
 
 [Grids](ux-techniques-guide/06.what-are-the-essentials-of-visual-design/grids.md ':include')

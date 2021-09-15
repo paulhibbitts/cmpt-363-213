@@ -30,9 +30,18 @@
 ## Downloads
 [Sketching Templates](https://canvas.sfu.ca/courses/64326/files/folder/Downloads/Sketching%20Templates)  
 
-## Supplemental Videos  
-[UI Sketching Conventions](https://www.youtube.com/watch?v=MwidSAlbEB8)  
-<div class="video-container-16by9"><iframe width="560" height="315" src="https://www.youtube.com/embed/MwidSAlbEB8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+## Assignment Resources  
+
+Balsamiq for Google Drive  
+_Web-based wireframing tool._
+*   [Balsamiq for Google Drive Installation](https://balsamiq.com/wireframes/google-drive/docs/installing/#installation) (contact Paul for 4 month Editor access)
+*   [Balsamiq for Google Drive Documentation](https://balsamiq.com/wireframes/google-drive/docs/)
+*   [Balsamiq for Google Drive - Exporting](https://balsamiq.com/wireframes/google-drive/docs/exporting/)
+*   [12 Practical Tips for Creating Better Wireframes](https://uxplanet.org/12-practical-tips-for-creating-better-wireframes-be0418777946)
+*   [Balsamiq Wireframes for Google Drive Overview](https://www.youtube.com/watch?v=l_jJMMY_QMQ)
+*   [Creating Polished Wireframes](https://balsamiq.com/learn/resources/articles/polished-wireframes/)
+*   [Wireframes to Go - a Collection of Ready-to-Use UI Controls](https://balsamiq.com/wireframes/togo/)
+*   [Working with Skins (Sketch vs. Wireframe)](https://balsamiq.com/wireframes/desktop/docs/skins/)
 
 ## Supplemental Readings  
 
