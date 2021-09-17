@@ -59,8 +59,8 @@ Thursdays 3:30-4:00pm PT
 * Mini-lectures and Activities <span class='badge'> [Tue Sep 21 2:30pm PT](https://www.timeanddate.com/worldclock/fixedtime.html?msg=CMPT-363+Mini-lectures+and+Activities&iso=20210921T1430&p1=256&ah=1&am=50)</span>
 * Review and Discussion <span class='badge'> [Thu Sep 23 2:30pm PT](https://www.timeanddate.com/worldclock/fixedtime.html?msg=CMPT-363+Review+and+Discussion&iso=20210923T1430&p1=256&am=50)</span>
 
-### Week 3 Required Readings and One-Minute Summaries
+### Week 3 Required Readings
 
-[Interaction design: a guide for beginners](https://canvas.sfu.ca/courses/64326/assignments/662753) <span class='badge'> [Wed Sep 22 11:59pm PT](https://www.timeanddate.com/worldclock/fixedtime.html?msg=One-minute+Summaries+for+Week+3+Due+Date&iso=20210922T235900&p1=256)</span>     
-[Five HCI Laws for User Experience Design](https://canvas.sfu.ca/courses/64326/assignments/662754) <span class='badge'> [Wed Sep 22 11:59pm PT](https://www.timeanddate.com/worldclock/fixedtime.html?msg=One-minute+Summaries+for+Week+3+Due+Date&iso=20210922T235900&p1=256)</span>   
-[Touch Targets on Touchscreens](https://canvas.sfu.ca/courses/64326/assignments/662749) <span class='badge'> [Wed Sep 22 11:59pm PT](https://www.timeanddate.com/worldclock/fixedtime.html?msg=One-minute+Summaries+for+Week+3+Due+Date&iso=20210922T235900&p1=256)</span>   
+[Interaction design: a guide for beginners (19 minute read)](https://uxplanet.org/interaction-design-a-guide-for-beginners-32ff2364b53f)  
+[Five HCI Laws for User Experience Design (4 minute read)](https://measuringu.com/hci-laws/)  
+[Touch Targets on Touchscreens (11 minute read)](https://www.nngroup.com/articles/touch-target-size/)   
