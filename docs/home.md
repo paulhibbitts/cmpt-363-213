@@ -61,6 +61,6 @@ Thursdays 3:30-4:00pm PT
 
 ### Week 3 Required Readings
 
-[Interaction design: a guide for beginners (19 minute read)](https://uxplanet.org/interaction-design-a-guide-for-beginners-32ff2364b53f)  
-[Five HCI Laws for User Experience Design (4 minute read)](https://measuringu.com/hci-laws/)  
-[Touch Targets on Touchscreens (11 minute read)](https://www.nngroup.com/articles/touch-target-size/)   
+* [Interaction design: a guide for beginners (19 minute read)](https://uxplanet.org/interaction-design-a-guide-for-beginners-32ff2364b53f)  
+* [Five HCI Laws for User Experience Design (4 minute read)](https://measuringu.com/hci-laws/)  
+* [Touch Targets on Touchscreens (11 minute read)](https://www.nngroup.com/articles/touch-target-size/)   
