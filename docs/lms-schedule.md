@@ -2,14 +2,14 @@
 
 ## :fas fa-calendar fa-fw: [Week 1 (Sep 8 - 12)](https://canvas.sfu.ca/courses/64326/modules/items/2120561)
 **Course overview**  
-:fas fa-desktop fa-fw: Course Overview <span class='badge'> [Thu Sep 9 2:30pm PT](https://www.timeanddate.com/worldclock/fixedtime.html?msg=CMPT-363+Course+Overview&iso=20210909T1430&p1=256&ah=1&am=50)</span>  
+:fas fa-desktop fa-fw: Course Overview [[PDF](https://canvas.sfu.ca/courses/64326/files/folder/Downloads/Slides%20PDFs/Course%20Overview) | [Recording](https://canvas.sfu.ca/courses/64326/external_tools/3544)] <span class='badge'> [Thu Sep 9 2:30pm PT](https://www.timeanddate.com/worldclock/fixedtime.html?msg=CMPT-363+Course+Overview&iso=20210909T1430&p1=256&ah=1&am=50)</span>  
 :fas fa-book fa-fw: [Course Syllabus](https://canvas.sfu.ca/courses/64326/assignments/syllabus) (suggested reading)  
 
 ## :fas fa-calendar fa-fw: [Week 2 (Sep 13 - 19)](https://canvas.sfu.ca/courses/64326/modules/items/2120562)
 **What is usability and user experience design?**  
 :fas fa-users fa-fw: [Form Student Groups](https://canvas.sfu.ca/courses/64326/users) (4 members per group required) <span class='badge'> [Mon Sep 20 11:59pm PT](https://www.timeanddate.com/worldclock/fixedtime.html?msg=CMPT-363+Form+Student+Groups+Due+Date&iso=20210920T235900)</span>  
-:fas fa-desktop fa-fw: Mini-lectures and Activities <span class='badge'> [Tue Sep 14 2:30pm PT](https://www.timeanddate.com/worldclock/fixedtime.html?msg=CMPT-363+Mini-lectures+and+Activities&iso=20210914T1430&p1=256&ah=1&am=50)</span>  
-:fas fa-desktop fa-fw: Review and Discussion <span class='badge'> [Thu Sep 16 2:30pm PT](https://www.timeanddate.com/worldclock/fixedtime.html?msg=CMPT-363+Review+and+Discussion&iso=20210916T1430&p1=256&am=50)</span>  
+:fas fa-desktop fa-fw: Mini-lectures and Activities [[PDF](https://canvas.sfu.ca/courses/64326/files/folder/Downloads/Slides%20PDFs/Mini-Lectures%20and%20Activities/Week-02) | [Recording](https://canvas.sfu.ca/courses/64326/external_tools/3544)] <span class='badge'> [Tue Sep 14 2:30pm PT](https://www.timeanddate.com/worldclock/fixedtime.html?msg=CMPT-363+Mini-lectures+and+Activities&iso=20210914T1430&p1=256&ah=1&am=50)</span>  
+:fas fa-desktop fa-fw: Review and Discussion [[PDF](https://canvas.sfu.ca/courses/64326/files/folder/Downloads/Slides%20PDFs/Review%20and%20Discussion/Week-02) | [Recording](https://canvas.sfu.ca/courses/64326/external_tools/3544)] <span class='badge'> [Thu Sep 16 2:30pm PT](https://www.timeanddate.com/worldclock/fixedtime.html?msg=CMPT-363+Review+and+Discussion&iso=20210916T1430&p1=256&am=50)</span>  
 :fas fa-book fa-fw: [Defining usability (7 minute read)](https://blog.prototypr.io/defining-usability-e7bf42e8abd0)  
 :fas fa-book fa-fw: [An Introduction to User Experience Design (8 minute read)](https://marvelapp.com/blog/introduction-user-experience-design/)  
 :fas fa-book fa-fw: [Why UX Outcomes Make Better Goals Than Business Outcomes (5 minute read)](https://articles.uie.com/why-ux-outcomes-make-better-goals-than-business-outcomes)  
@@ -19,8 +19,8 @@
 ## :fas fa-calendar fa-fw: [Week 3 (Sep 20 - 26)](https://canvas.sfu.ca/courses/64326/modules/items/2120563)
 **What is the practice of multi-device interaction design?**  
 :fas fa-comments fa-fw: [Group Project Proposal](https://canvas.sfu.ca/courses/64326/discussion_topics/1316138) <span class='badge'> [Mon Sep 27 11:59pm PT](https://www.timeanddate.com/worldclock/fixedtime.html?msg=CMPT-363+Group+Project+Proposal+Due+Date&iso=20210927T235900)</span>  
-:fas fa-desktop fa-fw: Mini-lectures and Activities <span class='badge'> [Tue Sep 21 2:30pm PT](https://www.timeanddate.com/worldclock/fixedtime.html?msg=CMPT-363+Mini-lectures+and+Activities&iso=20210921T1430&p1=256&ah=1&am=50)</span>  
-:fas fa-desktop fa-fw: Review and Discussion <span class='badge'> [Thu Sep 23 2:30pm PT](https://www.timeanddate.com/worldclock/fixedtime.html?msg=CMPT-363+Review+and+Discussion&iso=20210923T1430&p1=256&am=50)</span>  
+:fas fa-desktop fa-fw: Mini-lectures and Activities [[PDF](https://canvas.sfu.ca/courses/64326/files/folder/Downloads/Slides%20PDFs/Mini-Lectures%20and%20Activities/Week-03) | [Recording](https://canvas.sfu.ca/courses/64326/external_tools/3544)] <span class='badge'> [Tue Sep 21 2:30pm PT](https://www.timeanddate.com/worldclock/fixedtime.html?msg=CMPT-363+Mini-lectures+and+Activities&iso=20210921T1430&p1=256&ah=1&am=50)</span>  
+:fas fa-desktop fa-fw: Review and Discussion [[PDF](https://canvas.sfu.ca/courses/64326/files/folder/Downloads/Slides%20PDFs/Review%20and%20Discussion/Week-03) | [Recording](https://canvas.sfu.ca/courses/64326/external_tools/3544)] <span class='badge'> [Thu Sep 23 2:30pm PT](https://www.timeanddate.com/worldclock/fixedtime.html?msg=CMPT-363+Review+and+Discussion&iso=20210923T1430&p1=256&am=50)</span>  
 :fas fa-book fa-fw: [Interaction design: a guide for beginners (19 minute read)](https://uxplanet.org/interaction-design-a-guide-for-beginners-32ff2364b53f)  
 :fas fa-book fa-fw: [Five HCI Laws for User Experience Design (4 minute read)](https://measuringu.com/hci-laws/)  
 :fas fa-book fa-fw: [Touch Targets on Touchscreens (11 minute read)](https://www.nngroup.com/articles/touch-target-size/)   
@@ -30,7 +30,7 @@
 ## :fas fa-calendar fa-fw: [Week 4 (Sep 27 - Oct 3)](https://canvas.sfu.ca/courses/64326/modules/items/2120564)
 **How to conduct a user interface inspection?**  
 :fas fa-pen fa-fw: [Individual Heuristic Inspection Assignment](https://canvas.sfu.ca/courses/64326/assignments/662758) <span class='badge'> [Mon Oct 11 11:59pm PT](https://www.timeanddate.com/worldclock/fixedtime.html?msg=CMPT-363+Individual+Heuristic+Inspection+Due+Date&iso=20211011T2359&p1=256)</span>  
-:fas fa-desktop fa-fw: Mini-lectures and Activities <span class='badge'> [Tue Sep 28 2:30pm PT](https://www.timeanddate.com/worldclock/fixedtime.html?msg=CMPT-363+Mini-lectures+and+Activities&iso=20210928T1430&p1=256&ah=1&am=50)</span>   
+:fas fa-desktop fa-fw: Mini-lectures and Activities [[PDF](https://canvas.sfu.ca/courses/64326/files/folder/Downloads/Slides%20PDFs/Mini-Lectures%20and%20Activities/Week-04) | [Recording](https://canvas.sfu.ca/courses/64326/external_tools/3544)]  <span class='badge'> [Tue Sep 28 2:30pm PT](https://www.timeanddate.com/worldclock/fixedtime.html?msg=CMPT-363+Mini-lectures+and+Activities&iso=20210928T1430&p1=256&ah=1&am=50)</span>   
 :fas fa-desktop fa-fw: Review and Discussion <span class='badge'> [Thu Sep 30 2:30pm PT](https://www.timeanddate.com/worldclock/fixedtime.html?msg=CMPT-363+Review+and+Discussion&iso=20210930T1430&p1=256&am=50)</span> (National Day for Truth and Reconciliation, no class)   
 :fas fa-book fa-fw: [Heuristic Analysis for UX – How to Run a Usability Evaluation (10 minute read)](https://www.toptal.com/designers/usability/usability-analysis-how-to-run-a-heuristic-evaluation)  
 :fas fa-book fa-fw: [Severity Ratings for Usability Problems (5 minute read)](https://www.nngroup.com/articles/how-to-rate-the-severity-of-usability-problems/)   
