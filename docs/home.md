@@ -23,7 +23,7 @@ Is your group interested in an open source mobile project other than the [Moodle
 
 </div>
 
-# Online Office (Student) Hours ‍👩🏽‍💻👨🏽‍💻
+# Discord Office (Student) Hours ‍👩🏽‍💻👨🏽‍💻
 
 <div class="row">
 <div class="column">
