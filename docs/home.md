@@ -5,7 +5,7 @@
 
 ## What is the practice of multi-device interaction design?
 
-### [Live Blackboard Collaborate Sessions](https://canvas.sfu.ca/courses/64326/external_tools/3544)
+### [Live Blackboard Collab Sessions](https://canvas.sfu.ca/courses/64326/external_tools/3544)
 
 * Mini-lectures and Activities ([Guest access for waitlisted students](https://www2.cs.sfu.ca/CourseCentral/363/paulh/BB-21-09-2021-RxXs5JizgYL9ZO)) <span class='badge'> [Tue Sep 21 2:30pm PT](https://www.timeanddate.com/worldclock/fixedtime.html?msg=CMPT-363+Mini-lectures+and+Activities&iso=20210921T1430&p1=256&ah=1&am=50)</span>
 * Review and Discussion <span class='badge'> [Thu Sep 23 2:30pm PT](https://www.timeanddate.com/worldclock/fixedtime.html?msg=CMPT-363+Review+and+Discussion&iso=20210923T1430&p1=256&am=50)</span>
@@ -48,7 +48,7 @@ Thursdays 3:30-4:00pm PT
 
 ## How to conduct a user interface inspection?
 
-### Live Online Sessions
+### Live  Blackboard Collab Sessions
 
 * Mini-lectures and Activities <span class='badge'> [Tue Sep 28 2:30pm PT](https://www.timeanddate.com/worldclock/fixedtime.html?msg=CMPT-363+Mini-lectures+and+Activities&iso=20210928T1430&p1=256&ah=1&am=50)</span>
 * Review and Discussion <span class='badge'> [Thu Sep 30 2:30pm PT](https://www.timeanddate.com/worldclock/fixedtime.html?msg=CMPT-363+Review+and+Discussion&iso=20210930T1430&p1=256&am=50)</span> (National Day for Truth and Reconciliation, no class)
