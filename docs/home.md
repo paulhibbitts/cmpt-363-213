@@ -44,7 +44,7 @@ Friday 12:00-1:00pm PT (Sep 29th only)
 </div>
 </div>
 
-![UX](assets/images/12650723674_d5c85af332_k.jpg ':class=banner-image')
+![UX](assets/images/dave-hoefler-vl2uAIdBWJ8-unsplash.jpg ':class=banner-image')
 
 # Looking Ahead to Next Week🔭
 
