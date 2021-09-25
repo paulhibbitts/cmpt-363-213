@@ -14,7 +14,7 @@
 [Write Better Qualitative Usability Tasks: Top 10 Mistakes to Avoid (10 minute read)](https://www.nngroup.com/articles/better-usability-tasks/)  
 
 ## BlackBoard Collaborate Session Slides
-[Usability Testing — Mini-lectures and Activities](https://docs.google.com/presentation/d/e/2PACX-1vT6Q1YJjFnPW5BVnjYYWKpNf11Cf_Zn8nmkCNmP7rCMZXtc20oCpya4TNr2-q25OEmhbGhUDrZzgvxK/pub?start=false&loop=false&delayms=3000) | [PDF](https://canvas.sfu.ca/courses/64326/files/folder/Downloads/Slides%20PDFs/Review%20and%20Discussion/Week-10) | [Recording ](https://canvas.sfu.ca/courses/64326/external_tools/3544) (Look in Hamburger :fas fa-bars fa-fw:menu)  
+[Usability Testing — Mini-lectures and Activities](https://docs.google.com/presentation/d/e/2PACX-1vT6Q1YJjFnPW5BVnjYYWKpNf11Cf_Zn8nmkCNmP7rCMZXtc20oCpya4TNr2-q25OEmhbGhUDrZzgvxK/pub?start=false&loop=false&delayms=3000) | [PDF](https://canvas.sfu.ca/courses/64326/files/folder/Downloads/Slides%20PDFs/Mini-Lectures%20and%20Activities/Week-10) | [Recording ](https://canvas.sfu.ca/courses/64326/external_tools/3544) (Look in Hamburger :fas fa-bars fa-fw:menu)  
 
 <div class="video-container-16by9"><iframe src="https://docs.google.com/presentation/d/e/2PACX-1vT6Q1YJjFnPW5BVnjYYWKpNf11Cf_Zn8nmkCNmP7rCMZXtc20oCpya4TNr2-q25OEmhbGhUDrZzgvxK/embed?start=false&loop=false&delayms=3000" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe></div>
 

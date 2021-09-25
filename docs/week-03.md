@@ -16,7 +16,7 @@
 [Touch Targets on Touchscreens (11 minute read)](https://www.nngroup.com/articles/touch-target-size/)   
 
 ## BlackBoard Collaborate Session Slides
-[Multi-device Interaction Design — Mini-lectures and Activities](https://docs.google.com/presentation/d/e/2PACX-1vR_tHC0_iQroPO-od2neB1MFHFBakQcxkf5O4qr0r0L-nCqGH1kLU2q3vdOyo9yS30iCzuuu6n0VKfd/pub?start=false&loop=false&delayms=3000) | [PDF](https://canvas.sfu.ca/courses/64326/files/folder/Downloads/Slides%20PDFs/Review%20and%20Discussion/Week-03) | [Recording](https://canvas.sfu.ca/courses/64326/external_tools/3544) (Look in Hamburger :fas fa-bars fa-fw:menu)
+[Multi-device Interaction Design — Mini-lectures and Activities](https://docs.google.com/presentation/d/e/2PACX-1vR_tHC0_iQroPO-od2neB1MFHFBakQcxkf5O4qr0r0L-nCqGH1kLU2q3vdOyo9yS30iCzuuu6n0VKfd/pub?start=false&loop=false&delayms=3000) | [PDF](https://canvas.sfu.ca/courses/64326/files/folder/Downloads/Slides%20PDFs/Mini-Lectures%20and%20Activities/Week-03) | [Recording](https://canvas.sfu.ca/courses/64326/external_tools/3544) (Look in Hamburger :fas fa-bars fa-fw:menu)
 
 <div class="video-container-16by9"><iframe src="https://docs.google.com/presentation/d/e/2PACX-1vR_tHC0_iQroPO-od2neB1MFHFBakQcxkf5O4qr0r0L-nCqGH1kLU2q3vdOyo9yS30iCzuuu6n0VKfd/embed?start=false&loop=false&delayms=3000" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe></div>
 

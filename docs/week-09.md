@@ -19,7 +19,7 @@
 [What Is The Role Of Creativity In UX Design? (10 minute read)](https://www.smashingmagazine.com/2018/12/role-of-creativity-ux-design/)  
 
 ## BlackBoard Collaborate Session Slides
-[Prototyping — Mini-lectures and Activities](https://docs.google.com/presentation/d/e/2PACX-1vTc67lpsCEn8jJ26RLVtkTAxipgay4d36O6LFLX6WOq7EQY3hqh9kYPcPBpNtFgOJWZVoxgT17EqbPX/pub?start=false&loop=false&delayms=3000) | [PDF](https://canvas.sfu.ca/courses/64326/files/folder/Downloads/Slides%20PDFs/Review%20and%20Discussion/Week-09) | [Recording ](https://canvas.sfu.ca/courses/64326/external_tools/3544) (Look in Hamburger :fas fa-bars fa-fw:menu)
+[Prototyping — Mini-lectures and Activities](https://docs.google.com/presentation/d/e/2PACX-1vTc67lpsCEn8jJ26RLVtkTAxipgay4d36O6LFLX6WOq7EQY3hqh9kYPcPBpNtFgOJWZVoxgT17EqbPX/pub?start=false&loop=false&delayms=3000) | [PDF](https://canvas.sfu.ca/courses/64326/files/folder/Downloads/Slides%20PDFs/Mini-Lectures%20and%20Activities/Week-09) | [Recording ](https://canvas.sfu.ca/courses/64326/external_tools/3544) (Look in Hamburger :fas fa-bars fa-fw:menu)
 
 <div class="video-container-16by9"><iframe src="https://docs.google.com/presentation/d/e/2PACX-1vTc67lpsCEn8jJ26RLVtkTAxipgay4d36O6LFLX6WOq7EQY3hqh9kYPcPBpNtFgOJWZVoxgT17EqbPX/embed?start=false&loop=false&delayms=3000" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe></div>
 

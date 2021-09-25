@@ -12,7 +12,7 @@ No visual journal entry quiz.
 [Design Heuristics Lecture with Scott Klemmer, a Video Playlist (35 minutes in total)](https://www.youtube.com/playlist?list=PLVtu1bDQijari7LfHOoSTdcpbWIkwZWIA)  
 
 ## BlackBoard Collaborate Session Slides
-[Special Topic — Heuristic Evaluations](https://docs.google.com/presentation/d/e/2PACX-1vR_wbgLvW4eRuGwI1V9EmIOXQ19rO-ZDMxSMzJvEafk_bM2hczOn9wO66rAzDy6eCf7-X9iYrQpgwXd/pub?start=false&loop=false&delayms=3000) | [PDF](https://canvas.sfu.ca/courses/64326/files/folder/Downloads/Slides%20PDFs/Review%20and%20Discussion/Week-05) | [Recording](https://canvas.sfu.ca/courses/64326/external_tools/3544) (Look in Hamburger :fas fa-bars fa-fw:menu)  
+[Special Topic — Heuristic Evaluations](https://docs.google.com/presentation/d/e/2PACX-1vR_wbgLvW4eRuGwI1V9EmIOXQ19rO-ZDMxSMzJvEafk_bM2hczOn9wO66rAzDy6eCf7-X9iYrQpgwXd/pub?start=false&loop=false&delayms=3000) | [PDF](https://canvas.sfu.ca/courses/64326/files/folder/Downloads/Slides%20PDFs/Mini-Lectures%20and%20Activities/Week-05) | [Recording](https://canvas.sfu.ca/courses/64326/external_tools/3544) (Look in Hamburger :fas fa-bars fa-fw:menu)  
 
 <div class="video-container-16by9"><iframe src="https://docs.google.com/presentation/d/e/2PACX-1vR_wbgLvW4eRuGwI1V9EmIOXQ19rO-ZDMxSMzJvEafk_bM2hczOn9wO66rAzDy6eCf7-X9iYrQpgwXd/embed?start=false&loop=false&delayms=3000" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe></div>
 
