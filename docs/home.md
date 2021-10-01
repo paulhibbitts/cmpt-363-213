@@ -12,7 +12,7 @@
 
 ### Important Reminders
 
-* [Individual Heuristic Inspection](https://canvas.sfu.ca/courses/64326/assignments/662758) <span class='badge'> [Mon Oct 11 11:59pm PT](https://www.timeanddate.com/worldclock/fixedtime.html?msg=CMPT-363+Individual+Heuristic+Inspection+Due+Date&iso=20211011T2359&p1=256)</span>  
+* [Individual Heuristic Inspection](https://canvas.sfu.ca/courses/64326/assignments/662758) <span class='badge'> [Tue Oct 12 11:59pm PT](https://www.timeanddate.com/worldclock/fixedtime.html?msg=CMPT-363+Individual+Heuristic+Inspection+Due+Date&iso=20211012T2359&p1=256)</span>  
 
 ### Required Readings & One-Minute Summaries
 * [Heuristic Analysis for UX – How to Run a Usability Evaluation](https://canvas.sfu.ca/courses/64326/assignments/662752) <span class='badge'> [Wed Sep 29 11:59pm PT](https://www.timeanddate.com/worldclock/fixedtime.html?msg=One-minute+Summaries+for+Week+4+Due+Date&iso=20210929T235900&p1=256)</span>  
