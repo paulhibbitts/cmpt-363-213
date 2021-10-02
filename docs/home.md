@@ -3,23 +3,21 @@
 
 # What’s Happening This Week 💫
 
-## How to conduct a user interface inspection?
+## Special topic — heuristic evaluations
 
 ### [Live Blackboard Collab Sessions](https://canvas.sfu.ca/courses/64326/external_tools/3544)
 
-* Mini-lectures and Activities <span class='badge'> [Tue Sep 28 2:30pm PT](https://www.timeanddate.com/worldclock/fixedtime.html?msg=CMPT-363+Mini-lectures+and+Activities&iso=20210928T1430&p1=256&ah=1&am=50)</span>
-* Review and Discussion <span class='badge'> [Thu Sep 30 2:30pm PT](https://www.timeanddate.com/worldclock/fixedtime.html?msg=CMPT-363+Review+and+Discussion&iso=20210930T1430&p1=256&am=50)</span> ([National Day for Truth and Reconciliation](https://www.sfu.ca/sfunews/stories/2021/08/province-recognizes-september-30-as-national-day-for-truth-and-r.html), no class)
+* Mini-lectures and Activities <span class='badge'> [Tue Oct 5 2:30pm PT](https://www.timeanddate.com/worldclock/fixedtime.html?msg=CMPT-363+Mini-lectures+and+Activities&iso=20211005T1430&p1=256&ah=1&am=50)</span>
+* Review and Discussion <span class='badge'> [Thu Oct 7 2:30pm PT](https://www.timeanddate.com/worldclock/fixedtime.html?msg=CMPT-363+Review+and+Discussion&iso=20211007T1430&p1=256&am=50)</span>
 
 ### Important Reminders
 
 * [Individual Heuristic Inspection](https://canvas.sfu.ca/courses/64326/assignments/662758) <span class='badge'> [Tue Oct 12 11:59pm PT](https://www.timeanddate.com/worldclock/fixedtime.html?msg=CMPT-363+Individual+Heuristic+Inspection+Due+Date&iso=20211012T2359&p1=256)</span>  
 
 ### Required Readings & One-Minute Summaries
-* [Heuristic Analysis for UX – How to Run a Usability Evaluation](https://canvas.sfu.ca/courses/64326/assignments/662752) <span class='badge'> [Wed Sep 29 11:59pm PT](https://www.timeanddate.com/worldclock/fixedtime.html?msg=One-minute+Summaries+for+Week+4+Due+Date&iso=20210929T235900&p1=256)</span>  
-* [Severity Ratings for Usability Problems](https://canvas.sfu.ca/courses/64326/assignments/662755) <span class='badge'> [Wed Sep 29 11:59pm PT](https://www.timeanddate.com/worldclock/fixedtime.html?msg=One-minute+Summaries+for+Week+4+Due+Date&iso=20210929T235900&p1=256)</span>  
+* [Design Heuristics Lecture with Scott Klemmer, a Video Playlist](https://canvas.sfu.ca/courses/64326/assignments/662757) <span class='badge'> [Wed Oct 6 11:59pm PT](https://www.timeanddate.com/worldclock/fixedtime.html?msg=One-minute+Summaries+for+Week+5+Due+Date&iso=20211006T235900&p1=256)</span>  
 
-
-[Week 4 Visual Journal Entry due Oct 1](https://canvas.sfu.ca/courses/64326/assignments/662769 ':class=button')
+No visual journal entry this week.
 
 </div>
 
@@ -37,22 +35,24 @@ Wednesday 12:00-12:30pm PT
 
 Audio/Video Call Office Hours:  
 Tuesday 1:30-2:00pm PT  
-Friday 12:00-1:00pm PT (Sep 29th only)  
+Thursday 3:30-4:00pm PT  
 
 </div>
 </div>
 
-![UX](assets/images/dave-hoefler-vl2uAIdBWJ8-unsplash.jpg ':class=banner-image')
+![UX](assets/images/13966760787_2d0975e6bc_k.jpg ':class=banner-image')
 
 # Looking Ahead to Next Week🔭
 
-## Special topic — heuristic evaluations
+## How to understand and communicate people's needs and behaviours?
 
 ### Live  Blackboard Collab Sessions
 
-* Mini-lectures and Activities <span class='badge'> [Tue Oct 5 2:30pm PT](https://www.timeanddate.com/worldclock/fixedtime.html?msg=CMPT-363+Mini-lectures+and+Activities&iso=20211005T1430&p1=256&ah=1&am=50)</span>
-* Review and Discussion <span class='badge'> [Thu Oct 7 2:30pm PT](https://www.timeanddate.com/worldclock/fixedtime.html?msg=CMPT-363+Review+and+Discussion&iso=20211007T1430&p1=256&am=50)</span>
+* Mini-lectures and Activities <span class='badge'> [Tue Oct 12 2:30pm PT](https://www.timeanddate.com/worldclock/fixedtime.html?msg=CMPT-363+Mini-lectures+and+Activities&iso=20211012T1430&p1=256&ah=1&am=50)</span>
+* Review and Discussion <span class='badge'> [Thu Oct 14 2:30pm PT](https://www.timeanddate.com/worldclock/fixedtime.html?msg=CMPT-363+Review+and+Discussion&iso=20211014T1430&p1=256&am=50)</span>
 
 ### Required Readings
 
-* [Design Heuristics Lecture with Scott Klemmer, a Video Playlist (35 minutes in total)](https://www.youtube.com/playlist?list=PLVtu1bDQijari7LfHOoSTdcpbWIkwZWIA)
+[A 5-Step Process For Conducting User Research (16 minute read)](https://www.smashingmagazine.com/2013/09/5-step-process-conducting-user-research/)  
+[How to Leverage Thematic Analysis for Better UX (11 minute read)](https://www.toptal.com/designers/ux-research/thematic-analysis-for-ux)  
+[User Need Statements: The ‘Define’ Stage in Design Thinking (11 minute read)](https://www.nngroup.com/articles/user-need-statements/)  
