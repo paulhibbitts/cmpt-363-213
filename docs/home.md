@@ -57,5 +57,5 @@ Thursday 3:30-4:00pm PT
 [How to Leverage Thematic Analysis for Better UX (11 minute read)](https://www.toptal.com/designers/ux-research/thematic-analysis-for-ux)  
 [User Need Statements: The ‘Define’ Stage in Design Thinking (11 minute read)](https://www.nngroup.com/articles/user-need-statements/)  
 
-### Assignments
-* [Group User Research](https://canvas.sfu.ca/courses/64326/assignments/662762) <span class='badge'> [Mon Nov 1 11:59pm PT](https://www.timeanddate.com/worldclock/fixedtime.html?msg=CMPT-363+Group+User+Research+Assignment+Due+Date&iso=20211101T2359&p1=256)</span>  
+### Group Assignments
+* [User Research](https://canvas.sfu.ca/courses/64326/assignments/662762) <span class='badge'> [Mon Nov 1 11:59pm PT](https://www.timeanddate.com/worldclock/fixedtime.html?msg=CMPT-363+Group+User+Research+Assignment+Due+Date&iso=20211101T2359&p1=256)</span>  
