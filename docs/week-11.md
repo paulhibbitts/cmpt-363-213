@@ -2,7 +2,7 @@
 
 # Draft Wireframes
 
-## Instructor Group Meetings
+## Instructor Storyboard Wireframes Feedback Meetings
 No regularly scheduled Blackboard Collaborate sessions.
 
 Zoom group meetings between 12:00pm and 4:00pm PT on TBD.
