@@ -3,7 +3,7 @@
 # User Research Plan
 
 ## Instructor User Research Feedback Meetings
-No regularly scheduled Blackboard Collaborate sessions.
+No regularly scheduled Blackboard Collaborate sessions. Have your draft [one page user research plan](https://www.smashingmagazine.com/2012/01/ux-research-plan-stakeholders-love/) ready for review.
 
 Zoom group meetings between 12:00pm and 4:00pm PT on Oct 19th, 20th and 21st.
 
