@@ -5,7 +5,7 @@
 ## Instructor User Research Feedback Meetings
 No regularly scheduled Blackboard Collaborate sessions.  
 
-Zoom group meetings between 12:00pm and 4:00pm PT on Oct 19th, 20th and 21st. Have your draft [one page user research plan](https://www.smashingmagazine.com/2012/01/ux-research-plan-stakeholders-love/) with the sections Title, Background, Goals, Research questions, Methodology and Participants (if applicable) ready for review.  
+Zoom group meetings between 12:00pm and 4:00pm PT on Oct 19th, 20th and 21st. Have your draft [one page user research plan](https://www.smashingmagazine.com/2012/01/ux-research-plan-stakeholders-love/) consisting of title, background, goals, research questions, methodology and participants (if applicable) ready for review.  
 
 ## One-minute Summaries & Questions
 [How to Run Remote User Research (Like a Boss!)](https://canvas.sfu.ca/courses/64326/assignments/662735) <span class='badge'> [Wed Oct 20 11:59pm PT](https://www.timeanddate.com/worldclock/fixedtime.html?msg=One-minute+Summaries+for+Week+7+Due+Date&iso=20211020T235900&p1=256)</span>  
