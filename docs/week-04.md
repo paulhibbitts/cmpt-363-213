@@ -1,4 +1,4 @@
-![Complex User Interface](assets/images/2760207306_21ac555261_b.jpg ':class=banner-image')
+![Complex User Interface](images/2760207306_21ac555261_b.jpg ':class=banner-image')
 
 # How to conduct a user interface inspection?
 

@@ -43,7 +43,7 @@ Thursday 3:30-4:00pm PT
 </div>
 </div>
 
-![UX](assets/images/9203760174_499895dece_k.jpeg ':class=banner-image')
+![UX](images/9203760174_499895dece_k.jpeg ':class=banner-image')
 
 # Looking Ahead to Next Week🔭
 

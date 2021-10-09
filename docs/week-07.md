@@ -1,4 +1,4 @@
-![User Research Notes](assets/images/9203760174_499895dece_k.jpeg ':class=banner-image')
+![User Research Notes](images/9203760174_499895dece_k.jpeg ':class=banner-image')
 
 # User Research Plan
 

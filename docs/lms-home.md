@@ -48,7 +48,7 @@ Thursdays 3:30-4:00pm PT
 </div>
 </div>
 
-![UX](assets/images/12650723674_d5c85af332_k.jpg ':class=banner-image')
+![UX](images/12650723674_d5c85af332_k.jpg ':class=banner-image')
 
 # Looking Ahead to Next Week🔭
 

@@ -1,4 +1,4 @@
-![Screen Sketches](assets/images/6968244538_4c0f7c7e64_k.jpg ':class=banner-image')
+![Screen Sketches](images/6968244538_4c0f7c7e64_k.jpg ':class=banner-image')
 
 # How to explore and communicate possible design solutions?
 

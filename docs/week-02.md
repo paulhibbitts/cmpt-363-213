@@ -1,4 +1,4 @@
-![UX - User Experience](assets/images/12650723674_d5c85af332_k.jpg ':class=banner-image')
+![UX - User Experience](images/12650723674_d5c85af332_k.jpg ':class=banner-image')
 
 # What is usability and user experience design?
 
@@ -26,7 +26,7 @@
 
 ## CMPT-363 UX Design Process ([Double Diamond](https://en.wikipedia.org/wiki/Double_Diamond_(design_process_model)))
 
-![Double Diamond (British Design Council)](assets/images/Double_diamond.png)
+![Double Diamond (British Design Council)](images/Double_diamond.png)
 
 ## Downloads
 [Product Reaction Cards](https://canvas.sfu.ca/courses/64326/files/folder/Downloads/Product%20Reaction%20Cards)  

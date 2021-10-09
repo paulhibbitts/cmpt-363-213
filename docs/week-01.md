@@ -1,4 +1,4 @@
-![SFU Burnaby](assets/images/7232870216_4b487b0cab_k.jpg ':class=banner-image')
+![SFU Burnaby](images/7232870216_4b487b0cab_k.jpg ':class=banner-image')
 
 # Course overview
 

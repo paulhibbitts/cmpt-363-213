@@ -1,4 +1,4 @@
-![Screen Sketches](assets/images/amelie-mourichon-YHNOwnrDzjY-unsplash.jpg ':class=banner-image')
+![Screen Sketches](images/amelie-mourichon-YHNOwnrDzjY-unsplash.jpg ':class=banner-image')
 
 # Draft Wireframes
 
