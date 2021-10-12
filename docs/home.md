@@ -51,3 +51,8 @@ Thursday 3:30-4:00pm PT
 No regularly scheduled Blackboard Collaborate sessions.  
 
 Zoom group meetings between 12:00pm and 4:00pm PT on Oct 19th, 20th and 21st. Have your draft [one page user research plan](https://www.smashingmagazine.com/2012/01/ux-research-plan-stakeholders-love/) consisting of title, background, goals, research questions, methodology and participants (if applicable) ready for review.
+
+## Required Readings  
+* [A 5-Step Process For Conducting User Research (16 minute read)](https://www.smashingmagazine.com/2013/09/5-step-process-conducting-user-research/)  
+* [How to Leverage Thematic Analysis for Better UX (11 minute read)](https://www.toptal.com/designers/ux-research/thematic-analysis-for-ux)  
+* [User Need Statements: The ‘Define’ Stage in Design Thinking (11 minute read)](https://www.nngroup.com/articles/user-need-statements/)  
