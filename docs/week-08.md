@@ -20,9 +20,9 @@
 
 <div class="video-container-16by9"><iframe src="https://docs.google.com/presentation/d/e/2PACX-1vSzMvEENFa5gxzFOy3oLzlJ0_IEHD1EZWSuiJ1afqq4cm_YY9LQc6AvxrTuURPnvNmxIg9oTEtXSj2S/embed?start=false&loop=false&delayms=3000" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe></div>
 
-[Week 8 Review and Discussion](https://docs.google.com/presentation/d/e/2PACX-1vSZ8ltdtIViiHeaSbPFnsN0S14G3xNNUmLL4rJ3CyZ0mblGIoT4cPZu03I7riSFB08wuqyS3Wme5rsp/pub?start=false&loop=false&delayms=3000) | [PDF](https://canvas.sfu.ca/courses/64326/files/folder/Downloads/Slides%20PDFs/Review%20and%20Discussion/Week-08) | [Recording ](https://canvas.sfu.ca/courses/64326/external_tools/3544) (Look in Hamburger :fas fa-bars fa-fw:menu)  
+[Week 8 Review and Discussion](https://docs.google.com/presentation/d/e/2PACX-1vR9jtVRBiSM0MUgdCyDoyZFJ5KyuSkW2V3k73JEypteXThCCu281fmw-ld5cDnk7PujmSMMupVo0Vag/pub?start=false&loop=false&delayms=3000) | [PDF](https://canvas.sfu.ca/courses/64326/files/folder/Downloads/Slides%20PDFs/Review%20and%20Discussion/Week-08) | [Recording ](https://canvas.sfu.ca/courses/64326/external_tools/3544) (Look in Hamburger :fas fa-bars fa-fw:menu)  
 
-<div class="video-container-16by9"><iframe src="https://docs.google.com/presentation/d/e/2PACX-1vRdfDDdBLFcwOJ4qUNWlGzyffy8qmRVZ32nsNwjT_Y2RjaBiFskNiVZKyTEWODwQqU1A1G85HAG9PaL/embed?start=false&loop=false&delayms=3000" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe></div>
+<div class="video-container-16by9"><iframe src="https://docs.google.com/presentation/d/e/2PACX-1vR9jtVRBiSM0MUgdCyDoyZFJ5KyuSkW2V3k73JEypteXThCCu281fmw-ld5cDnk7PujmSMMupVo0Vag/embed?start=false&loop=false&delayms=3000" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe></div>
 
 ## Supplemental Videos  
 [Mind the gap, user centered design in large organizations with Luke Wroblewski](https://www.youtube.com/watch?v=mAiNdU1go1A)  
