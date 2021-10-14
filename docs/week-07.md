@@ -1,6 +1,6 @@
 ![User Research Notes](images/9203760174_499895dece_k.jpeg ':class=banner-image')
 
-# User Research Plan
+# Special topic - conducting user research 
 
 ## Instructor User Research Feedback Meetings
 No regularly scheduled Blackboard Collaborate sessions.  
