@@ -2,6 +2,11 @@
 
 # How to bridge the gap between the problem space and design space?
 
+## Open Office Hours Consultations
+No regularly scheduled Thursday Blackboard Collaborate session.  
+
+Zoom open office hours consultations during Thursday's Review and Discussion Blackboard Collaborate session time.
+
 ## One-minute Summaries & Questions
 [Leveraging Mental Models in Product Design](https://canvas.sfu.ca/courses/64326/assignments/662744) <span class='badge'>[Wed Oct 27 11:59pm PT](https://www.timeanddate.com/worldclock/fixedtime.html?msg=One-minute+Summaries+for+Week+8+Due+Date&iso=20211027T235900&p1=256)</span>  
 [Don Norman’s Principles of Interaction Design](https://canvas.sfu.ca/courses/64326/assignments/662745) <span class='badge'>[Wed Oct 27 11:59pm PT](https://www.timeanddate.com/worldclock/fixedtime.html?msg=One-minute+Summaries+for+Week+8+Due+Date&iso=20211027T235900&p1=256)</span>  
@@ -19,10 +24,6 @@
 [Conceptual Models — Mini-lectures and Activities](https://docs.google.com/presentation/d/e/2PACX-1vSzMvEENFa5gxzFOy3oLzlJ0_IEHD1EZWSuiJ1afqq4cm_YY9LQc6AvxrTuURPnvNmxIg9oTEtXSj2S/pub?start=false&loop=false&delayms=3000) | [PDF](https://canvas.sfu.ca/courses/64326/files/folder/Downloads/Slides%20PDFs/Mini-Lectures%20and%20Activities/Week-08) | [Recording ](https://canvas.sfu.ca/courses/64326/external_tools/3544) (Look in Hamburger :fas fa-bars fa-fw:menu)  
 
 <div class="video-container-16by9"><iframe src="https://docs.google.com/presentation/d/e/2PACX-1vSzMvEENFa5gxzFOy3oLzlJ0_IEHD1EZWSuiJ1afqq4cm_YY9LQc6AvxrTuURPnvNmxIg9oTEtXSj2S/embed?start=false&loop=false&delayms=3000" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe></div>
-
-[Week 8 Review and Discussion](https://docs.google.com/presentation/d/e/2PACX-1vR9jtVRBiSM0MUgdCyDoyZFJ5KyuSkW2V3k73JEypteXThCCu281fmw-ld5cDnk7PujmSMMupVo0Vag/pub?start=false&loop=false&delayms=3000) | [PDF](https://canvas.sfu.ca/courses/64326/files/folder/Downloads/Slides%20PDFs/Review%20and%20Discussion/Week-08) | [Recording ](https://canvas.sfu.ca/courses/64326/external_tools/3544) (Look in Hamburger :fas fa-bars fa-fw:menu)  
-
-<div class="video-container-16by9"><iframe src="https://docs.google.com/presentation/d/e/2PACX-1vR9jtVRBiSM0MUgdCyDoyZFJ5KyuSkW2V3k73JEypteXThCCu281fmw-ld5cDnk7PujmSMMupVo0Vag/embed?start=false&loop=false&delayms=3000" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe></div>
 
 ## Supplemental Videos  
 [Mind the gap, user centered design in large organizations with Luke Wroblewski](https://www.youtube.com/watch?v=mAiNdU1go1A)  
