@@ -119,7 +119,7 @@ Online instructor meetings (15 mins.), no regularly scheduled Blackboard Collabo
 :fas fa-image fa-fw: [Weekly Visual Journal Entry for Week 12](https://canvas.sfu.ca/courses/64326/assignments) <span class='badge'> [Fri Nov 25 11:59pm PT](https://www.timeanddate.com/worldclock/fixedtime.html?msg=CMPT-363+Week+12+Visual+Journal+Entry+Due+Date&iso=20211125T235900)</span>  
 
 ## :fas fa-calendar fa-fw: [Week 13 (Nov 29 - Dec 5)](week-13)
-**Special topic - visual interface design**  
+**Special topic - visual interface design / Open office hours consultations**  
 :fas fa-desktop fa-fw: Mini-lectures and Activities [[PDF](https://canvas.sfu.ca/courses/64326/files/folder/Downloads/Slides%20PDFs/Mini-Lectures%20and%20Activities/Week-13) | [Recording](https://canvas.sfu.ca/courses/64326/external_tools/3544)] <span class='badge'> [Tue Nov 30 2:30pm PT](https://www.timeanddate.com/worldclock/fixedtime.html?msg=CMPT-363+Mini-lectures+and+Activities&iso=20211103T1430&p1=256&ah=1&am=50)</span>  
 :fas fa-desktop fa-fw: Review and Discussion [[PDF](https://canvas.sfu.ca/courses/64326/files/folder/Downloads/Slides%20PDFs/Review%20and%20Discussion/Week-13) | [Recording](https://canvas.sfu.ca/courses/64326/external_tools/3544)] <span class='badge'> [Thu Dec 2 2:30pm PT](https://www.timeanddate.com/worldclock/fixedtime.html?msg=CMPT-363+Review+and+Discussion&iso=20211202T1430&p1=256&am=50)</span>  
 :fas fa-book fa-fw: [10 Principles for Color Usage in UI Design (8 minute read)](https://uxdesign.cc/10-principles-for-color-usage-in-ui-design-65174b213004)  
