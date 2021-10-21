@@ -11,7 +11,6 @@ No regularly scheduled Blackboard Collaborate sessions.
 ### Important Reminders
 
 * [Group User Research Report Assignment](https://canvas.sfu.ca/courses/64326/assignments/662762) <span class='badge'> [Mon Nov 1 11:59pm PT](https://www.timeanddate.com/worldclock/fixedtime.html?msg=CMPT-363+Group+User+Research+Report+Assignment+Due+Date&iso=20211101T2359&p1=256)</span>
-* [Instructor User Research Feedback Meetings, Oct 19th - 21st](https://canvas.sfu.ca/calendar)
 * [User Research Group Participation Evaluation](https://canvas.sfu.ca/courses/64326/assignments/662763) <span class='badge'> [Tue Nov 2 11:59pm PT](https://www.timeanddate.com/worldclock/fixedtime.html?msg=CMPT-363+Group+User+Research+Report+Assignment+Due+Date&iso=20211102T2359&p1=256)</span>
 
 ### Required Readings & One-Minute Summaries
