@@ -5,7 +5,7 @@
 ## Open Office Hours Consultations
 No regularly scheduled Blackboard Collaborate sessions.  
 
-Zoom open office hours consultations during regular Blackboard Collaborate session times, additional sessions may also be available. Figma technical support will not be offered.
+Zoom open office hours consultations during regular Blackboard Collaborate session times, additional sessions may also be available. Figma technical support will not be offered, please refer to the Figma assignment resources below.
 
 ## One-minute Summaries & Questions
 [10 Principles for Color Usage in UI Design](https://canvas.sfu.ca/courses/64326/assignments/662741) <span class='badge'> [Wed Dec 1 11:59pm PT](https://www.timeanddate.com/worldclock/fixedtime.html?msg=One-minute+Summaries+for+Week+13+Due+Date&iso=20211201T235900&p1=256)</span>  
@@ -13,6 +13,18 @@ Zoom open office hours consultations during regular Blackboard Collaborate sessi
 
 ## Weekly Visual Journal Entry
 No visual journal entry this week.  
+
+## Assignment Resources  
+
+Figma  
+_Interactive prototyping tool._  
+*   [Figma Web App](https://www.figma.com/)
+*   [Figma Help Centre](https://help.figma.com/hc/en-us)
+*   [10 tips on using components in Figma](https://medium.com/design-with-figma/10-tips-on-using-components-in-figma-c7db9c5e7fe1)
+*   [Figma 101: An introduction tutorial](https://www.youtube.com/watch?v=cCNLD5IZY34)
+*   [Figma tips and tricks](https://blog.prototypr.io/figma-tips-and-tricks-1c07ec13b696)  
+*   [Figma Tutorial: How (and Why) To Use It For Your Next Project](https://snipcart.com/blog/how-to-use-figma-tutorial)  
+*   [Figma UI Design Tutorial: Get Started in Just 24 Minutes! (2021)](https://www.youtube.com/watch?v=FTFaQWZBqQ8)  
 
 ## Required Readings  
 [10 Principles for Color Usage in UI Design (8 minute read)](https://uxdesign.cc/10-principles-for-color-usage-in-ui-design-65174b213004)  
