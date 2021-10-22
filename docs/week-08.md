@@ -5,7 +5,7 @@
 ## Open Office Hours Consultations
 No regularly scheduled Thursday Blackboard Collaborate session.  
 
-Open office hours consultations during Thursday's Review and Discussion Blackboard Collaborate session time. We will use my [Whereby.com](https://whereby.com/) room for this session, URL will be provided.
+Open office hours consultations during Thursday's Review and Discussion Blackboard Collaborate session time. We may use my [Whereby.com](https://whereby.com/) room for this session, URL will be provided.
 
 ## One-minute Summaries & Questions
 [Leveraging Mental Models in Product Design](https://canvas.sfu.ca/courses/64326/assignments/662744) <span class='badge'>[Wed Oct 27 11:59pm PT](https://www.timeanddate.com/worldclock/fixedtime.html?msg=One-minute+Summaries+for+Week+8+Due+Date&iso=20211027T235900&p1=256)</span>  
