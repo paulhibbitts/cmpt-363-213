@@ -8,8 +8,8 @@
 ### Live Sessions
 
 * [Blackboard Mini-lectures and Activities](https://canvas.sfu.ca/courses/64326/external_tools/3544) <span class='badge'> [Tue Oct 26 2:30pm PT](https://www.timeanddate.com/worldclock/fixedtime.html?msg=CMPT-363+Mini-lectures+and+Activities&iso=20211026T1430&p1=256&ah=1&am=50)</span>
-* [Zoom Open Office Hours Consultations](https://www2.cs.sfu.ca/CourseCentral/363/paulh/zoom-open-office-consultation-hours-213) <span class='badge'> [Thu Oct 28 8:30am PT](https://www.timeanddate.com/worldclock/fixedtime.html?msg=CMPT-363+Zoom+Open+Office+Hours+Consultations&iso=20211028T0830&p1=256&am=50)</span>
 * [Zoom Open Office Hours Consultations](https://www2.cs.sfu.ca/CourseCentral/363/paulh/zoom-open-office-consultation-hours-213) <span class='badge'> [Thu Oct 28 2:30pm PT](https://www.timeanddate.com/worldclock/fixedtime.html?msg=CMPT-363+Zoom+Open+Office+Hours+Consultations&iso=20211028T1430&p1=256&am=50)</span>
+* [Additional Zoom Open Office Hours Consultations](https://www2.cs.sfu.ca/CourseCentral/363/paulh/zoom-open-office-consultation-hours-213) <span class='badge'> [Thu Oct 28 8:30am PT](https://www.timeanddate.com/worldclock/fixedtime.html?msg=CMPT-363+Zoom+Open+Office+Hours+Consultations&iso=20211028T0830&p1=256&am=50)</span>
 
 ### Important Reminders
 
