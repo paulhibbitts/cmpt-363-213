@@ -3,10 +3,13 @@
 
 # What’s Happening This Week 💫
 
-## Special topic - conducting user research
+## How to bridge the gap between the problem space and design space?
 
-### Instructor User Research Feedback Meetings
-No regularly scheduled Blackboard Collaborate sessions.  
+### Live Sessions
+
+* [Blackboard Mini-lectures and Activities](https://canvas.sfu.ca/courses/64326/external_tools/3544) <span class='badge'> [Tue Oct 26 2:30pm PT](https://www.timeanddate.com/worldclock/fixedtime.html?msg=CMPT-363+Mini-lectures+and+Activities&iso=20211026T1430&p1=256&ah=1&am=50)</span>
+* [Zoom Open Office Hours Consultations](https://www2.cs.sfu.ca/CourseCentral/363/paulh/zoom-open-office-consultation-hours-213) <span class='badge'> [Thu Oct 28 8:30am PT](https://www.timeanddate.com/worldclock/fixedtime.html?msg=CMPT-363+Zoom+Open+Office+Hours+Consultations&iso=20211028T0830&p1=256&am=50)</span>
+* [Zoom Open Office Hours Consultations](https://www2.cs.sfu.ca/CourseCentral/363/paulh/zoom-open-office-consultation-hours-213) <span class='badge'> [Thu Oct 28 2:30pm PT](https://www.timeanddate.com/worldclock/fixedtime.html?msg=CMPT-363+Zoom+Open+Office+Hours+Consultations&iso=20211028T1430&p1=256&am=50)</span>
 
 ### Important Reminders
 
@@ -14,12 +17,11 @@ No regularly scheduled Blackboard Collaborate sessions.
 * [User Research Group Participation Evaluation](https://canvas.sfu.ca/courses/64326/assignments/662763) <span class='badge'> [Tue Nov 2 11:59pm PT](https://www.timeanddate.com/worldclock/fixedtime.html?msg=CMPT-363+Group+User+Research+Report+Assignment+Due+Date&iso=20211102T2359&p1=256)</span>
 
 ### Required Readings & One-Minute Summaries
-* [How to Run Remote User Research (Like a Boss!)](https://canvas.sfu.ca/courses/64326/assignments/662735) <span class='badge'> [Wed Oct 20 11:59pm PT](https://www.timeanddate.com/worldclock/fixedtime.html?msg=One-minute+Summaries+for+Week+7+Due+Date&iso=20211020T235900&p1=256)</span>  
-* [Asking the right questions during user research, interviews and testing](https://canvas.sfu.ca/courses/64326/assignments/662732) <span class='badge'> [Wed Oct 20 11:59pm PT](https://www.timeanddate.com/worldclock/fixedtime.html?msg=One-minute+Summaries+for+Week+7+Due+Date&iso=20211020T235900&p1=256)</span>  
-* [User Research When You Can’t Talk to Your Users](https://canvas.sfu.ca/courses/64326/assignments/662746) <span class='badge'> [Wed Oct 20 11:59pm PT](https://www.timeanddate.com/worldclock/fixedtime.html?msg=One-minute+Summaries+for+Week+7+Due+Date&iso=20211020T235900&p1=256)</span>  
+* [Leveraging Mental Models in Product Design](https://canvas.sfu.ca/courses/64326/assignments/662744) <span class='badge'>[Wed Oct 27 11:59pm PT](https://www.timeanddate.com/worldclock/fixedtime.html?msg=One-minute+Summaries+for+Week+8+Due+Date&iso=20211027T235900&p1=256)</span>  
+* [Don Norman’s Principles of Interaction Design](https://canvas.sfu.ca/courses/64326/assignments/662745) <span class='badge'>[Wed Oct 27 11:59pm PT](https://www.timeanddate.com/worldclock/fixedtime.html?msg=One-minute+Summaries+for+Week+8+Due+Date&iso=20211027T235900&p1=256)</span>  
+* [Not Just Pretty: Building Emotion Into Your Websites](https://canvas.sfu.ca/courses/64326/assignments/662756) <span class='badge'>[Wed Oct 27 11:59pm PT](https://www.timeanddate.com/worldclock/fixedtime.html?msg=One-minute+Summaries+for+Week+8+Due+Date&iso=20211027T235900&p1=256)</span>  
 
-## Weekly Visual Journal Entry
-No visual journal entry this week.  
+[Week 8 Visual Journal Entry due Oct 29](https://canvas.sfu.ca/courses/64326/assignments/662772 ':class=button')
 
 </div>
 
@@ -29,31 +31,31 @@ No visual journal entry this week.
 <div class="column">
 
 Chat-only Office Hours:  
-Monday 12:00-12:30pm PT (not Oct 18th)  
-Wednesday 12:00-12:30pm PT (not Oct 20th)  
+Monday 12:00-12:30pm PT  
+Wednesday 12:00-12:30pm PT  
 
 </div>
 <div class="column">
 
-Audio/Video Call Office Hours:  
-Tuesday 1:30-2:00pm PT (not Oct 19th)  
-Thursday 3:30-4:00pm PT (not Oct 21st)  
+Audio Call One-on-One Office Hours:  
+Tuesday 1:30-2:00pm PT  
+Thursday 3:30-4:00pm PT  
 
 </div>
 </div>
 
-![UX](images/13255989495_f545afea09_o.jpg ':class=banner-image')
+![UX](images/6968244538_4c0f7c7e64_k.jpg ':class=banner-image')
 
 # Looking Ahead to Next Week🔭
 
-## How to bridge the gap between the problem space and design space?
+## How to explore and communicate possible design solutions?
 
-### Live  Blackboard Collab Sessions
+### Live Sessions
 
-* Mini-lectures and Activities <span class='badge'> [Tue Oct 26 2:30pm PT](https://www.timeanddate.com/worldclock/fixedtime.html?msg=CMPT-363+Mini-lectures+and+Activities&iso=20211026T1430&p1=256&ah=1&am=50)</span>
-* Review and Discussion <span class='badge'> [Thu Oct 28 2:30pm PT](https://www.timeanddate.com/worldclock/fixedtime.html?msg=CMPT-363+Review+and+Discussion&iso=20211028T1430&p1=256&am=50)</span>
+* [Blackboard Mini-lectures and Activities](https://canvas.sfu.ca/courses/64326/external_tools/3544) <span class='badge'> [Tue Nov 2 2:30pm PT](https://www.timeanddate.com/worldclock/fixedtime.html?msg=CMPT-363+Mini-lectures+and+Activities&iso=20211102T1430&p1=256&ah=1&am=50)</span>
+* [Blackboard Review and Discussion]((https://canvas.sfu.ca/courses/64326/external_tools/3544)) <span class='badge'> [Thu Nov 4 2:30pm PT](https://www.timeanddate.com/worldclock/fixedtime.html?msg=CMPT-363+Review+and+Discussion&iso=20211104T1430&p1=256&am=50)</span>
 
 ### Required Readings  
-* [Leveraging Mental Models in Product Design (11 minute read)](https://medium.com/swlh/leveraging-mental-models-in-ux-design-21ba8fbce22d)  
-* [Don Norman’s Principles of Interaction Design (8 minute read)](https://medium.com/@sachinrekhi/don-normans-principles-of-interaction-design-51025a2c0f33)  
-* [Not Just Pretty: Building Emotion Into Your Websites (15 minute read)](https://www.smashingmagazine.com/2012/04/building-emotion-into-your-websites/)  
+* [The Right Tool For The Job: Picking The Best Prototyping Software For Your Project (12 minute read)](https://uxdesign.cc/the-right-tool-for-the-job-picking-the-best-prototyping-software-for-your-project-6ddd5145d860)  
+* [Using scenarios in design (5 minute read)](https://fordes.de/posts/usingscenariosindesign.html)  
+* [What Is The Role Of Creativity In UX Design? (10 minute read)](https://www.smashingmagazine.com/2018/12/role-of-creativity-ux-design/)  
