@@ -69,7 +69,7 @@
 ## :fas fa-calendar fa-fw: [Week 8 (Oct 25 - 31)](week-08)
 **How to bridge the gap between the problem space and design space?**  
 :fas fa-desktop fa-fw: Mini-lectures and Activities [[PDF](https://canvas.sfu.ca/courses/64326/files/folder/Downloads/Slides%20PDFs/Mini-Lectures%20and%20Activities/Week-08) | [Recording](https://canvas.sfu.ca/courses/64326/external_tools/3544)] <span class='badge'> [Tue Oct 26 2:30pm PT](https://www.timeanddate.com/worldclock/fixedtime.html?msg=CMPT-363+Mini-lectures+and+Activities&iso=20211026T1430&p1=256&ah=1&am=50)</span>  
-:fas fa-users fa-fw: Zoom Open Office Hours Consultations <span class='badge'> [Thu Oct 28 2:30pm PT](https://www.timeanddate.com/worldclock/fixedtime.html?msg=CMPT-363+Zoom+Open+Office+Hours+Consultations&iso=20211028T1430&p1=256&am=50)</span>  
+:fas fa-users fa-fw: Open Office Hours Consultations <span class='badge'> [Thu Oct 28 2:30pm PT](https://www.timeanddate.com/worldclock/fixedtime.html?msg=CMPT-363+Open+Office+Hours+Consultations&iso=20211028T1430&p1=256&am=50)</span>  
 :fas fa-book fa-fw: [Leveraging Mental Models in Product Design (11 minute read)](https://medium.com/swlh/leveraging-mental-models-in-ux-design-21ba8fbce22d)  
 :fas fa-book fa-fw: [Don Norman’s Principles of Interaction Design (8 minute read)](https://medium.com/@sachinrekhi/don-normans-principles-of-interaction-design-51025a2c0f33)  
 :fas fa-book fa-fw: [Not Just Pretty: Building Emotion Into Your Websites (15 minute read)](https://www.smashingmagazine.com/2012/04/building-emotion-into-your-websites/)  
