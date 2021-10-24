@@ -1,6 +1,7 @@
 User Experience Design  
 _The holistic experience of a digital or technological product or service._
 
+*   [5W+H = Knowledge to Design an Excellent User Experience](https://www.infragistics.com/community/blogs/b/ux/posts/5w-h-knowledge-to-design-an-excellent-user-experience)  
 *   [CUBI: A User Experience Model for Project Success | UX Magazine](http://uxmag.com/articles/cubi-a-user-experience-model-for-project-success)  
 *   [Four Myths About UX and How to Bust Them](http://uxmag.com/articles/four-myths-about-ux-and-how-to-bust-them)  
 *   [Getting Started in User Experience](http://www.uxmatters.com/mt/archives/2015/10/getting-started-in-user-experience.php)  
