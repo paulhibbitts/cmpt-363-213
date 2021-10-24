@@ -3,6 +3,7 @@ _A proposed explanation of a phenomenon._
 
 *   [5 steps to a hypothesis-driven design process](https://www.invisionapp.com/inside-design/hypothesis-driven-design-process/)
 *   [Design hypothesis](https://methods.18f.gov/decide/design-hypothesis/)  
+*   [How to Identify and Test Riskiest Assumptions in Custom Software](https://www.farreachinc.com/blog/riskiest-assumptions-custom-software)
 *   [How to write a strong hypothesis](https://about.gitlab.com/handbook/engineering/ux/ux-research-training/write-strong-hypothesis/)
 *   [Hypothesis Driven Design: Be the Francis Bacon of Your Product Team](https://medium.com/whistle-product-engineering-blog/hypothesis-driven-design-be-the-francis-bacon-of-your-product-team-1aef48b8daea)  
 *   [Hypothesis driven UX design](https://medium.theuxblog.com/hypotheses-driven-ux-design-c75fbf3ce7cc)
