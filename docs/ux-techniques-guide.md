@@ -42,6 +42,8 @@
 
 [Handling Errors](ux-techniques-guide/02.what-is-the-practice-of-multidevice-interaction-design/handling-errors.md ':include')
 
+[HCI Laws and Cognitive Psychology](ux-techniques-guide/02.what-is-the-practice-of-multidevice-interaction-design/hci-laws.md ':include')
+
 [Interaction Design](ux-techniques-guide/02.what-is-the-practice-of-multidevice-interaction-design/interaction-design.md ':include')
 
 [Machine Learning](ux-techniques-guide/02.what-is-the-practice-of-multidevice-interaction-design/machine-learning.md ':include')
@@ -109,8 +111,6 @@
   <summary>How to Bridge the Gap Between the Problem Space and Design Space? </summary>
 
 [Accessibility](ux-techniques-guide/04.how-to-bridge-the-gap-between-the-problem-space-and-design-space/accessibility.md ':include')
-
-[Cognitive Psychology](ux-techniques-guide/04.how-to-bridge-the-gap-between-the-problem-space-and-design-space/cognitive-psychology.md ':include')
 
 [Conceptual Models](ux-techniques-guide/04.how-to-bridge-the-gap-between-the-problem-space-and-design-space/conceptual-models.md ':include')
 

@@ -35,6 +35,8 @@
 
 [Empty States](ux-techniques-guide/02.what-is-the-practice-of-multidevice-interaction-design/empty-states.md ':include')
 
+[HCI Laws and Cognitive Psychology](ux-techniques-guide/04.how-to-bridge-the-gap-between-the-problem-space-and-design-space/hci-laws.md ':include')
+
 [Interaction Design](ux-techniques-guide/02.what-is-the-practice-of-multidevice-interaction-design/interaction-design.md ':include')
 
 [Mobile and Multi-device Web Design](ux-techniques-guide/02.what-is-the-practice-of-multidevice-interaction-design/mobile-and-multidevice-web-design.md ':include')
