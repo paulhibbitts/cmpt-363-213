@@ -1,4 +1,4 @@
-Human-Computer Interaction Laws and Cognitive Psychology  
+HCI Laws and Cognitive Psychology  
 _A collection of principles and information from research in Human Computer Interaction (HCI) and cognitive psychology._
 
 *   [4 psychology principles every UX/UI designer should know](https://uxdesign.cc/4-psychology-principles-every-ux-ui-designer-should-know-89876d3bb356)  
