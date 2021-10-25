@@ -8,6 +8,7 @@ _The branch of psychology that studies mental processes including how people thi
 *   [Reducing Cognitive Overload For A Better User Experience](https://www.smashingmagazine.com/2016/09/reducing-cognitive-overload-for-a-better-user-experience/)
 *   [Reducing Reliance on Superstition](http://www.humanfactors.com/downloads/sep00.asp)  
 *   [The Pareto Principle and Your User Experience Work](https://www.interaction-design.org/literature/article/the-pareto-principle-and-your-user-experience-work)  
+*   [The Pareto Principle And UX – Why Should You Care?](https://usabilitygeek.com/pareto-principle-and-ux/) 
 *   [The Psychologist's View of UX Design](http://uxmag.com/articles/the-psychologists-view-of-ux-design)  
 *   [The psychology in UX design](https://uxdesign.cc/the-psychology-of-ux-design-859439bc8a32)  
 *   [UX psychology principles: seven important questions](https://uxdesign.cc/ux-psychology-principles-seven-important-questions-960579272880)  
