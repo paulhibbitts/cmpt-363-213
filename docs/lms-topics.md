@@ -68,6 +68,7 @@
 [Outcomes](https://canvas.sfu.ca/courses/64326/modules/items/2120562)
 
 ### P
+[Pareto Principle](https://canvas.sfu.ca/courses/64326/modules/items/2120562)  
 [Personas/Proto-Personas](https://canvas.sfu.ca/courses/64326/modules/items/2120566)  
 [Power Law of Practice](https://canvas.sfu.ca/courses/64326/modules/items/2120563)  
 [Problem Framing](https://canvas.sfu.ca/courses/64326/modules/items/2120568)  

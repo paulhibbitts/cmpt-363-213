@@ -68,6 +68,7 @@
 [Outcomes](week-02)
 
 ### P
+[Pareto Principle](week-02)  
 [Personas/Proto-Personas](week-06)  
 [Power Law of Practice](week-03)  
 [Problem Framing](week-08)  
