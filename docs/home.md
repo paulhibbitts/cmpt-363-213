@@ -3,7 +3,7 @@
 
 # What’s Happening This Week 💫
 
-## How to bridge the gap between the problem space and design space?
+## How to bridge the gap between the problem and design space?
 
 ### Live Sessions
 
