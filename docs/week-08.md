@@ -31,11 +31,11 @@ Open office hours consultations during Thursday's Review and Discussion Blackboa
 
 ## Supplemental Readings  
 
-[Cognitive Psychology](ux-techniques-guide/04.how-to-bridge-the-gap-between-the-problem-space-and-design-space/cognitive-psychology.md ':include')
-
 [Conceptual Models](ux-techniques-guide/04.how-to-bridge-the-gap-between-the-problem-space-and-design-space/conceptual-models.md ':include')
 
 [Emotional Design](ux-techniques-guide/04.how-to-bridge-the-gap-between-the-problem-space-and-design-space/emotional-design.md ':include')
+
+[HCI Laws and Cognitive Psychology](ux-techniques-guide/02.what-is-the-practice-of-multidevice-interaction-design/hci-laws.md ':include')
 
 [Inclusive Design](ux-techniques-guide/04.how-to-bridge-the-gap-between-the-problem-space-and-design-space/inclusive-design.md ':include')  
 
