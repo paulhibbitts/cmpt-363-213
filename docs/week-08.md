@@ -1,6 +1,6 @@
 ![Device Controls](images/13255989495_f545afea09_o.jpg ':class=banner-image')
 
-# How to bridge the gap between the problem space and design space?
+# How to bridge the gap between the problem and design space?
 
 ## Open Office Hours Consultations
 No regularly scheduled Thursday Blackboard Collaborate session.  

@@ -108,7 +108,7 @@
 </details>
 
 <details>
-  <summary>How to Bridge the Gap Between the Problem Space and Design Space? </summary>
+  <summary>How to Bridge the Gap Between the Problem and Design Space? </summary>
 
 [Accessibility](ux-techniques-guide/04.how-to-bridge-the-gap-between-the-problem-space-and-design-space/accessibility.md ':include')
 

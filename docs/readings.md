@@ -6,7 +6,7 @@
 * [Special topic - heuristic evaluations (Week 5)](#week-5)
 * [How to understand and communicate people's needs and behaviours? (Week 6)](#week-6)
 * [Special topic - conducting user research / Instructor user research plan group meetings (Week 7)](#week-7)
-* [How to bridge the gap between the problem space and design space? (Week 8)](#week-8)
+* [How to bridge the gap between the problem and design space? (Week 8)](#week-8)
 * [How to explore and describe possible design solutions? (Week 9)](#week-9)
 * [How to plan, conduct, and summarize usability tests? (Week 10)](#week-10)
 * [What are the essentials of visual interface design? (Week 12)](#week-12)
@@ -70,7 +70,7 @@
 <div style="min-height: 430px;"><a class="embedly-card" data-card-controls="0" data-card-align="left" href="https://alistapart.com/article/user-research-when-you-cant-talk-to-your-users/">User Research When You Can’t Talk to Your Users</a></div>
 
 ## Week 8
-### How to bridge the gap between the problem space and design space?
+### How to bridge the gap between the problem and design space?
 **Leveraging Mental Models in Product Design (1 of 3 for Week 7)**  
 <div style="min-height: 430px;"><a class="embedly-card" data-card-controls="0" data-card-align="left" href="https://medium.com/swlh/leveraging-mental-models-in-ux-design-21ba8fbce22d">Leveraging Mental Models in Product Design</a></div>
 
