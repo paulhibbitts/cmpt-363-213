@@ -8,6 +8,6 @@ _The evaluation of a user interface against a checklist of design rules or heuri
 *   [How to Conduct a Heuristic Evaluation](https://www.nngroup.com/articles/how-to-conduct-a-heuristic-evaluation/)  
 *   [How to run an heuristic evaluation](http://uxmastery.com/how-to-run-an-heuristic-evaluation/)  
 *   [Jakob Nielsen's 10 Usability Heuristics for User Interface Design](https://www.nngroup.com/articles/ten-usability-heuristics/)  
-*   [Response Times: The 3 Important Limits](http://www.useit.com/papers/heuristic/severityrating.html)  
+*   [Response Times: The 3 Important Limits](https://www.nngroup.com/articles/response-times-3-important-limits/)  
 *   [Severity Ratings for Usability Problems](https://www.nngroup.com/articles/how-to-rate-the-severity-of-usability-problems/)  
 *   [Usability Expert Reviews: Beyond Heuristic Evaluation](http://www.userfocus.co.uk/articles/expertreviews.html)  
