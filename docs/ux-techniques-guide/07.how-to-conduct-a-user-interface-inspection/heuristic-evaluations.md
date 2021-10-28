@@ -1,7 +1,7 @@
 Heuristic Evaluations  
 _The evaluation of a user interface against a checklist of design rules or heuristics._
 
-*   [10 Usability Heuristics Applied to Virtual Reality](https://www.nngroup.com/articles/usability-heuristics-virtual-reality/)  
+*   [10 Usability Heuristics Applied to Complex Applications](https://www.nngroup.com/articles/usability-heuristics-complex-applications/)  
 *   [An Introduction To Heuristic Evaluation](http://usabilitygeek.com/heuristic-evaluation-introduction/)  
 *   [Applying ISO 9241-110 Dialogue Principles to Tablet Applications in Emergency Medical Services (PDF)](https://pdfs.semanticscholar.org/3d51/ab6549bbbb61dbd40e2062e13b057c37cdf3.pdf)  
 *   [Ergonomics of human-system interaction -- Part 110: Dialogue principles](http://www.iso.org/iso/home/store/catalogue_tc/catalogue_detail.htm?csnumber=38009)  
