@@ -185,8 +185,11 @@
                 // Adjust GitHub displayable image URL format to also work in Docsify
                 html = html.replace(new RegExp("../assets/images", 'ig'), "assets/images");
 
-                if ((!(getURLParameterByName('hidegitlink') === 'true'))  &&  (!!gitLinkRepoURL)) {
+                if ((!(getURLParameterByName('embedded') === 'true') && !(getURLParameterByName('hidegitlink') === 'true'))  &&  (!!gitLinkRepoURL)) {
                   return html + '<br />' + '\n\n' + '<hr>' + '\n\n' + editHtml +   '\n\n' + '<br />' + '<span style="color:#808080">This site was <i class="fa fa-code" aria-hidden="true" title="Coded"></i> with <i class="fa fa-heart" aria-hidden="true" title="Love"></i> love using <a href="https:docsify.js.org" target="_blank">Docsify</a> and the <a href="https://github.com/hibbitts-design/docsify-open-course-starter-kit" target="_blank">Docsify Open Course Starter Kit</a> by <a href="https://hibbittsdesign.org/" target="_blank">Hibbitts Design</a>.</span>'
+
+                } else if ((!(getURLParameterByName('hidegitlink') === 'true'))  &&  (!!gitLinkRepoURL)) {
+                  return html + '<br />' + '\n\n' + '<hr>' + '\n\n' + editHtml
 
                 } else {
                   return html
