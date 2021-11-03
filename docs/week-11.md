@@ -1,6 +1,6 @@
 ![Screen Sketches](images/amelie-mourichon-YHNOwnrDzjY-unsplash.jpg ':class=banner-image')
 
-# Instructor Design Scenarios and Storyboard Wireframes Feedback Meetings
+# Instructor Scenarios and Wireframes Feedback Meetings
 No regularly scheduled Blackboard Collaborate sessions.
 
 Zoom group meetings between 12:00pm and 4:00pm PT on Nov 19th, 20th and 21st.
