@@ -12,7 +12,7 @@
 
 ### Important Reminders
 
-* [Instructor Design Scenarios and Storyboard Wireframes Feedback Meetings, Nov 19 - 21st](https://canvas.sfu.ca/calendar)
+* [Instructor Design Scenarios and Storyboard Wireframes Feedback Meetings, Nov 16th - 18th](https://canvas.sfu.ca/calendar)
 * [Group Design Scenarios and Storyboard Wireframes](https://canvas.sfu.ca/courses/64326/assignments/662760) <span class='badge'> [Mon Nov 22 11:59pm PT](https://www.timeanddate.com/worldclock/fixedtime.html?msg=CMPT-363+Group+Storyboard+Wireframes+Assignment+Due+Date&iso=20211122T2359&p1=256)</span>    
 
 
