@@ -5,7 +5,7 @@
 ## Open Office Hours Consultations
 No regularly scheduled Blackboard Collaborate sessions.  
 
-Open office hours consultations during regular Blackboard Collaborate session times, additional sessions may also be available. Adobe XD or Figma technical support will not be offered, please refer to the Figma assignment resources below.
+Open office hours consultations during regular Blackboard Collaborate session times, additional sessions may also be available. Adobe XD or Figma technical support will not be offered, please refer to the assignment resources for assistance below.
 
 ## One-minute Summaries & Questions
 [10 Principles for Color Usage in UI Design](https://canvas.sfu.ca/courses/64326/assignments/662741) <span class='badge'> [Wed Dec 1 11:59pm PT](https://www.timeanddate.com/worldclock/fixedtime.html?msg=One-minute+Summaries+for+Week+13+Due+Date&iso=20211201T235900&p1=256)</span>  
