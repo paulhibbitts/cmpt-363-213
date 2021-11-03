@@ -14,18 +14,6 @@ Open office hours consultations during regular Blackboard Collaborate session ti
 ## Weekly Visual Journal Entry
 No visual journal entry this week.  
 
-## Assignment Resources  
-
-Figma  
-_Interactive prototyping tool._  
-*   [Figma Web App](https://www.figma.com/)
-*   [Figma Help Centre](https://help.figma.com/hc/en-us)
-*   [10 tips on using components in Figma](https://medium.com/design-with-figma/10-tips-on-using-components-in-figma-c7db9c5e7fe1)
-*   [Figma 101: An introduction tutorial](https://www.youtube.com/watch?v=cCNLD5IZY34)
-*   [Figma tips and tricks](https://blog.prototypr.io/figma-tips-and-tricks-1c07ec13b696)  
-*   [Figma Tutorial: How (and Why) To Use It For Your Next Project](https://snipcart.com/blog/how-to-use-figma-tutorial)  
-*   [Figma UI Design Tutorial: Get Started in Just 24 Minutes! (2021)](https://www.youtube.com/watch?v=FTFaQWZBqQ8)  
-
 ## Required Readings  
 [10 Principles for Color Usage in UI Design (8 minute read)](https://uxdesign.cc/10-principles-for-color-usage-in-ui-design-65174b213004)  
 [7 Things Every Designer Needs to Know about Accessibility (14 minute read)](https://medium.com/salesforce-ux/7-things-every-designer-needs-to-know-about-accessibility-64f105f0881b)  
