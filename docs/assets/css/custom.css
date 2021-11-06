@@ -24,3 +24,45 @@ body .markdown-section {
 .progress {
   background-color: #757b7f;
 }
+
+@media only screen and (max-width: 480px) {
+
+  .markdown-section hr {
+    margin: .9em 0;
+  }
+
+  body .markdown-section {
+     font-size: .9rem;
+  }
+
+   .markdown-section h1 {
+      font-size: 1.45rem;
+      line-height: 1.6rem;
+   }
+
+   .markdown-section h2 {
+      font-size: 1.30rem;
+      line-height: 1.4rem;
+   }
+
+   .markdown-section h3 {
+      font-size: 1.20rem;
+      line-height: 1.3rem;
+   }
+
+   .markdown-section h4 {
+      font-size: 1.10rem;
+      line-height: 1.15rem;
+   }
+
+   .markdown-section h5 {
+      font-size: 1rem;
+      line-height: 1.05rem;
+   }
+
+   .markdown-section h6 {
+      font-size: .9rem;
+      line-height: .95rem;
+   }
+
+}
