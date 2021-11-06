@@ -37,7 +37,7 @@ Wednesday 12:00-12:30pm PT
 
 Audio Call One-on-One Office Hours:  
 Tuesday 1:30-2:00pm PT  
-Thursday 3:30-4:00pm PT  
+Thursday 3:30-4:00pm PT (not Nov 11th)  
 
 </div>
 </div>
