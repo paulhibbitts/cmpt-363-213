@@ -1,3 +1,4 @@
+* [Home](home.md)
 * [Schedule](schedule.md)
 * [Topics](topics.md)
 * [All Readings](readings.md)
