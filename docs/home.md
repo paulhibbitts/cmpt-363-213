@@ -42,7 +42,7 @@ Thursday 3:30-4:00pm PT (not Nov 11th)
 </div>
 </div>
 
-![UX](images/4642289926_7964e733d1_b.jpg ':class=banner-image')
+![UX](images/amelie-mourichon-YHNOwnrDzjY-unsplash.jpg ':class=banner-image')
 
 # Looking Ahead to Next Week🔭
 
