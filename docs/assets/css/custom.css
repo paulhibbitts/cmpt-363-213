@@ -29,10 +29,6 @@ body .markdown-section {
   background-color: #757b7f;
 }
 
-.app-nav:not(:empty)~main .markdown-section {
-  padding-top: 5.5rem;
-}
-
 @media only screen and (max-width: 480px) {
 
    .markdown-section h1 {
