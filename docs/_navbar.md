@@ -1,4 +1,4 @@
-* [Home](/home.md)
+* [Home](/)
 * [Schedule](schedule.md)
 * [Topics](topics.md)
 * [All Readings](readings.md)
