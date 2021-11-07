@@ -7,14 +7,10 @@ Put your custom CSS in this file.
 
 @import url('https://fonts.googleapis.com/css2?family=Lato:ital,wght@0,400;0,700;1,400;1,700&display=swap');
 
-body {
-  font-size: 16px;
-}
-
 body .markdown-section {
   font-family: "Lato", "Helvetica Neue", Arial, sans-serif;
-  line-height: 1.4;
   font-size: 16px;
+  line-height: 1.4;
 }
 
 .markdown-section blockquote {
@@ -27,6 +23,20 @@ body .markdown-section {
 
 .progress {
   background-color: #757b7f;
+}
+
+body {
+  font-family: "Lato", "Helvetica Neue", Arial, sans-serif;
+  font-size: 16px;
+}
+
+body .app-nav {
+  font-family: "Lato", "Helvetica Neue", Arial, sans-serif;
+  font-size: 16px;
+}
+
+.app-nav:not(:empty)~main .markdown-section {
+  padding-top: 5.5rem;
 }
 
 @media only screen and (max-width: 480px) {
