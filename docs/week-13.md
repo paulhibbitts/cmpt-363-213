@@ -3,13 +3,18 @@
 # Special topic — visual interface design
 
 ## Open Consultation Hours
-No regularly scheduled Blackboard Collaborate sessions.  
+No regularly scheduled Thursday Blackboard Collaborate session.  
 
-Open Consultation Hours during regular Blackboard Collaborate session times, additional sessions may also be available. Adobe XD or Figma technical support will not be offered, please refer to the assignment resources for assistance below.
+Open Consultation Hours during Thursday's regular Blackboard Collaborate session time, additional sessions may also be available. Adobe XD or Figma technical support will not be offered, please refer to the assignment resources for assistance below.
 
 ## One-minute Summaries & Questions
 [10 Principles for Color Usage in UI Design](https://canvas.sfu.ca/courses/64326/assignments/662741) <span class='badge'> [Wed Dec 1 11:59pm PT](https://www.timeanddate.com/worldclock/fixedtime.html?msg=One-minute+Summaries+for+Week+13+Due+Date&iso=20211201T235900&p1=256)</span>  
 [7 Things Every Designer Needs to Know about Accessibility](https://canvas.sfu.ca/courses/64326/assignments/662742) <span class='badge'> [Wed Dec 1 11:59pm PT](https://www.timeanddate.com/worldclock/fixedtime.html?msg=One-minute+Summaries+for+Week+13+Due+Date&iso=20211201T235900&p1=256)</span>  
+
+## BlackBoard Collaborate Session Slides
+[Special topic - visual interface design](https://docs.google.com/presentation/d/e/2PACX-1vQTVjy5QLeBSkKsjEdm4ejtE7A8k8lohb6ARn2_tnThJIRvWPBV0XmsBuqjh85B3iaiEpUqpH4yjbHu/pub?start=false&loop=false&delayms=3000) | [PDF](https://canvas.sfu.ca/courses/64326/files/folder/Downloads/Slides%20PDFs/Mini-Lectures%20and%20Activities/Week-13) | [Recording ](https://canvas.sfu.ca/courses/64326/external_tools/3544) (Look in Hamburger :fas fa-bars fa-fw:menu)  
+
+<div class="video-container-16by9"><iframe src="https://docs.google.com/presentation/d/e/2PACX-1vQTVjy5QLeBSkKsjEdm4ejtE7A8k8lohb6ARn2_tnThJIRvWPBV0XmsBuqjh85B3iaiEpUqpH4yjbHu/embed?start=false&loop=false&delayms=3000" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe></div>
 
 ## Weekly Visual Journal Entry
 No visual journal entry this week.  

@@ -120,7 +120,7 @@ Online instructor meetings (15 mins.), no regularly scheduled Blackboard Collabo
 
 ## :fas fa-calendar fa-fw: [Week 13 (Nov 29 - Dec 5)](https://canvas.sfu.ca/courses/64326/modules/items/2120573)
 **Special topic - visual interface design / Open Consultation Hours**  
-:fas fa-users fa-fw: Open Consultation Hours <span class='badge'> [Tue Nov 30 2:30pm PT](https://www.timeanddate.com/worldclock/fixedtime.html?msg=CMPT-363+Open+Office+Hours+Consultations&iso=20211130T1430&p1=256&am=50)</span>  
+:fas fa-desktop fa-fw: Mini-lectures and Activities [[PDF](https://canvas.sfu.ca/courses/64326/files/folder/Downloads/Slides%20PDFs/Mini-Lectures%20and%20Activities/Week-13) | [Recording](https://canvas.sfu.ca/courses/64326/external_tools/3544)] <span class='badge'> [Tue Nov 30 2:30pm  PT](https://www.timeanddate.com/worldclock/fixedtime.html?msg=CMPT-363+Mini-lectures+and+Activities&iso=20211130T1430&p1=256&ah=1&am=50)</span>  
 :fas fa-users fa-fw: Open Consultation Hours <span class='badge'> [Thu Dec 2 2:30pm PT](https://www.timeanddate.com/worldclock/fixedtime.html?msg=CMPT-363+Open+Office+Hours+Consultations&iso=20211202T1430&p1=256&am=50)</span>   
 :fas fa-book fa-fw: [10 Principles for Color Usage in UI Design (8 minute read)](https://uxdesign.cc/10-principles-for-color-usage-in-ui-design-65174b213004)  
 :fas fa-book fa-fw: [7 Things Every Designer Needs to Know about Accessibility (14 minute read)](https://medium.com/salesforce-ux/7-things-every-designer-needs-to-know-about-accessibility-64f105f0881b)  
