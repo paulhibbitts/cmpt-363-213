@@ -69,7 +69,7 @@
 ## :fas fa-calendar fa-fw: [Week 8 (Oct 25 - 31)](week-08)
 **How to bridge the gap between the problem and design space?**  
 :fas fa-desktop fa-fw: Mini-lectures and Activities [[PDF](https://canvas.sfu.ca/courses/64326/files/folder/Downloads/Slides%20PDFs/Mini-Lectures%20and%20Activities/Week-08) | [Recording](https://canvas.sfu.ca/courses/64326/external_tools/3544)] <span class='badge'> [Tue Oct 26 2:30pm PT](https://www.timeanddate.com/worldclock/fixedtime.html?msg=CMPT-363+Mini-lectures+and+Activities&iso=20211026T1430&p1=256&ah=1&am=50)</span>  
-:fas fa-users fa-fw: Open Office Hours Consultations <span class='badge'> [Thu Oct 28 2:30pm PT](https://www.timeanddate.com/worldclock/fixedtime.html?msg=CMPT-363+Open+Office+Hours+Consultations&iso=20211028T1430&p1=256&am=50)</span>  
+:fas fa-users fa-fw: Open Consultation Hours <span class='badge'> [Thu Oct 28 2:30pm PT](https://www.timeanddate.com/worldclock/fixedtime.html?msg=CMPT-363+Open+Office+Hours+Consultations&iso=20211028T1430&p1=256&am=50)</span>  
 :fas fa-book fa-fw: [Leveraging Mental Models in Product Design (11 minute read)](https://medium.com/swlh/leveraging-mental-models-in-ux-design-21ba8fbce22d)  
 :fas fa-book fa-fw: [Don Norman’s Principles of Interaction Design (8 minute read)](https://medium.com/@sachinrekhi/don-normans-principles-of-interaction-design-51025a2c0f33)  
 :fas fa-book fa-fw: [Not Just Pretty: Building Emotion Into Your Websites (15 minute read)](https://www.smashingmagazine.com/2012/04/building-emotion-into-your-websites/)  
@@ -119,9 +119,9 @@ Online instructor meetings (15 mins.), no regularly scheduled Blackboard Collabo
 :fas fa-image fa-fw: [Weekly Visual Journal Entry for Week 12](https://canvas.sfu.ca/courses/64326/assignments) <span class='badge'> [Fri Nov 25 11:59pm PT](https://www.timeanddate.com/worldclock/fixedtime.html?msg=CMPT-363+Week+12+Visual+Journal+Entry+Due+Date&iso=20211125T235900)</span>  
 
 ## :fas fa-calendar fa-fw: [Week 13 (Nov 29 - Dec 5)](week-13)
-**Special topic - visual interface design / Open office hours consultations**  
-:fas fa-users fa-fw: Open Office Hours Consultations <span class='badge'> [Tue Nov 30 2:30pm PT](https://www.timeanddate.com/worldclock/fixedtime.html?msg=CMPT-363+Open+Office+Hours+Consultations&iso=20211130T1430&p1=256&am=50)</span>  
-:fas fa-users fa-fw: Open Office Hours Consultations <span class='badge'> [Thu Dec 2 2:30pm PT](https://www.timeanddate.com/worldclock/fixedtime.html?msg=CMPT-363+Open+Office+Hours+Consultations&iso=20211202T1430&p1=256&am=50)</span>  
+**Special topic - visual interface design / Open Consultation Hours**  
+:fas fa-users fa-fw: Open Consultation Hours <span class='badge'> [Tue Nov 30 2:30pm PT](https://www.timeanddate.com/worldclock/fixedtime.html?msg=CMPT-363+Open+Office+Hours+Consultations&iso=20211130T1430&p1=256&am=50)</span>  
+:fas fa-users fa-fw: Open Consultation Hours <span class='badge'> [Thu Dec 2 2:30pm PT](https://www.timeanddate.com/worldclock/fixedtime.html?msg=CMPT-363+Open+Office+Hours+Consultations&iso=20211202T1430&p1=256&am=50)</span>  
 :fas fa-book fa-fw: [10 Principles for Color Usage in UI Design (8 minute read)](https://uxdesign.cc/10-principles-for-color-usage-in-ui-design-65174b213004)  
 :fas fa-book fa-fw: [7 Things Every Designer Needs to Know about Accessibility (14 minute read)](https://medium.com/salesforce-ux/7-things-every-designer-needs-to-know-about-accessibility-64f105f0881b)  
 :fas fa-keyboard fa-fw: [One-minute Summaries for Week 13](https://canvas.sfu.ca/courses/64326/discussion_topics) <span class='badge'> [Wed Dec 1 11:59pm PT](https://www.timeanddate.com/worldclock/fixedtime.html?msg=One-minute+Summaries+for+Week+13+Due+Date&iso=20211201T235900&p1=256)</span>  

@@ -10,7 +10,7 @@
 * [How to explore and describe possible design solutions? (Week 9)](#week-9)
 * [How to plan, conduct, and summarize usability tests? (Week 10)](#week-10)
 * [What are the essentials of visual interface design? (Week 12)](#week-12)
-* [Special topic - visual interface design / Open office hours consultations (Week 13)](#week-13)
+* [Special topic - visual interface design / Open Consultation Hours (Week 13)](#week-13)
 
 ## Week 2
 ### What is usability and user experience design?
