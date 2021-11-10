@@ -50,4 +50,4 @@ Thursday 3:30-4:00pm PT (not Nov 11th)
 
 No regularly scheduled Blackboard Collaborate sessions.  
 
-Zoom group meetings between 12:00pm and 4:00pm PT on Nov 19th, 20th and 21st.
+Zoom group meetings between 12:00pm and 4:00pm PT on Nov 16th, 17th and 18th.
