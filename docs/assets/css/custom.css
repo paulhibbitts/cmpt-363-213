@@ -96,3 +96,8 @@ body .app-nav {
    }
 
 }
+
+.markdown-section .badge {
+  vertical-align: middle;
+  margin-top: -0.4em;
+}
