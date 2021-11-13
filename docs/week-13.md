@@ -3,7 +3,7 @@
 # Special topic — visual interface design
 
 ## Open Consultation Hours
-No regularly scheduled Thursday Blackboard Collaborate session.  
+No regularly scheduled Thursday Blackboard Collaborate review and discussion session.  
 
 Open Consultation Hours during Thursday's regular Blackboard Collaborate session time, additional sessions may also be available. Adobe XD or Figma technical support will not be offered, please refer to the assignment resources for assistance below.
 
