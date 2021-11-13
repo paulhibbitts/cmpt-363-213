@@ -106,3 +106,7 @@ body .app-nav {
   padding: 10px;
   line-height: 1.2rem;
 }
+
+body .pagination-item-title {
+    color: #A6192E;
+}
