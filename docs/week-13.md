@@ -23,6 +23,29 @@ No visual journal entry this week.
 
 <div class="video-container-16by9"><iframe src="https://docs.google.com/presentation/d/e/2PACX-1vQTVjy5QLeBSkKsjEdm4ejtE7A8k8lohb6ARn2_tnThJIRvWPBV0XmsBuqjh85B3iaiEpUqpH4yjbHu/embed?start=false&loop=false&delayms=3000" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe></div>
 
+## Assignment Resources  
+
+Adobe XD  
+_Desktop app interactive prototying tool._
+*   [Adobe XD Downloads](https://www.adobe.com/ca/products/xd.html)
+*   [23 Useful Adobe XD Tips, Tricks and Tutorials](https://bashooka.com/resources/adobe-xd-tips-tricks-and-tutorials/)
+*   [Adobe XD tutorials](https://helpx.adobe.com/ca/xd/tutorials.html)
+*   [FontAwesome Adobe Experience Design - Adobe XD](https://github.com/boraunal/FontAwesome-AdobeExperience-Design-XD)
+*   [Learning the basics of Adobe XD in one hour](https://medium.com/drill/learning-the-basics-of-adobe-xd-in-one-hour-3537f3ac02a3)  
+*   [Repeat Grid](https://www.xdguru.com/adobe-xd-guide/repeat-grid/)
+*   [UX & Web Design tutorial: Adobe XD for Beginners](https://www.digitalartsonline.co.uk/tutorials/interactive-design/adobe-xd-for-beginners/)
+*   [Working with Symbols in Adobe XD](https://medium.com/@Jonthanjosh/working-with-symbols-in-adobe-xd-6363a999a1d)
+
+Figma  
+_Web-based interactive prototying tool._
+*   [Figma Web App](https://www.figma.com/)
+*   [Figma Help Centre](https://help.figma.com/hc/en-us)
+*   [10 tips on using components in Figma](https://medium.com/design-with-figma/10-tips-on-using-components-in-figma-c7db9c5e7fe1)
+*   [Figma 101: An introduction tutorial](https://www.youtube.com/watch?v=cCNLD5IZY34)
+*   [Figma tips and tricks](https://blog.prototypr.io/figma-tips-and-tricks-1c07ec13b696)  
+*   [Figma Tutorial: How (and Why) To Use It For Your Next Project](https://snipcart.com/blog/how-to-use-figma-tutorial)  
+*   [Figma UI Design Tutorial: Get Started in Just 24 Minutes! (2021)](https://www.youtube.com/watch?v=FTFaQWZBqQ8)  
+
 ## Supplemental Readings  
 
 [Accessibility](ux-techniques-guide/04.how-to-bridge-the-gap-between-the-problem-space-and-design-space/accessibility.md ':include')
