@@ -35,4 +35,8 @@
       color: #CC0633;
   }
 
+  .markdown-section  #docsify-darklight-theme {
+      visibility: visible;
+  }
+
 </style>
