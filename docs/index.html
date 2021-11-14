@@ -9,13 +9,16 @@
     <link rel="icon" href="assets/favicon/favicon.png">
 
     <!-- Stylesheets -->
-    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/docsify-themeable@0/dist/css/theme-simple.css" title="Simple">
+    <link rel="stylesheet" href="//cdn.jsdelivr.net/npm/docsify-darklight-theme@3/dist/docsify-themeable/style.min.css" type="text/css">
+
+    <!-- docsify-themeable styles-->
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/docsify-themeable@0/dist/css/theme-simple.css" title="light">
+    <link rel="stylesheet alternative" href="https://cdn.jsdelivr.net/npm/docsify-themeable@0/dist/css/theme-simple-dark.css" title="dark">
+
+    <style>#docsify-darklight-theme {right: 35px;margin-top: 20px;}</style>
+
     <link rel="stylesheet" href="assets/css/theme.css">
     <link rel="stylesheet" href="assets/css/custom.css">
-
-    <!-- Alternate Stylesheets -->
-    <link rel="stylesheet alternate" href="https://cdn.jsdelivr.net/npm/docsify-themeable@0/dist/css/theme-defaults.css" title="Defaults">
-    <link rel="stylesheet alternate" href="https://cdn.jsdelivr.net/npm/docsify-themeable@0/dist/css/theme-simple-dark.css" title="Simple Dark">
 
     <!-- Font Awesome Stylesheets -->
     <link rel="stylesheet" href="https://unpkg.com/@fortawesome/fontawesome-free/css/fontawesome.css" />
@@ -78,17 +81,17 @@
         --sidebar-background: #F5F5F5;
         --sidebar-name-color: #CC0633;
         --sidebar-name-font-weight: 600;
-        --sidebar-nav-link-color: #6D6F71;
+        --sidebar-nav-link-color: #7A7A7A;
         --sidebar-nav-link-color--active: #CC0633;
         --sidebar-nav-link-border-color--active: #CC0633;
-        --sidebar-nav-strong-color: #6D6F71;
+        --sidebar-nav-strong-color: #7A7A7A;
         --sidebar-nav-strong-border-color: #C8CCD0;
         --sidebar-nav-pagelink-background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='7' height='11.2' viewBox='0 0 7 11.2'%3E%3Cpath d='M1.5 1.5l4 4.1 -4 4.1' stroke-width='1.5' stroke='%236D6F71' fill='none' stroke-linecap='square' stroke-linejoin='miter' vector-effect='non-scaling-stroke'/%3E%3C/svg%3E");
         --sidebar-nav-pagelink-background-image--active  : url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='11.2' height='7' viewBox='0 0 11.2 7'%3E%3Cpath d='M1.5 1.5l4.1 4 4.1-4' stroke-width='1.5' stroke='%23CC0633' fill='none' stroke-linecap='square' stroke-linejoin='miter' vector-effect='non-scaling-stroke'/%3E%3C/svg%3E");
         --sidebar-nav-pagelink-background-image--collapse: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='7' height='11.2' viewBox='0 0 7 11.2'%3E%3Cpath d='M1.5 1.5l4 4.1 -4 4.1' stroke-width='1.5' stroke='%23CC0633' fill='none' stroke-linecap='square' stroke-linejoin='miter' vector-effect='non-scaling-stroke'/%3E%3C/svg%3E");
         --sidebar-nav-pagelink-background-image--loaded  : url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='11.2' height='7' viewBox='0 0 11.2 7'%3E%3Cpath d='M1.5 1.5l4.1 4 4.1-4' stroke-width='1.5' stroke='%23CC0633' fill='none' stroke-linecap='square' stroke-linejoin='miter' vector-effect='non-scaling-stroke'/%3E%3C/svg%3E");
 
-        --navbar-root-color: #6D6F71;
+        --navbar-root-color: #7A7A7A;
         --navbar-root-color--active: #CC0633;
 
       }
@@ -168,8 +171,39 @@
               crossChapterText: true,
             },
 
-          // CUSTOM PLUGINS
-          // -----------------------------------------------------------------
+            darklightTheme: {
+              defaultTheme: "light",
+              dark: {
+                accent: "#727cf5",
+                toogleBackground: "#ffffff",
+                coverBackground: "#091a28",
+                background: "#091a28",
+                textColor: "#b4b4b4",
+                codeTextColor: "#ffffff",
+                codeBackgroundColor: "#0e2233",
+                borderColor: "#0d2538",
+                blockQuoteColor: "#858585",
+                highlightColor: "#ff9121",
+                sidebarSublink: "#b4b4b4",
+                codeTypeColor: "#ffffff",
+              },
+              light: {
+                accent: "#727cf5",
+                toogleBackground: "#091a28",
+                coverBackground: "#ffffff",
+                background: "#ffffff",
+                textColor: "#34495e",
+                codeTextColor: "#525252",
+                codeBackgroundColor: "#f8f8f8",
+                borderColor: "rgba(0, 0, 0, 0.07)",
+                blockQuoteColor: "#858585",
+                highlightColor: "#e96900",
+                sidebarSublink: "#b4b4b4",
+                codeTypeColor: "#091a28",
+              },
+            },
+
+          // CUSTOM PLUGINS          // -----------------------------------------------------------------
           plugins: [
             function (hook, vm) {
               hook.beforeEach(function (html) {
@@ -230,6 +264,21 @@
     <script src="//unpkg.com/docsify-pagination/dist/docsify-pagination.min.js"></script>
 
     <script async src="//cdn.embedly.com/widgets/platform.js" charset="UTF-8"></script>
+
+    <script>
+      if (!(getURLParameterByName('embedded') === 'true')) {
+        console.log("not embedded 1");
+        var sc = document.createElement("script");
+        sc.setAttribute("src", "https://cdn.jsdelivr.net/npm/docsify-darklight-theme@3/dist/docsify-themeable/main.min.js");
+        sc.setAttribute("type", "text/javascript");
+        document.head.appendChild(sc);
+      }
+    </script>
+
+    <script
+        src="//cdn.jsdelivr.net/npm/docsify-darklight-theme@3/dist/docsify-themeable/index.min.js"
+        type="text/javascript">
+    </script>
 
 </body>
 </html>

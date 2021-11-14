@@ -33,11 +33,12 @@ body {
 body .app-nav {
   font-family: "Lato", "Helvetica Neue", Arial, sans-serif;
   font-size: 16px;
+  line-height: 1.4;
   margin-right: -10px;
 }
 
 .app-nav:not(:empty)~main .markdown-section {
-  padding-top: 5.5rem;
+  padding-top: 6.5rem;
 }
 
 .markdown-section h1 {
