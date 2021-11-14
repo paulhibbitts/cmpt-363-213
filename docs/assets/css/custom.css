@@ -11,7 +11,6 @@ body .markdown-section {
   font-family: "Lato", "Helvetica Neue", Arial, sans-serif;
   font-size: 16px;
   line-height: 1.4;
-  margin-right: -10px;
 }
 
 .markdown-section blockquote {
@@ -34,6 +33,7 @@ body {
 body .app-nav {
   font-family: "Lato", "Helvetica Neue", Arial, sans-serif;
   font-size: 16px;
+  margin-right: -10px;
 }
 
 .app-nav:not(:empty)~main .markdown-section {
