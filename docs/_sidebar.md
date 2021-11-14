@@ -25,14 +25,14 @@
 <style>
   :root {
 
-    --link-color: #A6192E;
+    --link-color: #CC0633;
     --link-text-decoration: none;
     --link-text-decoration--hover: underline;
 
   }
 
   body .pagination-item-title {
-      color: #A6192E;
+      color: #CC0633;
   }
 
 </style>
