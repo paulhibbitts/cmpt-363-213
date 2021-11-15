@@ -112,3 +112,12 @@ body .app-nav {
 .markdown-section  #docsify-darklight-theme {
     visibility: hidden;
 }
+
+.markdown-section .badge {
+  color: var(--codeBackgroundColor);
+  background-color: var(--blockQuoteColor);
+}
+
+.markdown-section .badge a {
+  color: var(--codeBackgroundColor);
+}
