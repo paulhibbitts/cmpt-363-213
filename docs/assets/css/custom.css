@@ -113,6 +113,7 @@ body .app-nav {
     visibility: hidden;
 }
 
+/*
 .markdown-section .badge {
   color: var(--codeBackgroundColor);
   background-color: var(--blockQuoteColor);
@@ -126,3 +127,4 @@ body .app-nav {
   color: var(--codeBackgroundColor);
   background: var(--blockQuoteColor);
 }
+*/
