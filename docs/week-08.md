@@ -2,10 +2,10 @@
 
 # How to bridge the gap between the problem and design space?
 
-## Open Consultation Hours
+## Open Consultation Session
 No regularly scheduled Thursday Blackboard Collaborate session.  
 
-Open Consultation Hours during Thursday's Review and Discussion Blackboard Collaborate session time. We will use either Zoom or my [Whereby.com](https://whereby.com/) room for this session, URL will be provided.
+Open Consultation Session during Thursday's Review and Discussion Blackboard Collaborate session time. We will use either Zoom or my [Whereby.com](https://whereby.com/) room for this session, URL will be provided.
 
 ## One-minute Summaries & Questions
 [Leveraging Mental Models in Product Design](https://canvas.sfu.ca/courses/64326/assignments/662744) <span class='badge'>[Wed Oct 27 11:59pm PT](https://www.timeanddate.com/worldclock/fixedtime.html?msg=One-minute+Summaries+for+Week+8+Due+Date&iso=20211027T235900&p1=256)</span>  
