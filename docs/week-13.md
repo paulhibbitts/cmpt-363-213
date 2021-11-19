@@ -5,9 +5,9 @@
 ## Open Consultation Hours
 No regularly scheduled Thursday Blackboard Collaborate review and discussion session.
 
-Open Consultation Hours are where students can ask more in-depth questions and consult with me regarding assignments, application of course materials, design challenges, etc. While students would not show draft assignment materials, almost anything else is possible in these group sessions, such as other comparative work examples, possible approaches to design challenges, etc. These sessions will not be recorded, but I will try to include key observations/insights/etc. via these sessions in follow-up weekly review and discussion sessions (which are recorded).
+Open Consultation Hours are where students can ask more in-depth questions and consult with me regarding assignments, application of course materials, design challenges, etc. While students would not show draft assignment materials, almost anything else is possible in these group sessions, such as other comparative work examples, possible approaches to design challenges, etc. These sessions will not be recorded, but I will try to include key observations/insights/etc. via these sessions in follow-up weekly review and discussion sessions.
 
-Adobe XD or Figma technical support will not be offered, please refer to the assignment resources for assistance below.
+Adobe XD or Figma technical support will not be offered, please refer to the assignment resources below.
 
 ## One-minute Summaries & Questions
 [10 Principles for Color Usage in UI Design](https://canvas.sfu.ca/courses/64326/assignments/662741) <span class='badge'> [Wed Dec 1 11:59pm PT](https://www.timeanddate.com/worldclock/fixedtime.html?msg=One-minute+Summaries+for+Week+13+Due+Date&iso=20211201T235900&p1=256)</span>  
