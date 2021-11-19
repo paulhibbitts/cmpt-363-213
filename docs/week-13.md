@@ -2,10 +2,10 @@
 
 # Special topic — visual interface design
 
-## Open Consultation Hours
+## Open Consultation Session
 No regularly scheduled Thursday Blackboard Collaborate review and discussion session.
 
-Open Consultation Hours are where students can ask more in-depth questions and consult with me regarding assignments, application of course materials, design challenges, etc. While students would not show draft assignment materials, almost anything else is possible in these group sessions, such as other comparative work examples, possible approaches to design challenges, etc. This session will not be recorded.
+Open Consultation Sessions are when students can get together online and ask more in-depth questions and consult with me regarding assignments, application of course materials, design challenges, etc. While students would not show draft assignment materials, almost anything else is possible in these group sessions, such as other comparative work examples, possible approaches to design challenges, etc. This session will not be recorded.
 
 Adobe XD or Figma technical support will not be offered, please refer to the assignment resources below.
 
