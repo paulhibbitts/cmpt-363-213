@@ -2,9 +2,24 @@
 
 # What’s Happening This Week 💫
 
-### Instructor Scenarios and Wireframes Feedback Meetings
+## What are the essentials of visual interface design?
 
-No regularly scheduled Blackboard Collaborate sessions.  
+### Live Sessions
+
+* [Blackboard Mini-lectures and Activities](https://canvas.sfu.ca/courses/64326/external_tools/3544) <span class='badge'> [Tue Nov 23 2:30pm PT](https://www.timeanddate.com/worldclock/fixedtime.html?msg=CMPT-363+Mini-lectures+and+Activities&iso=202111232T1430&p1=256&ah=1&am=50)</span>
+* [Blackboard Review and Discussion](https://canvas.sfu.ca/courses/64326/external_tools/3544) <span class='badge'> [Thu Nov 25 2:30pm PT](https://www.timeanddate.com/worldclock/fixedtime.html?msg=CMPT-363+Review+and+Discussion&iso=20211125T1430&p1=256&am=50)</span>
+
+### Important Reminders
+
+* [Group Design Scenarios and Storyboard Wireframes](https://canvas.sfu.ca/courses/64326/assignments/662760) <span class='badge'> [Mon Nov 22 11:59pm PT](https://www.timeanddate.com/worldclock/fixedtime.html?msg=CMPT-363+Group+Storyboard+Wireframes+Assignment+Due+Date&iso=20211122T2359&p1=256)</span>   
+* [Design Scenarios and Storyboard Group Participation Evaluation](https://canvas.sfu.ca/courses/64326/assignments/662761) <span class='badge'> [Tue Nov 23 11:59pm PT](https://www.timeanddate.com/worldclock/fixedtime.html?msg=CMPT-363+Group+User+Research+Report+Assignment+Due+Date&iso=20211123T2359&p1=256)</span>
+
+### Required Readings & One-Minute Summaries
+* [5 Principles of Visual Design in UX](https://canvas.sfu.ca/courses/64326/assignments/662740) <span class='badge'> [Wed Nov 24 11:59pm PT](https://www.timeanddate.com/worldclock/fixedtime.html?msg=One-minute+Summaries+for+Week+12+Due+Date&iso=20211124T235900&p1=256)</span>  
+* [Visual Hierarchy: Organizing content to follow natural eye movement patterns](https://canvas.sfu.ca/courses/64326/assignments/662739) <span class='badge'> [Wed Nov 24 11:59pm PT](https://www.timeanddate.com/worldclock/fixedtime.html?msg=One-minute+Summaries+for+Week+12+Due+Date&iso=20211124T235900&p1=256)</span>  
+* [Fundamentals of typography in user interface design (UI)](https://canvas.sfu.ca/courses/64326/assignments/662734) <span class='badge'> [Wed Nov 24 11:59pm PT](https://www.timeanddate.com/worldclock/fixedtime.html?msg=One-minute+Summaries+for+Week+12+Due+Date&iso=20211124T235900&p1=256)</span>  
+
+[Week 12 Visual Journal Entry due Nov 26](https://canvas.sfu.ca/courses/64326/assignments/662765 ':class=button')
 
 </div>
 
@@ -14,15 +29,15 @@ No regularly scheduled Blackboard Collaborate sessions.
 <div class="column">
 
 Chat-only Office Hours:  
-Monday 12:00-12:30pm PT (not Nov 15th)  
-Wednesday 12:00-12:30pm PT (not Nov 17th)  
+Monday 12:00-12:30pm PT   
+Wednesday 12:00-12:30pm PT  
 
 </div>
 <div class="column">
 
 Audio Call One-on-One Office Hours:  
-Tuesday 1:30-2:00pm PT (not Nov 16th)  
-Thursday 3:30-4:00pm PT (not Nov 18th)   
+Tuesday 1:30-2:00pm PT  
+Thursday 3:30-4:00pm PT  
 
 </div>
 </div>
@@ -31,12 +46,13 @@ Thursday 3:30-4:00pm PT (not Nov 18th)
 
 # Looking Ahead to Next Week🔭
 
-## What are the essentials of visual interface design?
+## Special topic — visual interface design
 
 ### Live Sessions
 
-* [Blackboard Mini-lectures and Activities](https://canvas.sfu.ca/courses/64326/external_tools/3544) <span class='badge'> [Tue Nov 23 2:30pm PT](https://www.timeanddate.com/worldclock/fixedtime.html?msg=CMPT-363+Mini-lectures+and+Activities&iso=202111232T1430&p1=256&ah=1&am=50)</span>
-* [Blackboard Review and Discussion](https://canvas.sfu.ca/courses/64326/external_tools/3544) <span class='badge'> [Thu Nov 25 2:30pm PT](https://www.timeanddate.com/worldclock/fixedtime.html?msg=CMPT-363+Review+and+Discussion&iso=20211125T1430&p1=256&am=50)</span>
+* [Blackboard Mini-lectures and Activities](https://canvas.sfu.ca/courses/64326/external_tools/3544) <span class='badge'> [Tue Nov 30 2:30pm PT](https://www.timeanddate.com/worldclock/fixedtime.html?msg=CMPT-363+Mini-lectures+and+Activities&iso=202111302T1430&p1=256&ah=1&am=50)</span>
+* [Zoom Open Consultation Session](https://www2.cs.sfu.ca/CourseCentral/363/paulh/zoom-open-office-consultation-hours-213) <span class='badge'> [Thu Dec 2 8:30am PT](https://www.timeanddate.com/worldclock/fixedtime.html?msg=CMPT-363+Zoom+Open+Consultation+Hours&iso=20211202T0830&p1=256&am=50)</span>
+* [Zoom Open Consultation Session](https://www2.cs.sfu.ca/CourseCentral/363/paulh/zoom-open-office-consultation-hours-213) <span class='badge'> [Thu Dec 2 2:30pm PT](https://www.timeanddate.com/worldclock/fixedtime.html?msg=CMPT-363+Zoom+Open+Consultation+Hours&iso=20211202T1430&p1=256&am=50)</span>
 
 ### Required Readings  
 * [5 Principles of Visual Design in UX (10 minute read)](https://www.nngroup.com/articles/principles-visual-design/)  
