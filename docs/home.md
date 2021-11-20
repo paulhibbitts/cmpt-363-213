@@ -51,8 +51,8 @@ Thursday 3:30-4:00pm PT
 ### Live Sessions
 
 * [Blackboard Mini-lectures and Activities](https://canvas.sfu.ca/courses/64326/external_tools/3544) <span class='badge'> [Tue Nov 30 2:30pm PT](https://www.timeanddate.com/worldclock/fixedtime.html?msg=CMPT-363+Mini-lectures+and+Activities&iso=202111302T1430&p1=256&ah=1&am=50)</span>
-* [Zoom Open Consultation Session](https://www2.cs.sfu.ca/CourseCentral/363/paulh/zoom-open-office-consultation-hours-213) <span class='badge'> [Thu Dec 2 8:30am PT](https://www.timeanddate.com/worldclock/fixedtime.html?msg=CMPT-363+Zoom+Open+Consultation+Hours&iso=20211202T0830&p1=256&am=50)</span>
-* [Zoom Open Consultation Session](https://www2.cs.sfu.ca/CourseCentral/363/paulh/zoom-open-office-consultation-hours-213) <span class='badge'> [Thu Dec 2 2:30pm PT](https://www.timeanddate.com/worldclock/fixedtime.html?msg=CMPT-363+Zoom+Open+Consultation+Hours&iso=20211202T1430&p1=256&am=50)</span>
+* [Zoom Open Consultation Session](https://www2.cs.sfu.ca/CourseCentral/363/paulh/zoom-open-office-consultation-hours-213) (not recorded) <span class='badge'> [Thu Dec 2 8:30am PT](https://www.timeanddate.com/worldclock/fixedtime.html?msg=CMPT-363+Zoom+Open+Consultation+Hours&iso=20211202T0830&p1=256&am=50)</span>
+* [Zoom Open Consultation Session](https://www2.cs.sfu.ca/CourseCentral/363/paulh/zoom-open-office-consultation-hours-213) (not recorded) <span class='badge'> [Thu Dec 2 2:30pm PT](https://www.timeanddate.com/worldclock/fixedtime.html?msg=CMPT-363+Zoom+Open+Consultation+Hours&iso=20211202T1430&p1=256&am=50)</span>
 
 ### Required Readings  
 * [5 Principles of Visual Design in UX (10 minute read)](https://www.nngroup.com/articles/principles-visual-design/)  
