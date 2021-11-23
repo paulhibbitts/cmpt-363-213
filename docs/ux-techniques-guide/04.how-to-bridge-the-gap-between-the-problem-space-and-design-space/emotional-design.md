@@ -1,6 +1,7 @@
 Emotional Design  
 _Creating experiences that are emotional appealing to people._
 
+*   [A guide to effective emotional design](https://uxdesign.cc/a-guide-to-effective-emotional-design-4b66cf1fb49)
 *   [Design for Emotion: Expert Tips by Aarron Walter](https://uxplanet.org/design-for-emotion-expert-tips-by-aarron-walter-2f847e75a962)
 *   [Design for Emotions: Experiences & Interfaces](https://uxplanet.org/design-for-emotions-experiences-interfaces-1244cd6795d7)
 *   [Design for Emotion and Flow](http://www.boxesandarrows.com/view/design-for-emotion)  
