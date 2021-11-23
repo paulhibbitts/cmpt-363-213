@@ -11,8 +11,8 @@
 
 ### Important Reminders
 
-* [Group Design Scenarios and Storyboard Wireframes](https://canvas.sfu.ca/courses/64326/assignments/662760) <span class='badge'> [Mon Nov 22 11:59pm PT](https://www.timeanddate.com/worldclock/fixedtime.html?msg=CMPT-363+Group+Storyboard+Wireframes+Assignment+Due+Date&iso=20211122T2359&p1=256)</span>   
 * [Design Scenarios and Storyboard Group Participation Evaluation](https://canvas.sfu.ca/courses/64326/assignments/662761) <span class='badge'> [Tue Nov 23 11:59pm PT](https://www.timeanddate.com/worldclock/fixedtime.html?msg=CMPT-363+Group+User+Research+Report+Assignment+Due+Date&iso=20211123T2359&p1=256)</span>
+* [Individual High-fidelity Prototype](https://canvas.sfu.ca/courses/64326/assignments/662759) <span class='badge'> [Mon Dec 6 11:59pm PT](https://www.timeanddate.com/worldclock/fixedtime.html?msg=CMPT-363+High-fidelity+Prototype+Due+Date&iso=20211206T2359&p1=256)</span>  
 
 ### Required Readings & One-Minute Summaries
 * [5 Principles of Visual Design in UX](https://canvas.sfu.ca/courses/64326/assignments/662740) <span class='badge'> [Wed Nov 24 11:59pm PT](https://www.timeanddate.com/worldclock/fixedtime.html?msg=One-minute+Summaries+for+Week+12+Due+Date&iso=20211124T235900&p1=256)</span>  
@@ -58,3 +58,5 @@ Thursday 3:30-4:00pm PT
 * [5 Principles of Visual Design in UX (10 minute read)](https://www.nngroup.com/articles/principles-visual-design/)  
 * [Visual Hierarchy: Organizing content to follow natural eye movement patterns (13 minute read)](https://www.interaction-design.org/literature/article/visual-hierarchy-organizing-content-to-follow-natural-eye-movement-patterns)  
 * [Fundamentals of typography in user interface design (UI) (7 minute read)](https://uxdesign.cc/fundamentals-of-typography-in-user-interface-design-ui-67cdd13bfa24)  
+
+No visual journal entry this week.
