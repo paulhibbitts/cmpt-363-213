@@ -11,7 +11,6 @@
 
 ### Important Reminders
 
-* [Design Scenarios and Storyboard Group Participation Evaluation](https://canvas.sfu.ca/courses/64326/assignments/662761) <span class='badge'> [Tue Nov 23 11:59pm PT](https://www.timeanddate.com/worldclock/fixedtime.html?msg=CMPT-363+Group+User+Research+Report+Assignment+Due+Date&iso=20211123T2359&p1=256)</span>
 * [Individual High-fidelity Prototype](https://canvas.sfu.ca/courses/64326/assignments/662759) <span class='badge'> [Mon Dec 6 11:59pm PT](https://www.timeanddate.com/worldclock/fixedtime.html?msg=CMPT-363+High-fidelity+Prototype+Due+Date&iso=20211206T2359&p1=256)</span>  
 
 ### Required Readings & One-Minute Summaries
