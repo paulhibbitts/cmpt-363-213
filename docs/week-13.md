@@ -5,6 +5,7 @@
 ## One-minute Summaries & Questions
 [10 Principles for Color Usage in UI Design](https://canvas.sfu.ca/courses/64326/assignments/662741) <span class='badge'> [Wed Dec 1 11:59pm PT](https://www.timeanddate.com/worldclock/fixedtime.html?msg=One-minute+Summaries+for+Week+13+Due+Date&iso=20211201T235900&p1=256)</span>  
 [7 Things Every Designer Needs to Know about Accessibility](https://canvas.sfu.ca/courses/64326/assignments/662742) <span class='badge'> [Wed Dec 1 11:59pm PT](https://www.timeanddate.com/worldclock/fixedtime.html?msg=One-minute+Summaries+for+Week+13+Due+Date&iso=20211201T235900&p1=256)</span>  
+[Compelling and Moving – A Guide to Motion Design Principles](https://canvas.sfu.ca/courses/64326/assignments/714516) <span class='badge'> [Wed Dec 1 11:59pm PT](https://www.timeanddate.com/worldclock/fixedtime.html?msg=One-minute+Summaries+for+Week+13+Due+Date&iso=20211201T235900&p1=256)</span>  
 
 ## Weekly Visual Journal Entry
 No visual journal entry this week.  
@@ -12,6 +13,7 @@ No visual journal entry this week.
 ## Required Readings  
 [10 Principles for Color Usage in UI Design (8 minute read)](https://uxdesign.cc/10-principles-for-color-usage-in-ui-design-65174b213004)  
 [7 Things Every Designer Needs to Know about Accessibility (14 minute read)](https://medium.com/salesforce-ux/7-things-every-designer-needs-to-know-about-accessibility-64f105f0881b)  
+[Compelling and Moving – A Guide to Motion Design Principles (8 minute read)](https://www.toptal.com/designers/ux/motion-design-principles)  
 
 ## Open Consultation Sessions
 No regularly scheduled Blackboard Collaborate sessions.
