@@ -54,3 +54,5 @@ _Web-based interactive prototying tool._
 [Color](ux-techniques-guide/06.what-are-the-essentials-of-visual-design/color.md ':include')
 
 [Color Tools](ux-techniques-guide/06.what-are-the-essentials-of-visual-design/color-tools.md ':include')
+
+[Motion Design](ux-techniques-guide/06.what-are-the-essentials-of-visual-design/motion-design.md ':include')
