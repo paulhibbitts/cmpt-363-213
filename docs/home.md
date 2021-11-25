@@ -55,8 +55,8 @@ Thursday 3:30-4:00pm PT
 * [Zoom Open Consultation Session](https://www2.cs.sfu.ca/CourseCentral/363/paulh/zoom-open-office-consultation-hours-213) (not recorded) <span class='badge'> [Thu Dec 2 2:30pm PT](https://www.timeanddate.com/worldclock/fixedtime.html?msg=CMPT-363+Zoom+Open+Consultation+Hours&iso=20211202T1430&p1=256&am=50)</span>
 
 ### Required Readings  
-* [5 Principles of Visual Design in UX (10 minute read)](https://www.nngroup.com/articles/principles-visual-design/)  
-* [Visual Hierarchy: Organizing content to follow natural eye movement patterns (13 minute read)](https://www.interaction-design.org/literature/article/visual-hierarchy-organizing-content-to-follow-natural-eye-movement-patterns)  
-* [Fundamentals of typography in user interface design (UI) (7 minute read)](https://uxdesign.cc/fundamentals-of-typography-in-user-interface-design-ui-67cdd13bfa24)  
+* [10 Principles for Color Usage in UI Design (8 minute read)](https://uxdesign.cc/10-principles-for-color-usage-in-ui-design-65174b213004)  
+* [7 Things Every Designer Needs to Know about Accessibility (14 minute read)](https://medium.com/salesforce-ux/7-things-every-designer-needs-to-know-about-accessibility-64f105f0881b)  
+* [Compelling and Moving – A Guide to Motion Design Principles (8 minute read)](https://www.toptal.com/designers/ux/motion-design-principles)  
 
 No visual journal entry this week.
