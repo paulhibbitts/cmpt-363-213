@@ -112,8 +112,11 @@
 
 ## Week 13
 ### Special topic - visual interface design
-**10 Principles for Color Usage in UI Design (1 of 2 for Week 13)**  
+**10 Principles for Color Usage in UI Design (1 of 3 for Week 13)**  
 <div style="min-height: 430px;"><a class="embedly-card" data-card-controls="0" data-card-align="left" href="https://uxdesign.cc/10-principles-for-color-usage-in-ui-design-65174b213004">10 Principles for Color Usage in UI Design</a></div>
 
-**7 Things Every Designer Needs to Know about Accessibility (2 of 2 for Week 13)**  
+**7 Things Every Designer Needs to Know about Accessibility (2 of 3 for Week 13)**  
 <div style="min-height: 430px;"><a class="embedly-card" data-card-controls="0" data-card-align="left" href="https://medium.com/salesforce-ux/7-things-every-designer-needs-to-know-about-accessibility-64f105f0881b">7 Things Every Designer Needs to Know about Accessibility</a></div>
+
+**Compelling and Moving – A Guide to Motion Design Principles (3 of 3 for Week 13)**  
+<div style="min-height: 430px;"><a class="embedly-card" data-card-controls="0" data-card-align="left" href="https://www.toptal.com/designers/ux/motion-design-principles">Compelling and Moving – A Guide to Motion Design Principles</a></div>
