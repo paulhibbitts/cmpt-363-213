@@ -29,8 +29,8 @@ No visual journal entry this week.
 <div class="column">
 
 Chat-only Office Hours:  
-Monday 12:00-12:30pm PT (not on Nov 29th)   
-Wednesday 12:00-12:30pm PT (not on Dec 1st)   
+Monday 12:00-12:30pm PT  
+Wednesday 12:00-12:30pm PT   
 
 </div>
 <div class="column">
