@@ -178,13 +178,13 @@
 
 [Layout](ux-techniques-guide/06.what-are-the-essentials-of-visual-design/layout.md ':include')
 
+[Microcopy](ux-techniques-guide/06.what-are-the-essentials-of-visual-design/microcopy.md ':include')  
+
 [Motion Design](ux-techniques-guide/06.what-are-the-essentials-of-visual-design/motion-design.md ':include')
 
 [Terminology](ux-techniques-guide/06.what-are-the-essentials-of-visual-design/terminology.md ':include')
 
 [Typography](ux-techniques-guide/06.what-are-the-essentials-of-visual-design/typography.md ':include')
-
-[UI Copy Writing](ux-techniques-guide/06.what-are-the-essentials-of-visual-design/ui-copy-writing.md ':include')
 
 [Visual Design Principles (CRAP)](ux-techniques-guide/06.what-are-the-essentials-of-visual-design/visual-design-principles.md ':include')
 
