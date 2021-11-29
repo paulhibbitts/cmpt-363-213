@@ -2,6 +2,7 @@ User Research
 _The process of learning about the audience for your system or product._
 
 *   [10 diagrams to help you think straight about UX Research](https://www.userfocus.co.uk/articles/think-straight-about-UX-Research.html)
+*   [Building a framework for prioritizing user research](https://uxdesign.cc/building-a-framework-for-prioritizing-user-research-ed46622ead99)
 *   [Communicating User Research Findings](http://www.uxmatters.com/mt/archives/2012/02/communicating-user-research-findings.php)
 *   [Doing Research with People Who Are Not Users: Consultation](https://www.uxmatters.com/mt/archives/2017/08/doing-research-with-people-who-are-not-users-consultation.php)
 *   [From Research Goals to Usability-Testing Scenarios: A 7-Step Method](https://www.nngroup.com/articles/ux-research-goals-to-scenarios/)
