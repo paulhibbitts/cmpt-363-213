@@ -13,6 +13,7 @@
 ### Important Reminders
 
 * [Individual High-fidelity Prototype](https://canvas.sfu.ca/courses/64326/assignments/662759) <span class='badge'> [Mon Dec 6 11:59pm PT](https://www.timeanddate.com/worldclock/fixedtime.html?msg=CMPT-363+High-fidelity+Prototype+Due+Date&iso=20211206T2359&p1=256)</span>  
+* [Course Evaluation](https://sfu.bluera.com/SFU) <span class='badge'> [Tue Dec 7 11:59pm PT](https://www.timeanddate.com/worldclock/fixedtime.html?msg=CMPT-363+High-fidelity+Prototype+Due+Date&iso=20211207T2359&p1=256)</span>  
 
 ### Required Readings & One-Minute Summaries
 * [10 Principles for Color Usage in UI Design](https://canvas.sfu.ca/courses/64326/assignments/662741) <span class='badge'> [Wed Dec 1 11:59pm PT](https://www.timeanddate.com/worldclock/fixedtime.html?msg=One-minute+Summaries+for+Week+13+Due+Date&iso=20211201T235900&p1=256)</span>  
