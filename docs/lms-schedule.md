@@ -128,7 +128,7 @@ Open consultation sessions, no regularly scheduled Blackboard Collaborate sessio
 
 ## :fas fa-calendar fa-fw: [Week 14 (Dec 6 - 12)](https://canvas.sfu.ca/courses/64326/modules/items/2120574)
 **Course wrap-up**  
-:fas fa-check fa-fw: [Individual High-fidelity Prototype due](https://canvas.sfu.ca/courses/64326/assignments/662759) <span class='badge'> [Mon Dec 6 11:59pm PT](https://www.timeanddate.com/worldclock/fixedtime.html?msg=CMPT-363+High-fidelity+Prototype+Due+Date&iso=20211206T2359&p1=256)</span>  
+:fas fa-check fa-fw: [Individual High-fidelity Prototype due](https://canvas.sfu.ca/courses/64326/assignments/662759) <span class='badge'> [Tue Dec 7 11:59pm PT](https://www.timeanddate.com/worldclock/fixedtime.html?msg=CMPT-363+High-fidelity+Prototype+Due+Date&iso=20211207T2359&p1=256)</span>  
 :fas fa-desktop fa-fw: Course Wrap-up <span class='badge'> [Tue Dec 7 2:30pm PT](https://www.timeanddate.com/worldclock/fixedtime.html?msg=CMPT-363+Course+Wrap-up&iso=20211207T1430&p1=256&ah=1&am=50)</span>  
 :fas fa-keyboard fa-fw: No required readings or one-minute summaries   
 :fas fa-image fa-fw: No visual journal entry
