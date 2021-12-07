@@ -18,7 +18,7 @@ No visual journal entry this week.
 
 </div>
 
-![SFU in the Winter](images/3131951949_05f3db8b98_b.jpg ':class=banner-image')
+![SFU in the Winter](images/FF8J5MjXwA0S3UP.jpg ':class=banner-image')
 
 # Discord Office (Student) Hours ‍👩🏽‍💻👨🏽‍💻
 
