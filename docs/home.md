@@ -6,7 +6,7 @@
 
 ### Live Sessions
 
-[Blackboard Course Wrap-up](https://docs.google.com/presentation/d/e/2PACX-1vRdfDDdBLFcwOJ4qUNWlGzyffy8qmRVZ32nsNwjT_Y2RjaBiFskNiVZKyTEWODwQqU1A1G85HAG9PaL/pub?start=false&loop=false&delayms=3000) | [PDF](https://canvas.sfu.ca/courses/64326/files/folder/Downloads/Slides%20PDFs/Course%20Wrap-up) | [Recording](https://canvas.sfu.ca/courses/64326/external_tools/3544) (Look in Hamburger :fas fa-bars fa-fw:menu)  
+* [Blackboard Course Wrap-up](https://docs.google.com/presentation/d/e/2PACX-1vRdfDDdBLFcwOJ4qUNWlGzyffy8qmRVZ32nsNwjT_Y2RjaBiFskNiVZKyTEWODwQqU1A1G85HAG9PaL/pub?start=false&loop=false&delayms=3000) | [PDF](https://canvas.sfu.ca/courses/64326/files/folder/Downloads/Slides%20PDFs/Course%20Wrap-up) | [Recording](https://canvas.sfu.ca/courses/64326/external_tools/3544) (Look in Hamburger :fas fa-bars fa-fw:menu)  
 
 ### Important Reminders
 
