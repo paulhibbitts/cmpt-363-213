@@ -6,7 +6,7 @@
 
 ### Live Sessions
 
-* [Blackboard Course Wrap-up](https://canvas.sfu.ca/courses/64326/external_tools/3544) <span class='badge'> [Tue Dec 7 2:30pm PT](https://www.timeanddate.com/worldclock/fixedtime.html?msg=CMPT-363+Course+Wrapup&iso=202111232T1430&p1=256&am=30)</span>
+* [Blackboard Course Wrap-up](https://canvas.sfu.ca/courses/64326/external_tools/3544) <span class='badge'> [Tue Dec 7 2:30pm PT](https://www.timeanddate.com/worldclock/fixedtime.html?msg=CMPT-363+Course+Wrapup&iso=20211207T1430&p1=256&am=30)</span>
 
 ### Important Reminders
 
